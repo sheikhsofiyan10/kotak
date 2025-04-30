@@ -7,9 +7,11 @@ export default async function decorate (block) {
 }
 
 async function fetchData(block) {
-  const response = await fetch('https://publish-p110016-e1074395.adobeaemcloud.com/graphql/execute.json/santanderbank/OpenbankTeaserList')
-                            .then(res => res.clone().json())
-                            block.append(response.title);
-                            console.log(response);
+  const response = await fetch(
+  'https://publish-p110016-e1074395.adobeaemcloud.com/graphql/execute.json/santanderbank/OpenbankTeaserList',
+  {mode:"no-cors"}
+  ).then(res => res.clone().json())
+  block.append(response.title);
+  console.log(response);
 
 }
