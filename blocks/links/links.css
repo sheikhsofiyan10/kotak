@@ -1,0 +1,131 @@
+
+.links-container {
+  padding: 15px 30px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.links-wrapper {
+  flex: 1;
+  align-self: flex-start;
+  background: #fff;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 0 15px;
+  margin-bottom: 20px;
+}
+
+.image-with-icon img {
+  width: 70px;
+  height: 50px;
+  border-radius: 4px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  flex-shrink: 0;
+}
+
+.image-with-icon code {
+  font-family: Roboto, Arial, sans-serif;
+}
+
+.image-with-icon > div > div {
+  display: flex;
+  position: relative;
+}
+
+.image-with-icon > div > div > p {
+  margin: 10px;
+}
+
+.navigation .icon {
+  content: "";
+  border: solid #ee1c25;
+  border-width: 0 2px 2px 0;
+  display: inline-block;
+  padding: 4px;
+  position: absolute;
+  top: calc(50% - 18px);
+  right: 7px;
+  transform: rotate(-45deg);
+}
+
+.navigation > div:first-child > div > p {
+  font-weight: 600;
+  font-size: 16px;
+  color: #101010;
+  margin-bottom: 12px;
+}
+
+.navigation ul > li > a {
+  font-weight: 600;
+  font-size: 14px;
+  color: #ee1c25;
+  padding: 12px 8px 8px 0;
+  display: inline-block;
+}
+
+.navigation ul {
+  padding: 0;
+  list-style: none;
+}
+
+.navigation div a {
+  text-decoration: none;
+  transition: color 0.5s linear;
+  font-size: 14px;
+  color: #101010;
+  opacity: 0.87;
+}
+
+.navigation .icon-more-arow {
+  font-weight: bold;
+  color: red;
+  font-size: 15px;
+  -webkit-transition: color 0.5s linear;
+  transition: color 0.5s linear;
+}
+
+.navigation .icon-more-arow:before {
+  content: "\e907";
+}
+
+.image-with-icon .button-container {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  margin-right: 1.8rem;
+  margin-left: 8px;
+}
+
+.links.navigation.bullet div a {
+  color: #0f3464 !important;
+  font-size: 14px;
+  opacity: 0.87;
+}
+
+.navigation > div:not(:first-child):not(:last-child) {
+  border-bottom: 1px solid #ececec;
+  padding: 15px 0;
+}
+
+.navigation > div > div > p {
+  margin: 0;
+}
+
+.navigation > div:nth-last-child(2) {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+}
+
+.links.navigation.bullet > div > div > ul > li > a {
+  color: #ee1c25 !important;
+}
+
+.links.navigation > div > div > ul > li:hover > a,
+.links.navigation > div > div > ul > li:hover .icon-more-arow {
+  color: #036 !important;
+}

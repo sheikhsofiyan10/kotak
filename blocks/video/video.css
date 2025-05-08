@@ -1,0 +1,26 @@
+.more-information > div {
+  max-width: 1140px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+.more-information img {
+  width: 100%;
+  height: auto;
+}
+
+.col-1 > div,
+.col-2 > div {
+  background: #777;
+  border-radius: 5px;
+  padding: 30px;
+  min-height: 360px;
+}
+
+@media screen and (max-width: 992px) {
+  .container {
+    flex-direction: column;
+  }
+}

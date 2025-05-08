@@ -19,6 +19,8 @@
   --link-color: #3b63fb;
   --link-hover-color: #1d3ecf;
 
+  --heading-color: #0f3464;
+
   /* fonts */
   --body-font-family: roboto, roboto-fallback, sans-serif;
   --heading-font-family: roboto-condensed, roboto-condensed-fallback, sans-serif;
@@ -112,7 +114,11 @@ h6 {
   scroll-margin: 40px;
 }
 
-h1 { font-size: var(--heading-font-size-xxl); }
+h1 {
+font-size: var(--heading-font-size-xxl);
+color: var(--heading-color);
+font-size: 32.0px;
+ }
 h2 { font-size: var(--heading-font-size-xl); }
 h3 { font-size: var(--heading-font-size-l); }
 h4 { font-size: var(--heading-font-size-m); }

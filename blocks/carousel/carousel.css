@@ -1,0 +1,173 @@
+.owl-theme .carousel-wrapper {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .owl-theme .owl-theme{
+    border: 2px solid red;
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+
+  .owl-theme .carousel-item {
+    min-width: 100%;
+    box-sizing: border-box;
+    position: relative;
+  }
+
+  .owl-theme .carousel-image {
+    position: absolute;
+    width: 100%;
+    max-height: 100%;
+  }
+
+  .owl-theme .carousel img {
+    width: 100%;
+  }
+
+  .owl-theme .carousel-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+
+  .owl-theme .carousel-text {
+    width: 100%;
+    padding: 100px 50px;
+    z-index: 2;
+  }
+
+  .owl-theme .main-text {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(0, 31, 63);
+    max-width: 52%;
+    margin: 10px 0;
+    text-align: left;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 52px;
+  }
+
+  .owl-theme .sub-text {
+    max-width: 55%;
+    line-height: 22px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(0, 31, 63);
+    margin: 10px 0;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  .owl-theme .button-container {
+    text-align: left;
+    padding-top: 20px;
+    font-size: 18px;
+  }
+
+  .owl-theme .button {
+    font-size: 18px;
+    background: #ed4223;
+    color: #fff;
+    text-decoration: none;
+    font-family: Roboto, sans-serif;
+    padding: 10px 25px;
+    border-radius: 5px;
+  }
+
+  .owl-theme .carousel-content2 {
+   border: 2px solid green !important;
+    /* z-index: 200; */
+  }
+
+  .owl-theme .savings-btn {
+   border: 2px solid blue !important;
+    /* z-index: 20; */
+  }
+
+  /* For tablets and larger devices */
+  @media (min-width: 768px) and (max-width: 1024px) {
+    .owl-theme .main-text {
+      font-size: 36px;
+      line-height: 44px;
+      max-width: 70%;
+    }
+
+    .owl-theme .sub-text {
+      font-size: 14px;
+      line-height: 20px;
+      max-width: 70%;
+    }
+
+    .owl-theme .carousel-text {
+      padding: 50px 30px;
+    }
+
+    .owl-theme .button {
+      font-size: 16px;
+      padding: 8px 16px;
+    }
+  }
+
+  /* For mobile devices */
+  @media (max-width: 767px) {
+    .owl-theme .main-text {
+      display: none;
+    }
+
+    .owl-theme .sub-text {
+      font-size: 12px;
+      line-height: 18px;
+      max-width: 90%;
+    }
+
+    .owl-theme .carousel-text {
+      padding: 30px 20px;
+    }
+
+    .owl-theme .button {
+      font-size: 14px;
+      padding: 6px 12px;
+    }
+  }
+
+  .owl-theme .owl-dots {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex !important;
+  }
+
+  .owl-dots .owl-dot {
+    width: 8px;
+    height: 8px;
+    display: inline-block;
+    border: 2px solid red;
+    border-radius: 50%;
+    margin: 0 5px;
+  }
+
+  .owl-dots .owl-dot.active {
+    background-color: none;
+    border: 1.5px solid white;
+  }
+
+  .owl-nav {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-50%);
+  }
+
+  .owl-nav button span {
+    font-size: 50px;
+    height: 100%;
+    color: #999;
+    display: block;
+    width: 100%;
+  }

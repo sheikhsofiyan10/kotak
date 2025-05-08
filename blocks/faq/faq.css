@@ -1,0 +1,173 @@
+/*mobile */
+@media (width <= 900px)
+{
+	.faq-container .faq-wrapper
+{
+	margin: 0 16px !important; 
+}
+	#faqs {
+   font-size: 20px !important;
+        font-weight: 700 !important;
+        text-align: center !important;
+		
+    margin: 20px 0 0px 0 !important;
+}
+.faq-container .faq-wrapper .faq.block > div h3 
+	{
+		font-size: 16px !important;
+        font-weight: 700 !important;
+        line-height: 24px !important;
+	}
+	.clickArrow:before {
+    right: 28px !important;
+}
+	.faq-container
+	{
+		margin-bottom: 0 !important;
+	}
+	.faq-container >div.default-content-wrapper:last-of-type 
+	{
+		padding: 0 !important;
+	}
+	.faq-container p.button-container a 
+	{
+		width:100% !important;
+		display:block !important;
+	}
+
+.faq-container p.button-container 
+	{
+		max-width:60%;
+		width:100%;
+		margin:20px auto 30px auto  !important;
+		
+	}
+
+
+
+
+}
+
+
+
+#faqs
+{
+        font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    margin:0 0 10px 0;
+}
+.faq-container .faq-wrapper
+{
+    max-width:100%;
+    padding:0;
+    margin:0 100px;
+}
+.faq-container .faq-wrapper .faq.block > div  div:nth-of-type(2)
+{
+    max-height: 0;
+    overflow: hidden; 
+    width:92%;
+    transition: max-height 0.5s ease-in-out;
+}
+.show { 
+    max-height: 500px !important; 
+}
+.faq-container .faq-wrapper .faq.block > div  div:nth-of-type(2) p
+{
+        font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    color: #53565a;
+    margin-bottom: 0;
+}
+.faq-container .faq-wrapper .faq.block > div 
+{
+    border-bottom: 1px solid #cacbcc;
+    padding: 30px 0;
+}
+
+.faq-container .faq-wrapper .faq.block > div h3
+{
+    cursor:pointer;
+    width: 85%;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 23.4px;
+    margin: 0;
+}
+.clickparent
+{
+    display: flex;
+    justify-content: space-between;
+    cursor:pointer;
+}
+.clickArrow
+{
+     cursor:pointer;
+}
+.clickArrow:before 
+{
+    content: "";
+    background-image : url(../../icons/accordionarrow.svg);
+    width: 13px;
+    height: 13px;
+    background-position: 50%;
+    position: absolute;
+    background-repeat: no-repeat;
+    right:110px;
+}
+.clickArrowAfter
+{
+    cursor:pointer;
+    height: 48px;
+    width: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    background: #efefef;
+    border: 0;
+    margin-top: 0;
+/*     margin-right: -19px; */
+}
+.clickArrowAfter:before 
+{
+     content: "";
+    background-image : url(https://www.asianpaints.com/etc.clientlibs/apcolourcatalogue/components/content/faq/clientlibs/resources/images/cross-icon.svg);
+    width: 13px;
+    height: 13px;
+    background-position: 50%;
+    position: absolute;
+    background-repeat: no-repeat;   
+}
+
+.faq-container p.button-container
+{
+	margin:0;
+text-align:center;
+	margin-top:20px;
+}
+.faq-container p.button-container a 
+{
+	background: #431a80;
+    border: 1px solid #431a80;
+    color: #fff;
+    display: inline-block;
+    line-height: 16px;
+    padding: 16px 20px;
+    width: 100%;
+    width: 270px;
+    border-radius: 2px;
+    font-size: 13px;
+    letter-spacing: .86px;
+    cursor: pointer;
+    text-align: center;
+    font-weight: 600;
+    margin: 0;
+}
+.faq-container p.button-container a:hover 
+{
+	color: #fff;
+    background: #5e25b2;
+}

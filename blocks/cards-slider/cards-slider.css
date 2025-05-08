@@ -1,0 +1,80 @@
+
+.carausel-tabs li{
+    list-style: none;
+
+    padding: 16px;
+
+    background: #fff;
+    align-items: center;
+    /* width: 100%; */
+}
+
+.carausel-tabs li h4{
+
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    color: #333;
+}
+
+.carausel-tabs li p{
+    margin: 0;
+}
+
+
+
+.carausel-tabs .cards-card-body p {
+    font-size: 13px;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
+}
+
+
+.carausel-tabs li {
+    border: none;
+    display: flex;
+    flex-direction: column;
+}
+
+.carausel-tabs .cards-card-body h4 {
+    display: none;
+}
+
+.carausel-tabs .cards-card-image img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 1px solid #eee;
+    text-align: center;
+    display: flex;
+
+}
+.carausel-tabs {
+    width: auto !important;
+    position: relative;
+}
+.carausel-tabs .owl-nav button span {
+    font-size: 52px;
+}
+
+.carausel-tabs .owl-nav button {
+    position: absolute;
+    top: -70px !important;
+    // transform: translateY(-39%);
+}
+
+.carausel-tabs button.owl-prev {
+    left: 0;
+}
+.carausel-tabs button.owl-next {
+    right: 0;
+}
+
+.carausel-tabs .owl-carousel {
+    padding-left: 0;
+    margin-left: 0;
+}

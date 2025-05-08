@@ -500,6 +500,45 @@ function decorateSections(main) {
 }
 
 /**
+ * Gets placeholders object.
+ * @param {string} [prefix] Location of placeholders
+ * @returns {object} Window placeholders object
+ */
+// eslint-disable-next-line import/prefer-default-export
+export async function fetchPlaceholders(prefix = 'default') {
+  window.placeholders = window.placeholders || {};
+  const loaded = window.placeholders[`${prefix}-loaded`];
+  const languagePath = getLanguagePath();
+
+  if (!loaded) {
+    window.placeholders[`${prefix}-loaded`] = new Promise((resolve, reject) => {
+      try {
+        fetch(`${prefix === 'default' ? '' : prefix}${languagePath}/placeholders.json`)
+          .then((resp) => resp.json())
+          .then((json) => {
+            const placeholders = {};
+            json.data.forEach((placeholder) => {
+              placeholders[toCamelCase(placeholder.Key)] = placeholder.Text;
+            });
+            window.placeholders[prefix] = placeholders;
+            resolve();
+          })
+          .catch(() => {
+            window.placeholders[prefix] = {};
+            resolve();
+          });
+      } catch (error) {
+        // error loading placeholders
+        window.placeholders[prefix] = {};
+        reject();
+      }
+    });
+  }
+  await window.placeholders[`${prefix}-loaded`];
+  return window.placeholders[prefix];
+}
+
+/**
  * Builds a block DOM Element from a two dimensional array, string, or object
  * @param {string} blockName name of the block
  * @param {*} content two dimensional array or string or object of content
