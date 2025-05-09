@@ -63,7 +63,7 @@
 
 .carausel-tabs .owl-nav button {
     position: absolute;
-    top: -70px !important;
+    top: 48px !important;
     // transform: translateY(-39%);
 }
 
