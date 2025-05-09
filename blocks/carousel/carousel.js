@@ -30,7 +30,7 @@ export default function decorate(block) {
     }
 }
 
-// Initialize the carousel with jQuery
+
 // Initialize the carousel with jQuery
 $(document).ready(function() {
     $(".owl-carousel").owlCarousel({
