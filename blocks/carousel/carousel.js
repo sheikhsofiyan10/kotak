@@ -2,85 +2,63 @@ import { createOptimizedPicture } from '../../scripts/aem.js';
 
 export default function decorate(block) {
     // Create the main carousel div
-    const div = document.createElement('div');
-    div.className = 'owl-carousel owl-theme';
+    // Add class to the carousel wrapper
+        document.querySelector(".carousel-wrapper").classList.add("owl-theme");
 
-    // Iterate over each child of the block
-    [...block.children].forEach((row) => {
-        const item = document.createElement('div');
-        item.className = 'item carousel-item';
+        // Add class to the carousel block
+        document.querySelector(".carousel.block").classList.add("owl-theme");
 
-        // Move all children of the row to the item
-        while (row.firstElementChild) item.append(row.firstElementChild);
+        // Add classes to the first set of divs and picture elements
+        let firstDivs = document.querySelectorAll(".carousel.block > div:nth-of-type(1) > div");
+        firstDivs[0].classList.add("carousel-image");
+        firstDivs[1].classList.add("carousel-content");
 
-        // Create and append the necessary elements with classes
-        const carouselContent = document.createElement('div');
-        carouselContent.className = 'carousel-content';
+        // Add classes to the picture element inside the first div
+        document.querySelector(".carousel-image picture").classList.add("carousel-image");
 
-        const carouselText = document.createElement('div');
-        carouselText.className = 'carousel-text';
+        // Add classes to the paragraphs inside the first text container
+        let firstParagraphs = document.querySelectorAll(".carousel-content p");
+        firstParagraphs[0].classList.add("main-text");
+        firstParagraphs[1].classList.add("sub-text");
+        firstParagraphs[2].classList.add("carousel-text");
+        firstParagraphs[3].classList.add("button-container");
 
-        const mainText = document.createElement('p');
-        mainText.className = 'main-text';
-        mainText.textContent = 'Choose your go-to Kotak Credit Card for every purchase';
+        // Add classes to the second set of divs and picture elements
+        let secondDivs = document.querySelectorAll(".carousel.block > div:nth-of-type(2) > div");
+        secondDivs[0].classList.add("carousel-image");
+        secondDivs[1].classList.add("carousel-content");
 
-        const subText = document.createElement('p');
-        subText.className = 'sub-text';
-        subText.textContent = 'Exclusive Offers | Seamless Onboarding | Instant 24*7 VKYC';
+        // Add classes to the picture element inside the second div
+        // document.querySelector(".carousel-image picture").classList.add("carousel-image");
 
-        const buttonContainer = document.createElement('p');
-        buttonContainer.className = 'button-container';
-
-        const button = document.createElement('a');
-        button.className = 'button';
-        button.href = '#';
-        button.title = 'Get Your card now';
-        button.textContent = 'Get Your card now';
-
-        buttonContainer.appendChild(button);
-        carouselText.appendChild(mainText);
-        carouselText.appendChild(subText);
-        carouselText.appendChild(buttonContainer);
-        carouselContent.appendChild(carouselText);
-        item.appendChild(carouselContent);
-
-        // Append the item to the main carousel div
-        div.append(item);
-    });
-
-    // Optimize images
-    div.querySelectorAll('picture > img').forEach((img) => {
-        img.closest('picture').replaceWith(createOptimizedPicture(img.src, img.alt, false, [{ width: '750' }]));
-    });
-
-    // Clear the block and append the carousel div
-    block.textContent = '';
-    block.append(div);
+        // // Add classes to the paragraphs inside the second text container
+        // let secondParagraphs = document.querySelectorAll(".carousel-content p");
+        // secondParagraphs[0].classList.add("main-text");
+        // secondParagraphs[1].classList.add("sub-text");
+        // secondParagraphs[2].classList.add("button-container");
 }
 
 // Initialize the carousel with jQuery
-$(document).ready(function () {
-    $(".owl-carousel").each(function () {
-        $(this).owlCarousel({
-            items: 1,
-            loop: true,
-            margin: 10,
-            nav: true,
-            autoplay: false,
-            autoplayTimeout: 3000,
-            autoplayHoverPause: true,
-            dots: true,
-            responsive: {
-                600: {
-                    items: 1
-                },
-                800: {
-                    items: 1
-                },
-                1000: {
-                    items: 1
-                }
+// Initialize the carousel with jQuery
+$(document).ready(function() {
+    $(".owl-carousel").owlCarousel({
+        items: 1,
+        loop: true,
+        nav: true,
+        autoplay: false,
+        autoplayTimeout: 3000,
+        autoplayHoverPause: true,
+        dots: true,
+        responsive: {
+            600: {
+                items: 1
+            },
+            800: {
+                items: 1
+            },
+            1000: {
+                items: 1
             }
-        });
+        }
     });
 });

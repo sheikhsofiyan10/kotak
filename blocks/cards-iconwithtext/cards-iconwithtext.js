@@ -17,7 +17,7 @@ export default function decorate(block) {
 
   const listItems = ul.querySelectorAll('li');
 
- /* listItems.forEach(li => {
+ listItems.forEach(li => {
     const linkParagraph = li.querySelector('p:last-of-type');
     const link = linkParagraph.textContent;
     const anchor = document.createElement('a');
@@ -26,7 +26,7 @@ export default function decorate(block) {
     anchor.appendChild(clonedLi);
     li.parentNode.replaceChild(anchor, li);
     clonedLi.querySelector('p:last-of-type').remove();
-  });*/
+  });
   block.textContent = '';
   block.append(ul);
 }

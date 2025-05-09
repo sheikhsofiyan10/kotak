@@ -7,12 +7,12 @@ body{
     padding: 15px;
     background-color: #ececed;
 }
-.icon-with-text li{
+.icon-with-text li {
     list-style: none;
     display: flex;
     /* width: 220px; */
     gap: 10px;
- 
+
     padding: 5px 16px;
     display: flex;
     background: #fff;
@@ -25,21 +25,26 @@ body{
     /* width: 100%; */
     height: 100%;
 }
+/*
+.icon-with-text li img{
+    width: 3.5rem;
+    height: 3.5rem;
+} */
 
 .icon-with-text li img{
     width: 35px;
     height: 35px;
 }
- 
+
 .icon-with-text li h4{
- 
+
     margin: 0;
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 12px;
     color: #333;
 }
- 
+
 .icon-with-text li p{
     margin: 0;
     color: #707070;
@@ -51,9 +56,9 @@ body{
     flex-wrap: wrap;
     gap: 10px;
 } */
- 
- 
- 
+
+
+
 .icon-with-text .cards-card-body{
     gap: 5px;
     display: flex;
@@ -67,18 +72,18 @@ body{
 .icon-with-text ul{
     padding-inline-start: 0px;
  }
- 
- 
+
+
 .owl-dots {
      display: block !important;
 }
-   
- 
+
+
 .icon-with-text .owl-dots .owl-dot.active span {
     background-color: #1776d3;
     border: 1px solid #1776d3;
 }
- 
+
 .icon-with-text .owl-dots .owl-dot span {
     width: 16px;
     height: 5px;
@@ -87,20 +92,20 @@ body{
     border-color: transparent;
     display: block;
 }
- 
+
 .icon-with-text .owl-dots{
     justify-self: center;
 }
- 
+
 .icon-with-text .owl-carousel .owl-item img {
     width: unset;
 }
- 
+
 .icon-with-text .owl-stage{
     display: flex;
     margin-bottom: 15px;
 }
- 
+
 .icon-with-text > div:first-child{
     color: #0f3464;
     text-align: center;
@@ -108,91 +113,12 @@ body{
     font-size: 22px;
     margin:50px 0 20px !important;
 }
- 
+
 .icon-with-text > p {
     font-size: 14px;
     text-align: center;
     color: #333;
 }
-
 .icon-with-text ul a {
     text-decoration: none;
-}
-
-
-/* Added for tab Carousal for saving accounts */
-
-.carausel-tabs li{
-    list-style: none;
-
-    padding: 16px;
-
-    background: #fff;
-    align-items: center;
-    /* width: 100%; */
-}
-
-.carausel-tabs li h4{
-
-    margin: 0;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 700;
-    font-size: 14px;
-    color: #333;
-}
-
-.carausel-tabs li p{
-    margin: 0;
-}
-
-
-
-.carausel-tabs .cards-card-body p {
-    font-size: 13px;
-    padding-top: 20px;
-    text-align: center;
-    font-size: 15px;
-    font-family: 'Roboto', sans-serif;
-    line-height: 1.5;
-}
-
-
-.carausel-tabs li {
-    border: none;
-    display: flex;
-    flex-direction: column;
-}
-
-.carausel-tabs .cards-card-body h4 {
-    display: none;
-}
-
-.carausel-tabs .cards-card-image img{
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    border: 1px solid #eee;
-    text-align: center;
-    display: flex;
-
-}
-.carausel-tabs {
-    width: auto !important;
-    position: relative;
-}
-.carausel-tabs .owl-nav button span {
-    font-size: 52px;
-}
-
-.carausel-tabs .owl-nav button {
-    position: absolute;
-    top: 39%;
-    transform: translateY(-39%);
-}
-
-.carausel-tabs button.owl-prev {
-    left: 0;
-}
-.carausel-tabs button.owl-next {
-    right: 0;
 }
