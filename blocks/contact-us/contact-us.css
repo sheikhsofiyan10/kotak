@@ -1,0 +1,35 @@
+.contact-us {
+    display: flex;
+    gap: 100px;
+}
+
+.contact-us>div {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.contact-us>div p:nth-of-type(1) {
+    margin-top: 0;
+    font-family: 'Roboto', serif;
+    font-size: 24px;
+    color: #333;
+}
+
+.contact-us .button-container .button {
+    background: none !important;
+    color: red !important;
+    font-weight: 600;
+    font-size: 15px;
+    padding-left: 0;
+}
+
+.contact-us .button-container .button::after {
+    content: "\e907";
+    font-family: icomoon !important;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+}
