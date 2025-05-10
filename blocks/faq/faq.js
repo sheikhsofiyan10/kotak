@@ -23,13 +23,15 @@ elementsclick.forEach(element => {
          // sibling.style.display = 'none'; 
       sibling.classList.remove('show');
       element.querySelector('span').classList.add('clickArrow')
-      element.querySelector('span').classList.remove('clickArrowAfter')
+      element.querySelector('span').classList.remove('rotate')
+      // element.querySelector('span').classList.remove('clickArrowAfter')
     
     } else { 
         sibling.classList.add('show');
        // sibling.style.display = 'block'; 
-      element.querySelector('span').classList.add('clickArrowAfter')
-      element.querySelector('span').classList.remove('clickArrow')
+      // element.querySelector('span').classList.add('clickArrowAfter')
+      element.querySelector('span').classList.add('rotate')
+      element.querySelector('span').classList.add('clickArrow')
   
     }
  

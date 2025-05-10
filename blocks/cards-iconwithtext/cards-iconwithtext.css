@@ -3,6 +3,11 @@ body{
     font-family: Roboto,Arial,sans-serif;
     margin: 0;
 }
+
+.cards-slider-wrapper {
+    margin-top: 50px !important;
+}
+
 .icon-with-text{
     padding: 15px;
     background-color: #ececed;
