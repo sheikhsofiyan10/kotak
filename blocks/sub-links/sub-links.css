@@ -1,18 +1,18 @@
 .sub-links-container {
-  padding: 15px 30px;
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
+  padding: 4rem 8.5rem !important;
 }
 
 .sub-links-wrapper {
-    flex: 1;
-    align-self: flex-start;
-    background: #fff;
-    border-radius: 8px;
-    padding: 16px !important;
-    margin: 0 15px !important;
-    margin-bottom: 20px !important;
+  flex: 1;
+  align-self: flex-start;
+  background: #fff;
+  border-radius: 8px;
+  padding: 16px !important;
+  margin: 0 15px !important;
+  margin-bottom: 20px !important;
 }
 
 .image-with-icon img {
@@ -29,45 +29,45 @@
   font-family: Roboto, Arial, sans-serif;
 }
 
-.image-with-icon > div > div {
-    display: flex;
-    position: relative;
-    align-items: center;
+.image-with-icon>div>div {
+  display: flex;
+  position: relative;
+  align-items: center;
 }
 
-.image-with-icon > div > div > p {
+.image-with-icon>div>div>p {
   margin: 10px;
 }
 
 .navigation .icon {
-    content: "";
-    border: solid #ee1c25;
-    border-width: 0 2px 2px 0;
-    display: inline-block;
-    padding: 4px;
-    position: absolute;
-    top: calc(50% - 18px);
-    right: 7px;
-    transform: rotate(-45deg);
-    cursor: pointer;
-    width: auto;
-    height: auto;
+  content: "";
+  border: solid #ee1c25;
+  border-width: 0 2px 2px 0;
+  display: inline-block;
+  padding: 4px;
+  position: absolute;
+  top: calc(50% - 18px);
+  right: 7px;
+  transform: rotate(-45deg);
+  cursor: pointer;
+  width: auto;
+  height: auto;
 }
 
-.navigation > div:first-child > div > p {
+.navigation>div:first-child>div>p {
   font-weight: 600;
   font-size: 16px;
   color: #101010;
   margin-bottom: 12px;
 }
 
-.navigation ul > li > a {
-    font-weight: 600 !important;
-    font-size: 14px;
-    color: #ee1c25 !important;
-    padding: 12px 8px 8px 0 !important;
-    display: inline-block !important;
-	text-decoration: none;
+.navigation ul>li>a {
+  font-weight: 600 !important;
+  font-size: 14px;
+  color: #ee1c25 !important;
+  padding: 12px 8px 8px 0 !important;
+  display: inline-block !important;
+  text-decoration: none;
 }
 
 .navigation ul {
@@ -76,18 +76,18 @@
 }
 
 .navigation div a {
-    text-decoration: none;
-    transition: color 0.5s linear;
-    font-size: 14px;
-    color: #101010 !important;
-    opacity: 0.87;
-    margin: 0 !important;
-    border: none !important;
-    padding: 0 !important;
-    background-color: unset !important;
-    font-weight: 400 !important;
-    display: inline !important;
-    white-space: pre-wrap !important;
+  text-decoration: none;
+  transition: color 0.5s linear;
+  font-size: 14px;
+  color: #101010 !important;
+  opacity: 0.87;
+  margin: 0 !important;
+  border: none !important;
+  padding: 0 !important;
+  background-color: unset !important;
+  font-weight: 400 !important;
+  display: inline !important;
+  white-space: pre-wrap !important;
 }
 
 .navigation .icon-more-arow {
@@ -104,40 +104,41 @@
 }
 
 .image-with-icon .button-container {
-overflow: hidden;
-text-overflow: ellipsis;
-display: -webkit-box;
--webkit-line-clamp: 3;
--webkit-box-orient: vertical;
-margin-right: 2rem;
-margin-left: 12px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  margin-right: 2rem;
+  margin-left: 12px;
 }
 
-.sub-links.navigation.bullet div a, sub-links.navigation.bullet div span {
-    color: #0f3464 !important;
-    font-size: 14px;
-    opacity: 0.87;
+.sub-links.navigation.bullet div a,
+sub-links.navigation.bullet div span {
+  color: #0f3464 !important;
+  font-size: 14px;
+  opacity: 0.87;
 }
 
-.navigation > div:not(:first-child):not(:last-child) {
+.navigation>div:not(:first-child):not(:last-child) {
   border-bottom: 1px solid #ececec;
   padding: 15px 0;
 }
 
-.navigation > div > div > p {
+.navigation>div>div>p {
   margin: 0;
 }
 
-.navigation > div:nth-last-child(2) {
+.navigation>div:nth-last-child(2) {
   border-bottom: none !important;
   padding-bottom: 0 !important;
 }
 
-.sub-links.navigation.bullet > div > div > ul > li > a {
+.sub-links.navigation.bullet>div>div>ul>li>a {
   color: #ee1c25 !important;
 }
 
-.sub-links.navigation > div > div > ul > li:hover > a,
-.sub-links.navigation > div > div > ul > li:hover .icon-more-arow {
+.sub-links.navigation>div>div>ul>li:hover>a,
+.sub-links.navigation>div>div>ul>li:hover .icon-more-arow {
   color: #036 !important;
 }

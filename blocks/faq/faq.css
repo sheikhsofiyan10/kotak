@@ -39,15 +39,8 @@
         max-width: 60%;
         width: 100%;
         margin: 20px auto 30px auto !important;
-
     }
-
-
-
-
 }
-
-
 
 #faqs {
     font-size: 32px;
@@ -59,7 +52,7 @@
 .faq-container .faq-wrapper {
     max-width: 100%;
     padding: 0;
-    margin: 0 100px;
+    /* margin: 0 100px; */
 }
 
 .faq-container .faq-wrapper .faq.block>div div:nth-of-type(2) {
@@ -88,12 +81,12 @@
 
 .faq-container .faq-wrapper .faq.block>div h3 {
     cursor: pointer;
-    width: 85%;
+    width: 100%;
     font-size: 15px;
     font-weight: 600;
     line-height: 23.4px;
     margin: 0;
-    font-family: Roboto, sans-serif;
+    padding-right: 30px;
 }
 
 .clickparent {
@@ -104,6 +97,7 @@
 
 .clickArrow {
     cursor: pointer;
+    position: relative;
 }
 
 .clickArrow:before {
@@ -114,7 +108,7 @@
     background-position: 50%;
     position: absolute;
     background-repeat: no-repeat;
-    right: 110px;
+    right: 0px;
     transform: rotate(90deg);
     transition: transform .5s ease;
 }

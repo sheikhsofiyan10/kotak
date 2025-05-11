@@ -49,5 +49,4 @@ console.log('sublinks- block', block);
     iconLink.appendChild(icon);
     link.parentNode.insertBefore(iconLink, link.nextSibling);
   });
-
 }

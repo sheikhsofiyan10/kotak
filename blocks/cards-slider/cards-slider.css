@@ -64,7 +64,7 @@
 .carausel-tabs .owl-nav button {
     position: absolute;
     top: 48px !important;
-    // transform: translateY(-39%);
+    /* // transform: translateY(-39%); */
 }
 
 .carausel-tabs button.owl-prev {

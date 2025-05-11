@@ -1,5 +1,4 @@
 .more-information > div {
-  max-width: 1140px;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
@@ -13,10 +12,10 @@
 
 .col-1 > div,
 .col-2 > div {
-  background: #777;
   border-radius: 5px;
   padding: 30px;
   min-height: 360px;
+  background-color: #fff;
 }
 
 @media screen and (max-width: 992px) {
