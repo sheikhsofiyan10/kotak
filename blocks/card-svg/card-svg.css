@@ -1,0 +1,49 @@
+
+.credit-card-steps {
+   display: flex;
+   flex-direction: row;
+   background: #eee;
+}
+
+.credit-card-steps>div:nth-child(3n-1) {
+   border-left: 1px solid #ececed;
+   border-right: 1px solid #ececed;
+}
+
+.credit-card-steps>div {
+   padding: 50px 30px 30px 30px;
+}
+
+.credit-card-steps>div div:nth-of-type(2) p:nth-of-type(1) {
+   font-weight: 600;
+   font-size: 18px;
+   color: #666;
+   margin: 20px 0;
+   min-height: 40px;
+}
+
+.credit-card-steps>div div:nth-of-type(2) p:nth-of-type(2) {
+   font-size: 15px;
+   font-weight: 400;
+   color: #666;
+   margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 768px) {
+    .credit-card-steps>div {
+       padding: 15px;
+    }
+
+   .credit-card-steps>div div:nth-of-type(2) p:nth-of-type(1)  {
+       font-size: 15px;
+       margin: 15px 0;
+       min-height: auto;
+   }
+
+   .credit-card-steps>div:nth-child(3n-1) {
+       border-left: none;
+       border-right: none;
+       border-top: 1px solid #ececed;
+   }
+
+}
