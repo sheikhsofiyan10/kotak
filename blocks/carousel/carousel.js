@@ -10,10 +10,10 @@ export default function decorate(block) {
         let firstParagraphs = document.querySelectorAll(".carousel-content p");
         firstParagraphs[0].classList.add("main-text");
         firstParagraphs[1].classList.add("sub-text");
-        firstParagraphs[2].classList.add("sub-text");
+        //firstParagraphs[2].classList.add("sub-text");
         const buttonContainers = document.querySelectorAll(".carousel-content .button-container");
         if (buttonContainers.length >= 2) {
-            const combinedDiv = document.createElement("div");
+            const combinedDiv = document.createElement("divbutton-wrapper-combined");
             combinedDiv.classList.add("button-wrapper-combined");
             // Insert the combined div before the first button container
             buttonContainers[0].parentNode.insertBefore(combinedDiv, buttonContainers[0]);
