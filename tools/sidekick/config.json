@@ -1,0 +1,18 @@
+{
+  "project" : "Kotak Bank",
+  "plugins":[
+    {
+      "id" : "library",
+      "title" : "Block Library",
+      "environments" : ["edit"],
+      "url" : "/tools/sidekick/library.html",
+      "passReferrer" : true
+    },
+    {
+      "id" : "tools",
+      "title" : "Tools",
+      "isContainer" : true
+    }
+  ]
+}
+
