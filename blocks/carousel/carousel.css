@@ -158,3 +158,29 @@
 .owl-prev {
     background: none;
 }
+.kt-carousel.owl-carousel .owl-nav button.owl-next,
+.owl-prev {
+    background: none;
+}
+.kt-carousel a:hover{
+    background-color: #ee1c25;
+}
+
+
+.kt-carousel .owl-dots .owl-dot span{
+    background-color: transparent;
+    border-color: #fff;
+    margin: 0;
+}
+.kt-carousel .owl-dots .owl-dot.active span{
+    background-color: #fff;
+}
+.kt-carousel img{
+    height: 400px;
+}
+
+@media screen and (max-width:600px) {
+    .kt-carousel img{
+        height: 300px;
+    }
+}
