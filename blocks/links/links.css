@@ -43,8 +43,13 @@
   }
 }
 
-@media (max-width: 767px) {
-  .links-container {
+@media (max-width: 768px) {
+  .links-wrapper {
+    display: none;
+  }
+}
+@media (min-width: 769px) {
+  .faq-wrapper .links-mobile-view {
     display: none;
   }
 }

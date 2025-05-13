@@ -50,7 +50,7 @@
 }
 
 .faq-container .faq-wrapper {
-    max-width: 100%;
+    // max-width: 100%;
     padding: 0;
     /* margin: 0 100px; */
 }
@@ -228,7 +228,7 @@ CSS End : For Contact us mobile view   */
 .faq-container .faq-wrapper .mobile-view>div div:nth-of-type(2) p:nth-of-type(2) {
     max-width: 200px;
     margin: 0 !important;
-    padding: 0;
+    padding: 16px 0;
     text-align: left;
 }
 
@@ -244,12 +244,15 @@ CSS End : For Contact us mobile view   */
     .faq-container .faq-wrapper .mobile-view>div{
         display: flex;
         flex-direction: column !important;
-        padding: 0 ;
+        padding: 0 !important;
     }
     .mobile-view .clickparent {
         padding: 10px 15px;
         background: #eaeaea;
         margin-bottom: 10px;
         cursor: pointer;
+    }
+    .mobile-view .clickArrow:before {
+        right: 0 !important;
     }
 }
