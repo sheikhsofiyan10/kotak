@@ -30,7 +30,7 @@
   font-weight: 600;
   font-style: italic;
 }
-img {
+.section__video img {
   width: 100%;
   height: auto;
   margin-bottom: 10px;
