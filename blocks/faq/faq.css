@@ -170,48 +170,42 @@
     background: #5e25b2;
 }
 
-/*   */
+
+/*  CSS Start : For Contact us mobile view   */
 .mobile-view>div {
     display: flex;
-    flex-direction: column !important;
+    flex-direction: column;
 }
 .mobile-view {
-    display: none !important;
+    display: flex !important;
+    flex-direction: column  !important;
+}
+.mobile-view .clickparent {
+    padding: 10px 15px;
+    background: #eaeaea;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.faq.mobile-view>div {
+    border-bottom: 1px solid #cacbcc;
+    padding: 0;
+}
+.faq-container .faq-wrapper .faq.mobile-view>div h3 {
+    font-size: 24px !important;
+    color: #036;
+    margin: 5px 0 0;
+    font-weight: 400;
 }
 
+.mobile-view>div .show>p:nth-of-type(1) {
+    height: 135px;
+    font-size: 15px;
+}
 .faq-container .mobile-view p.button-container a {
     background: none;
     color: red;
     border: none;
     width: auto !important;
     padding: 0;
-    text-align: left;
 }
-.faq-container .faq-wrapper .mobile-view>div div:nth-of-type(2) p:nth-of-type(2) {
-    max-width: 200px;
-    margin: 0 !important;
-    padding: 0;
-    text-align: left;
-}
-
-@media only screen and (max-width: 768px) {
-    .contact-us-wrapper {
-        display: none;
-    }
-    .mobile-view {
-        display: flex !important;
-        flex-direction: column;
-
-    }
-    .faq-container .faq-wrapper .mobile-view>div{
-        display: flex;
-        flex-direction: column !important;
-        padding: 0 ;
-    }
-    .mobile-view .clickparent {
-        padding: 10px 15px;
-        background: #eaeaea;
-        margin-bottom: 10px;
-        cursor: pointer;
-    }
-}
+ /*  CSS End : For Contact us mobile view   */

@@ -97,6 +97,8 @@ export function loadHeaderJs() {
 
   const sub_header_li = document.querySelectorAll(".sub-header-li");
   const sub_menu_detail = document.querySelectorAll(".sub-menu-detail");
+  console.log(sub_header_li, "sub_header_li");
+
   sub_header_li.forEach((e) => e.addEventListener("mousemove", sub_header));
 
   function sub_header() {

@@ -38,8 +38,10 @@ function buildHeroBlock(main) {
  */
 async function loadFonts() {
   await loadCSS(`${window.hlx.codeBasePath}/styles/fonts.css`);
-  await loadCSS(`${window.hlx.codeBasePath}/fonts/fontawesome-webfont.woff2`);
-  await loadCSS(`${window.hlx.codeBasePath}/fonts/icomoon2.woff`);
+  await loadCSS(`${window.hlx.codeBasePath}/styles/client-all-min.css`);
+  await loadCSS(`${window.hlx.codeBasePath}/styles/header-new.css`);
+  await loadCSS(`${window.hlx.codeBasePath}/styles/secondary-footer.css`);
+  await loadCSS(`${window.hlx.codeBasePath}/styles/footer.css`);
   try {
     if (!window.location.hostname.includes("localhost"))
       sessionStorage.setItem("fonts-loaded", "true");
@@ -128,9 +130,11 @@ function loadDelayed() {
   // load anything that can be postponed to the latest here
 }
 
-window.addEventListener("load", () => {
+window.addEventListener("load", async () => {
   console.log("scripts.js loaded");
-  loadHeaderJs();
+  setTimeout(() => {
+    loadHeaderJs();
+  }, 3000);
 });
 
 async function loadPage() {
@@ -160,3 +164,25 @@ function loadScript(url, callback) {
 // );
 
 loadPage();
+
+// Footer
+window.addEventListener("DOMContentLoaded", () => {
+  $(".sec-footer-links, .mb-secfooter-link").on("click", function () {
+    let ctaText = $(this).text();
+    secFootAnalytics(ctaText);
+  });
+
+  function secFootAnalytics(ctaText) {
+    try {
+      digitalData.scm = [];
+      digitalData.scm.cta = `SFOOTER | ${ctaText}`;
+      digitalData.page.pageinfo.pageName = pageName;
+      digitalData.web.identifier = "website";
+      if (typeof _satellite != "undefined") {
+        _satellite.track("cta_name");
+      }
+    } catch (error) {
+      console.error(error);
+    }
+  }
+});

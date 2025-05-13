@@ -496,22 +496,6 @@ const footerContent = `
         		</div>
     		</div>
 		</div>
-    
-
-
-
-    
-<link rel="stylesheet" href="/etc.clientlibs/kotak/components/structure/secondaryfooter/clientlibs.min.90c7e3348c115cb34ce4334d27d4bd49.css" type="text/css">
-
-
-
-
-
-
-
-    
-<script src="/etc.clientlibs/kotak/components/structure/secondaryfooter/clientlibs.min.js"></script>
-
 
 	 
 
@@ -1638,9 +1622,6 @@ const footerContent = `
         
     </div>
     
-    
-<link rel="stylesheet" href="/etc.clientlibs/kotak/components/structure/footer/clientLib.min.841e158ebffad57df6996d8bce550f39.css" type="text/css">
-
 
 
 </section>
@@ -1679,6 +1660,8 @@ export default async function decorate(block) {
   // while (fragment.firstElementChild) footer.append(fragment.firstElementChild);
 
   // block.append(footer);
+
+  console.log(block, "footer");
 
   block.innerHTML = footerContent;
 }

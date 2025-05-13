@@ -23,9 +23,9 @@ export default async function decorate (block) {
   let url = Array.from(videoWrapper?.children)[0]?.children[1]?.textContent;
 
   let videoHtml = ` <div class="section__video">
-        <div class="container">
-          <div class="col-7">
-            <div class="card" style="padding-top: 60px">
+        <div class="video__container">
+          <div class="col-w-7">
+            <div class="video__card" style="padding-top: 60px">
               <a
                 data-fancybox
                 href=${url}
@@ -53,14 +53,14 @@ export default async function decorate (block) {
               </a>
             </div>
           </div>
-          <div style="width: 35%" class="col-5">
-            <div class="card">
-              <p class="card__heading">Hausla hai toh ho jayega</p>
+          <div class="col-w-5">
+            <div class="video__card">
+              <p class="video__card__heading">Hausla hai toh ho jayega</p>
               <img
                 src="https://www.kotak.com/content/dam/Kotak/feature-cards/housla-hai-to-ho-jayega_girl-image.jpg.transform/transformer-width-495-height-242/image.jpg"
                 alt="girl"
               />
-              <p class="card__text">
+              <p class="video__card__text">
                 At Kotak, we believe in the fearless trailblazers—the ones who
                 dare to dream bigger, push boundaries, and turn challenges into
                 opportunities. That’s why we are here—to back you with financial
@@ -74,4 +74,6 @@ export default async function decorate (block) {
       </div>`;
 
   document.querySelector(".video-container").innerHTML = videoHtml;
+
+
 }
