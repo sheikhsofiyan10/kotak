@@ -1,4 +1,3 @@
-import { createOptimizedPicture } from "../../scripts/aem.js";
 const headerContent = `
 <header class="header-container search-results-cont animated" data-res-path="/content/kotakcl/en/jcr:content/header" data-search-page="/content/kotakcl/en/search">
         <div class="container">

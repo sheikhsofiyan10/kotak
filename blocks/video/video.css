@@ -33,7 +33,7 @@
   background-color: #ececed;
   padding: 50px 0;
 }
-.container {
+.section__video .container {
   max-width: 1140px;
   margin: 0 auto;
   display: flex;
@@ -61,7 +61,7 @@
   font-weight: 600;
   font-style: italic;
 }
-img {
+.section__video img {
   width: 100%;
   height: auto;
   margin-bottom: 10px;
