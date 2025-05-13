@@ -1,7 +1,7 @@
 .related-video__container {
   display: flex;
   justify-content: space-between;
-  gap: 10px;
+  gap: 100px;
 }
 .col-w-1,
 .col-w-2 {
@@ -31,6 +31,7 @@
 }
 .related-video__imgCard {
   position: relative;
+  margin-bottom: 40px;
 }
 .related-video__imgCard .overlay-icon {
   position: absolute;
@@ -41,6 +42,8 @@
 @media screen and (max-width: 992px) {
   .related-video__container {
     flex-direction: column !important;
+    gap: 20px;
+    padding: 0 10px;
   }
   .col-w-1,
   .col-w-2 {
