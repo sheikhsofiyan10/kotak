@@ -17,6 +17,14 @@
   position: relative;
 }
 
+.cards>ul>li.card-bg-dark-gray {
+  background-color: var(--bg-dark-gray);
+}
+
+.cards>ul>li.card-bg-light-gray {
+  background-color: var(--bg-light-gray);
+}
+
 .cards>ul>li:hover {
   box-shadow: 0 0 10px #ccc;
 }
