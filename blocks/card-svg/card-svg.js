@@ -37,11 +37,12 @@ export default async function decorate(block) {
           originalDiv.replaceWith(wrapper);
 
           // Make the entire wrapper clickable
-          wrapper.addEventListener("click", () => {
-            window.location.href = link.href;
-          });
+          block.querySelector(".card-link-wrapper > div").addEventListener("click", () => {
+              window.location.href = link.href;
+            });
         });
     }
+
 
 
 }
