@@ -8,14 +8,25 @@ export default function decorate(block) {
     const li = document.createElement('li');
     while (row.firstElementChild) li.append(row.firstElementChild);
     [...li.children].forEach((div) => {
-      if (div.children.length === 1 && div.querySelector('picture')) div.className = 'cards-card-image';
+      if (div.children.length === 1 && div.firstElementChild.textContent.trim()) div.className = 'cards-card-image';
       else div.className = 'cards-card-body';
     });
     ul.append(li);
   });
-  ul.querySelectorAll('picture > img').forEach((img) => img.closest('picture').replaceWith(createOptimizedPicture(img.src, img.alt, false, [{ width: '750' }])));
+  //ul.querySelectorAll('picture > img').forEach((img) => img.closest('picture').replaceWith(createOptimizedPicture(img.src, img.alt, false, [{ width: '750' }])));
+  ul.querySelectorAll(".owl-carousel.card-carousel li").forEach((li) => {
+    const svgParagraph = li.querySelector("p");
+    if (svgParagraph && svgParagraph.textContent.trim().endsWith(".svg")) {
+      const svgFileName = svgParagraph.textContent.trim();
+      const img = document.createElement("img");
+      img.src = `../../icons/${svgFileName}`;
+      img.alt = svgFileName.replace(".svg", "").replace(/-/g, " ");
 
-  const listItems = ul.querySelectorAll('li');
+      // Replace the <p> tag with the <img> tag
+      svgParagraph.parentNode.replaceChild(img, svgParagraph);
+    }
+  });
+ /* const listItems = ul.querySelectorAll('li');
 
  listItems.forEach(li => {
     const linkParagraph = li.querySelector('p:last-of-type');
@@ -26,7 +37,7 @@ export default function decorate(block) {
     anchor.appendChild(clonedLi);
     li.parentNode.replaceChild(anchor, li);
     clonedLi.querySelector('p:last-of-type').remove();
-  });
+  });*/
   block.textContent = '';
   block.append(ul);
 }
