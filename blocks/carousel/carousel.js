@@ -38,7 +38,7 @@ export default function decorate(block) {
 $(document).ready(function() {
     $(".owl-carousel").owlCarousel({
         items: 1,
-        loop: true,
+        loop: false,
         nav: true,
         autoplay: false,
         autoplayTimeout: 3000,

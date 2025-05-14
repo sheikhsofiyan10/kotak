@@ -19,6 +19,8 @@
   --link-color: #ee1c25;
   --link-hover-color: #fff;
   --heading-color: #0f3464;
+  --bg-light-gray: #ececed;
+  --bg-dark-gray: #f3f3f3;
 
   /* fonts */
   --body-font-family: roboto, sans-serif;
@@ -259,11 +261,11 @@ button.secondary {
 
 /* Background Theme */
 .bg-light-gray {
-  background-color: #ececed;
+  background-color: var(--bg-light-gray)
 }
 
 .bg-dark-gray {
-  background-color: #f3f3f3;
+  background-color: var(--bg-dark-gray);
 }
 
 .bg-gradient {
@@ -343,6 +345,7 @@ main>.section:first-of-type {
   text-align: center;
   color: var(--heading-color);
   margin-bottom: 25px;
+  font-size: 32px;
 }
 
 .default-content-wrapper h4 {
@@ -350,6 +353,7 @@ main>.section:first-of-type {
   color: var(--heading-color);
   font-weight: 600;
   margin-bottom: 25px;
+  font-size: 22px;
 }
 
 .cards-slider-container .default-content-wrapper h4 {

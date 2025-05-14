@@ -1,11 +1,14 @@
-import {
-  createOptimizedPicture
-} from '../../scripts/aem.js';
-
-export default async function decorate (block) {
-console.log('sublinks- block', block);
-
-  if (block.querySelector(".bullet > div") !== null) {
+export default async function decorate(block) {
+  console.log("sublinks- block", block);
+  if (block.querySelector(".sub-links.navigation.bullet>div") !== null) {
+    const newWrapper1 = document.querySelector(".sub-links-container");
+    const newWrapper = document.createElement("div");
+    newWrapper.className = "custom-nav-links-wrapper";
+    const newWrapper2 = document.createElement("div");
+    newWrapper2.className = "sub-links-wrapper";
+    newWrapper1.appendChild(newWrapper);
+    newWrapper.appendChild(newWrapper2);
+    newWrapper2.appendChild(block);
     const links = Array.from(
       block.querySelectorAll(".sub-links.navigation.bullet a")
     );
@@ -16,6 +19,14 @@ console.log('sublinks- block', block);
       link.parentNode.insertBefore(bullet, link);
     });
   } else if (block.querySelector(".image-with-icon > div") !== null) {
+    // insert wrapper
+    const customLinksWrapper = document.querySelector(
+      ".custom-nav-links-wrapper"
+    );
+    const newWrapper2 = document.createElement("div");
+    newWrapper2.className = "sub-links-wrapper";
+    customLinksWrapper.appendChild(newWrapper2);
+    newWrapper2.appendChild(block);
     const mainDivs = block.querySelectorAll(".image-with-icon > div");
     mainDivs.forEach((div, index) => {
       if (index !== 0 && index !== mainDivs.length - 1) {
@@ -23,7 +34,6 @@ console.log('sublinks- block', block);
         if (innerDiv) {
           const icon = document.createElement("p");
           icon.classList.add("icon");
-
           // Find the <a> tag within the same div
           const link = innerDiv.querySelector("a");
           if (link) {
@@ -35,6 +45,14 @@ console.log('sublinks- block', block);
         }
       }
     });
+  } else {
+    const customLinksWrapper = document.querySelector(
+      ".custom-nav-links-wrapper"
+    );
+    const newWrapper2 = document.createElement("div");
+    newWrapper2.className = "sub-links-wrapper";
+    customLinksWrapper.appendChild(newWrapper2);
+    newWrapper2.appendChild(block);
   }
 
   const links1 = block.querySelectorAll(".navigation ul > li > a");

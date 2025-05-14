@@ -15,10 +15,8 @@ body{
 .icon-with-text li {
     list-style: none;
     display: flex;
-    /* width: 220px; */
     gap: 10px;
-
-    padding: 5px 16px;
+    padding: 15px;
     display: flex;
     background: #fff;
     box-shadow: 0 .4px .8px #0000000D;
@@ -26,7 +24,6 @@ body{
     border-radius: 12px;
     gap: 12px;
     align-items: center;
-    max-width: 16.2rem;
     /* width: 100%; */
     height: 100%;
 }
@@ -46,7 +43,7 @@ body{
     margin: 0;
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
-    font-size: 12px;
+    font-size: 14px;
     color: #333;
 }
 
@@ -73,6 +70,7 @@ body{
 }
 .icon-with-text #visit-help-center, .icon-with-text .cards-card-body p{
     font-size: 13px;
+    font-family: 'Roboto', sans-serif;
 }
 .icon-with-text ul{
     padding-inline-start: 0px;
