@@ -176,11 +176,11 @@
     background-color: #fff;
 }
 .kt-carousel img{
-    height: 400px;
+    height: 400px !important;
 }
 
 @media screen and (max-width:600px) {
     .kt-carousel img{
-        height: 300px;
+        height: 300px !important;
     }
 }

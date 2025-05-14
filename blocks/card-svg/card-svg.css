@@ -2,7 +2,7 @@
 .credit-card-steps {
    display: flex;
    flex-direction: row;
-   background: #eee;
+   background: #f9f9fa;
 }
 
 .credit-card-steps>div:nth-child(3n-1) {
@@ -27,6 +27,12 @@
    font-weight: 400;
    color: #666;
    margin-bottom: 20px;
+}
+.credit-card-icon {
+  width: 40px;
+  height: auto;
+  display: block;
+  margin-bottom: 10px;
 }
 
 @media only screen and (max-width: 768px) {

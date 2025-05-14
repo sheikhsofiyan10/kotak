@@ -21,6 +21,7 @@
   --heading-color: #0f3464;
   --bg-light-gray: #ececed;
   --bg-dark-gray: #f3f3f3;
+  --bg-light-pink: #FFE5E5;
 
   /* fonts */
   --body-font-family: roboto, sans-serif;
@@ -270,6 +271,10 @@ button.secondary {
 
 .bg-gradient {
   background: linear-gradient(to right, #f37032, #ed1f23);
+}
+
+.bg-light-pink {
+    background-color: var(--bg-light-pink);
 }
 
 
