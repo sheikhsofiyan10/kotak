@@ -228,7 +228,7 @@ CSS End : For Contact us mobile view   */
     text-align: left;
 }
 
-@media only screen and (max-width: 7770px) {
+@media only screen and (max-width: 770px) {
     .contact-us-wrapper {
         display: none;
     }
