@@ -131,7 +131,7 @@ sub-links.navigation.bullet div span {
 
 .navigation>div:nth-last-child(2) {
   border-bottom: none !important;
-  // padding-bottom: 0 !important;
+  /* // padding-bottom: 0 !important; */
 }
 
 .sub-links.navigation.bullet>div>div>ul>li>a {
@@ -146,9 +146,9 @@ sub-links.navigation.bullet div span {
 .custom-nav-links-wrapper {
     margin: 0 auto;
     display: flex;
-    jusify-content: center;
+    /* justify-content: center; */
     flex-wrap: wrap;
-   // padding: 4rem 8.5rem !important;
+   /* // padding: 4rem 8.5rem !important; */
 
 }
 
@@ -162,10 +162,21 @@ sub-links.navigation.bullet div span {
     margin-right : 0 !important;
 }
 
+@media only screen and (max-width: 990px) {
+  .custom-nav-links-wrapper {
+    flex-direction: column;
+  }
+
+  .sub-links-wrapper {
+    width: 100%;
+    margin: 0 !important;
+    margin-bottom: 30px !important;
+  }
+}
+
 @media only screen and (max-width: 768px) {
     .sub-links-wrapper {
         width : 100%;
         flex: none;
     }
-
 }

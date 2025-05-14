@@ -18,3 +18,9 @@ footer .footer p {
     padding: 40px 32px 24px;
   }
 } */
+
+@media screen and (max-width: 770px) {
+  .accordion-links-2 {
+    padding: 0 15px;
+  }
+}

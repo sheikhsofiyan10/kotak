@@ -1,4 +1,6 @@
 export default async function decorate(block) {
+  console.log(block, "Related ");
+
   const relatedvideoEl = document.querySelector(".related-video div");
 
   relatedvideoEl.classList.add("related-video__container");
@@ -52,5 +54,3 @@ export default async function decorate(block) {
   console.log(imgUrls);
   const videoEl = document.querySelectorAll(".button-container a");
 }
-
-
