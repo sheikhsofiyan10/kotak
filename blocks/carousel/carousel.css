@@ -26,10 +26,11 @@
 .kt-carousel .carousel-content {
     width: 100%;
     position: absolute;
-    top: 50%;
+    top: 53%;
     left: 53%;
     transform: translate(-50%, -50%);
 }
+
 
 .kt-carousel .carousel-text {
     max-width: 100%;
@@ -154,14 +155,7 @@
 }
 
 
-.kt-carousel.owl-carousel .owl-nav button.owl-next,
-.owl-prev {
-    background: none;
-}
-.kt-carousel.owl-carousel .owl-nav button.owl-next,
-.owl-prev {
-    background: none;
-}
+
 .kt-carousel a:hover{
     background-color: #ee1c25;
 }
@@ -179,8 +173,14 @@
     height: 400px !important;
 }
 
+
+
 @media screen and (max-width:600px) {
     .kt-carousel img{
         height: 300px !important;
     }
+    .kt-carousel .button-container a{
+        margin: 0;
+    }
+
 }

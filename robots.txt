@@ -1,0 +1,4 @@
+user-agent: *
+allow: /
+
+sitemap: https://develop--kotak--sheikhsofiyan10.aem.page/sitemap.xml
