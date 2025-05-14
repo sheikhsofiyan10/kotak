@@ -131,7 +131,7 @@ sub-links.navigation.bullet div span {
 
 .navigation>div:nth-last-child(2) {
   border-bottom: none !important;
-  padding-bottom: 0 !important;
+  // padding-bottom: 0 !important;
 }
 
 .sub-links.navigation.bullet>div>div>ul>li>a {
