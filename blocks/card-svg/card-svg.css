@@ -28,13 +28,26 @@
    color: #666;
    margin-bottom: 20px;
 }
+
 .credit-card-icon {
-  width: 40px;
+  width: 50px;
+  min-height: 50px;
   height: auto;
   display: block;
   margin-bottom: 10px;
 }
+ /* Added for cta links*/
+.card-svg.cta-link .card-link-wrapper {
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
 
+.card-svg.cta-link .arrow-icon {
+  width: 12px;
+  min-height: 12px;
+}
+/* */
 @media only screen and (max-width: 768px) {
     .credit-card-steps>div {
        padding: 15px;
