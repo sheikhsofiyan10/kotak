@@ -26,63 +26,20 @@ export default function decorate(block) {
       svgParagraph.parentNode.replaceChild(img, svgParagraph);
     }
   });
- /* const listItems = ul.querySelectorAll('li');
+  const listItems = ul.querySelectorAll('li');
+  if (!block.querySelector(".cards-iconwithtext.carausel-tabs>div")) {
+    listItems.forEach(li => {
+      const linkParagraph = li.querySelector('p:last-of-type');
+      const link = linkParagraph.textContent;
+      const anchor = document.createElement('a');
+      anchor.href = link;
+      const clonedLi = li.cloneNode(true);
+      anchor.appendChild(clonedLi);
+      li.parentNode.replaceChild(anchor, li);
+      clonedLi.querySelector('p:last-of-type').remove();
+    });
+  }
 
- listItems.forEach(li => {
-    const linkParagraph = li.querySelector('p:last-of-type');
-    const link = linkParagraph.textContent;
-    const anchor = document.createElement('a');
-    anchor.href = link;
-    const clonedLi = li.cloneNode(true);
-    anchor.appendChild(clonedLi);
-    li.parentNode.replaceChild(anchor, li);
-    clonedLi.querySelector('p:last-of-type').remove();
-  });*/
   block.textContent = '';
   block.append(ul);
 }
-
-
-window.onload = function(){
-
-/*$(".owl-carousel.card-carousel").owlCarousel({
-        loop: true,
-        margin: 10,
-        autoplay: false,
-        autoplayTimeout: 3000,
-        autoplayHoverPause: false,
-        dots: true,
-        responsive: {
-            0:{
-                items:2
-            },
-            600: {
-                items: 3
-            },
-            1000: {
-                items: 5
-            }
-        },
-    });*/
-
-    /*$(".carausel-tabs .owl-carousel").owlCarousel({
-      items: 4,
-      loop: true,
-      margin: 10,
-      nav: true,
-      autoplay: false,
-      dots:false,
-      autoplayTimeout: 3000,
-      responsive: {
-        0: {
-          items: 1
-        },
-        600:{
-          items:2
-        },
-        800:{
-            items:3
-        },
-      }
-    });*/
-};
