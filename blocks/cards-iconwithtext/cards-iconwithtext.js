@@ -8,8 +8,13 @@ export default function decorate(block) {
     const li = document.createElement('li');
     while (row.firstElementChild) li.append(row.firstElementChild);
     [...li.children].forEach((div) => {
+    if (block.querySelector(".cards-iconwithtext.carausel-tabs>div")) {
+      if (div.children.length === 1 && div.firstElementChild.textContent.trim().endsWith(".svg")) div.className = 'cards-card-image';
+            else div.className = 'cards-card-body';
+    } else {
       if (div.children.length === 1 && div.firstElementChild.textContent.trim()) div.className = 'cards-card-image';
-      else div.className = 'cards-card-body';
+            else div.className = 'cards-card-body';
+    }
     });
     ul.append(li);
   });

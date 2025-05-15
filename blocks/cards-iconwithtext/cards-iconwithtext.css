@@ -125,3 +125,79 @@ body{
 .icon-with-text ul a {
     text-decoration: none;
 }
+
+.carausel-tabs .cards-card-image {
+  width: 182px;
+  height: 182px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid rgba(102, 102, 102, 0.2);
+  margin: 40px auto 0;
+  border-radius: 50%;
+}
+
+.carausel-tabs .owl-carousel .owl-item img {
+  width: 32px !important;
+  height: 32px !important;
+}
+
+.carausel-tabs .cards-card-body > p {
+  text-align: center;
+}
+
+
+.carausel-tabs li {
+  list-style: none;
+
+  padding: 16px;
+
+  background: #fff;
+  align-items: center;
+  /* width: 100%; */
+}
+
+.carausel-tabs .cards-card-body p {
+  font-size: 13px;
+  padding-top: 20px;
+  text-align: center;
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+  line-height: 1.5;
+}
+
+.carausel-tabs {
+  width: auto !important;
+  position: relative;
+}
+.carausel-tabs .owl-nav button span {
+  font-size: 52px;
+}
+
+.carausel-tabs .owl-nav button {
+  position: absolute;
+  top: 50% !important;
+  /* // transform: translateY(-39%); */
+}
+
+.carausel-tabs button.owl-prev {
+  left: 0;
+}
+.carausel-tabs button.owl-next {
+  right: 0;
+}
+
+.carausel-tabs .owl-carousel {
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.carausel-tabs .owl-nav button.owl-prev{
+    background: url(https://www.kotak.com/etc/designs/kotak/clientlib-site/images/svg-icon/next.svg) no-repeat !important;
+    left: 0% !important;
+}
+
+.carausel-tabs .owl-nav button.owl-next{
+    background: url(https://www.kotak.com/etc/designs/kotak/clientlib-site/images/svg-icon/prev.svg) no-repeat !important;
+    right: 0% !important;
+}
