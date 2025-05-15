@@ -155,13 +155,13 @@ function loadScript(url, callback) {
   document.head.appendChild(script);
 }
 
-// Use the for CDN loading
-// loadScript(
-//   "Add URL here",
-//   () => {
-//     console.log("jQuery loaded:");
-//   }
-// );
+loadScript(
+  "https://assets.adobedtm.com/18d6771123cb/9acc6fcece69/launch-e0a440c6fb45-development.min.js",
+  () => {
+    // Add your analytics here
+    console.log("Adobe Analytics Loaded");
+  }
+);
 
 loadPage();
 
