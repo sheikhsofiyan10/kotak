@@ -12,7 +12,7 @@ body{
     /* padding: 15px; */
     /* background-color: #ececed; */
 }
-.icon-with-text li {
+.icon-with-text .innerDiv {
     list-style: none;
     display: flex;
     gap: 10px;
@@ -33,21 +33,22 @@ body{
     height: 3.5rem;
 } */
 
-.icon-with-text li img{
+.icon-with-text .innerDiv img{
     width: 35px;
     height: 35px;
 }
 
-.icon-with-text li h4{
+.icon-with-text .innerDiv h4{
 
     margin: 0;
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 14px;
     color: #333;
+    text-align: left;
 }
 
-.icon-with-text li p{
+.icon-with-text .innerDiv p{
     margin: 0;
     color: #707070;
     font-size: 11px;
@@ -71,8 +72,10 @@ body{
 .icon-with-text #visit-help-center, .icon-with-text .cards-card-body p{
     font-size: 13px;
     font-family: 'Roboto', sans-serif;
+    text-align: left;
+    font-weight: 400;
 }
-.icon-with-text ul{
+.icon-with-text .parentDiv{
     padding-inline-start: 0px;
  }
 
@@ -119,10 +122,10 @@ body{
 
 .icon-with-text > p {
     font-size: 14px;
-    text-align: center;
+    // text-align: center;
     color: #333;
 }
-.icon-with-text ul a {
+.icon-with-text .parentDiv a {
     text-decoration: none;
 }
 
@@ -147,7 +150,7 @@ body{
 }
 
 
-.carausel-tabs li {
+.carausel-tabs .innerDiv {
   list-style: none;
 
   padding: 16px;

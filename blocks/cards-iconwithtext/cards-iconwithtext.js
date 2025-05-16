@@ -2,12 +2,13 @@ import { createOptimizedPicture } from '../../scripts/aem.js';
 
 export default function decorate(block) {
   /* change to ul, li */
-  const ul = document.createElement('ul');
-  ul.className = "owl-carousel card-carousel";
+  const parentDiv = document.createElement('div');
+  parentDiv.className = "owl-carousel card-carousel";
   [...block.children].forEach((row) => {
-    const li = document.createElement('li');
-    while (row.firstElementChild) li.append(row.firstElementChild);
-    [...li.children].forEach((div) => {
+    const innerDiv = document.createElement('div');
+    innerDiv.className = "innerDiv";
+    while (row.firstElementChild) innerDiv.append(row.firstElementChild);
+    [...innerDiv.children].forEach((div) => {
     if (block.querySelector(".cards-iconwithtext.carausel-tabs>div")) {
       if (div.children.length === 1 && div.firstElementChild.textContent.trim().endsWith(".svg")) div.className = 'cards-card-image';
             else div.className = 'cards-card-body';
@@ -16,10 +17,10 @@ export default function decorate(block) {
             else div.className = 'cards-card-body';
     }
     });
-    ul.append(li);
+    parentDiv.append(innerDiv);
   });
   //ul.querySelectorAll('picture > img').forEach((img) => img.closest('picture').replaceWith(createOptimizedPicture(img.src, img.alt, false, [{ width: '750' }])));
-  ul.querySelectorAll(".owl-carousel.card-carousel li").forEach((li) => {
+  parentDiv.querySelectorAll(".owl-carousel.card-carousel .innerDiv").forEach((li) => {
     const svgParagraph = li.querySelector("p");
     if (svgParagraph && svgParagraph.textContent.trim().endsWith(".svg")) {
       const svgFileName = svgParagraph.textContent.trim();
@@ -31,7 +32,7 @@ export default function decorate(block) {
       svgParagraph.parentNode.replaceChild(img, svgParagraph);
     }
   });
-  const listItems = ul.querySelectorAll('li');
+  const listItems = parentDiv.querySelectorAll('.innerDiv');
   if (!block.querySelector(".cards-iconwithtext.carausel-tabs>div")) {
     listItems.forEach(li => {
       const linkParagraph = li.querySelector('p:last-of-type');
@@ -46,5 +47,5 @@ export default function decorate(block) {
   }
 
   block.textContent = '';
-  block.append(ul);
+  block.append(parentDiv);
 }
