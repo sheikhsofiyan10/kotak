@@ -29,6 +29,10 @@
     top: 53%;
     left: 53%;
     transform: translate(-50%, -50%);
+    @media screen and (min-width:1200px) {
+        width: 1170px;
+        left: 50%;
+    }
 }
 
 
