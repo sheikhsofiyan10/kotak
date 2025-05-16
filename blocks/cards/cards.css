@@ -166,6 +166,16 @@
   line-height: 1.2;
 }
 
+.cards.card-related-article h6 {
+    font-size:28px;
+    line-height:1.1;
+    font-weight:500;
+}
+
+.card-paragraph-bullets .cards-card-body>ul:nth-child(1) li{
+    list-style:disc !important;
+}
+
 @media only screen and (max-width: 990px) {
   .cards>ul {
     max-width: 100%;
