@@ -56,12 +56,11 @@ export default async function decorate(block) {
       const onScroll = () => {
         if (window.scrollY >= notificationHeight) {
           wrapper.classList.remove("show");
-
-          localStorage.setItem("notificationClosed", "true");
-
           document.body.style.paddingTop = "";
-
           window.removeEventListener("scroll", onScroll);
+        } else {
+          wrapper.classList.add("show");
+          document.body.style.paddingTop = "60px";
         }
       };
 
