@@ -202,6 +202,9 @@
  .section.custom-content.section-width ul {
     padding-left: 0;
 }
+.section.custom-content.section-width .card-related-article li {
+    list-style : none;
+}
 
 @media only screen and (max-width: 990px) {
   .cards>ul {
