@@ -68,6 +68,30 @@ export default async function decorate(block) {
       window.addEventListener("scroll", onScroll);
     }
 
+    //  const onScroll = () => {
+
+    //     if (window.scrollY >= notificationHeight) {
+
+    //       wrapper.classList.add('show');
+
+    //       localStorage.setItem('notificationClosed', 'true');
+
+    //       document.body.style.paddingTop = '';
+
+    //       window.removeEventListener('scroll', onScroll);
+
+    //     }
+
+    //     else {
+
+    //       wrapper.classList.remove('hidden');
+
+    //       document.body.style.paddingTop = '60px';
+
+    //     }
+
+    //   };
+
     const observer = new MutationObserver((mutations) => {
       mutations.forEach((mutation) => {
         if (
