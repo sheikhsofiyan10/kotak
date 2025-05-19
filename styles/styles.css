@@ -428,6 +428,14 @@ main>.section:first-of-type {
   margin-bottom: 5rem;
 }
 
+.custom-content.font-medium {
+  font-size: 15px;
+}
+
+.custom-content.secondary-text-color {
+  color: var(--secondary-text-color);
+}
+
 @media only screen and (max-width: 1140px) {
   :root {
     --container-width: 900px
