@@ -39,3 +39,6 @@
     cursor: pointer;
     transform: translateY(-50%);
 }
+.notification-wrapper.show.notification-hidden {
+    display: none !important;
+  }
