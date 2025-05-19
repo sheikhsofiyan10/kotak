@@ -17,11 +17,13 @@
   --dark-color: #505050;
   --text-color: #131313;
   --text-dark: #000000;
+  --text-white: #fff;
   --primary-text-color: #333333;
   --secondary-text-color: #666666;
   --link-color: #ee1c25;
   --link-hover-color: #fff;
   --heading-color: #0f3464;
+  --heading-secondary-blue: #003366;
   --sub-heading-color: #3d3d3d;
   --bg-light-gray: #ececed;
   --bg-dark-gray: #f3f3f3;
