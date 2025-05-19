@@ -1,0 +1,41 @@
+.notification-wrapper {
+    display: none;
+    position: relative;
+    border: 1px solid #007bff;
+    padding: 15px 0;
+    font-size: 15px;
+    color: #fff;
+    background: rgb(37, 56, 68);
+    align-items: flex-start;
+    margin: 0 !important;
+    width: 100%;
+    max-width: 100% !important;
+    position: fixed;
+    top: 0px;
+    z-index: 99;
+}
+.notification-wrapper.show {
+    display: block;
+}
+.notification.block {
+    width: 90%;
+    margin: 0 auto;
+}
+.notification.block>div {
+    display: flex;
+}
+.close-btn-banner svg {
+    width: 24px;
+    height: 24px;
+    stroke: #fff;
+}
+.close-btn-banner {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    transform: translateY(-50%);
+}

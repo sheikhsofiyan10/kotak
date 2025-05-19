@@ -29,6 +29,10 @@
     top: 53%;
     left: 53%;
     transform: translate(-50%, -50%);
+    @media screen and (min-width:1200px) {
+        width: 1170px;
+        left: 50%;
+    }
 }
 
 
@@ -154,10 +158,13 @@
     width: 100%;
 }
 
-.kt-carousel a:hover{
-    background-color: #ee1c25;
+.kt-carousel a.button:hover{
+    background-color: #d4381d;
 }
 
+.kt-carousel a.button{
+    background-color: #ed4223;
+}
 
 .kt-carousel .owl-dots .owl-dot span{
     background-color: transparent;
