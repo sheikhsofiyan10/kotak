@@ -9610,7 +9610,7 @@ const headerContent = `
                 <div class="header-col-dp-2">
                     <div class="header-login-container">
                         <div class="header-search fetch-search-results analytics-links  header-login-a" data-toggle="modal" data-target="#search-modal">
-                          <img src="https://www.kotak.com/content/dam/Kotak/svg-icons/navigation/search-web.svg">                              
+                          <img src="https://www.kotak.com/content/dam/Kotak/svg-icons/navigation/search-web.svg" alt="Search Web Logo">
                         </div>
                         <div data-href="https://netbanking.kotak.com/knb2/" class="header-login-a headerlogindiv">
                             <div class="header-login">

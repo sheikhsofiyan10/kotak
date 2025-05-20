@@ -1057,13 +1057,13 @@ const footerContent = `
             <div class="col-md-3 col-sm-3 hidden-xs">
                 <p class="footer-other-title">Connect With Us</p>
                 <ul class="sosial-icon clearfix">
-                    <li><a href="https://www.facebook.com/KotakBank/" target="_blank" rel="nofollow"><i class="fa-facebook-f fa"></i></a></li>
+                    <li><a href="https://www.facebook.com/KotakBank/" target="_blank" rel="nofollow" aria-label="facebook link"><i class="fa-facebook-f fa"></i></a></li>
                 
-                    <li><a href="https://twitter.com/kotakbankltd?lang=en" target="_blank" rel="nofollow"><i class="fa-twitter fa"></i></a></li>
+                    <li><a href="https://twitter.com/kotakbankltd?lang=en" target="_blank" rel="nofollow" aria-label="twitter link"><i class="fa-twitter fa"></i></a></li>
                 
-                    <li><a href="https://www.youtube.com/user/KotakBankIndia" target="_blank" rel="nofollow"><i class="fa-youtube fa"></i></a></li>
+                    <li><a href="https://www.youtube.com/user/KotakBankIndia" target="_blank" rel="nofollow" aria-label="youtube link"><i class="fa-youtube fa"></i></a></li>
                 
-                    <li><a href="https://www.linkedin.com/company/kotak-mahindra-bank" target="_blank" rel="nofollow"><i class="fa-linkedin fa"></i></a></li>
+                    <li><a href="https://www.linkedin.com/company/kotak-mahindra-bank" target="_blank" rel="nofollow" aria-label="linkedin link"><i class="fa-linkedin fa"></i></a></li>
                 </ul>
             </div>
             <div class="col-md-3 col-sm-3">
@@ -1071,11 +1071,11 @@ const footerContent = `
 
                 <ul class="horizon-list-box clearfix">
                     <li>
-                        <a href="https://play.google.com/store/apps/details?id=com.msf.kbank.mobile" target="_blank"><img class=" lazyloaded" data-src="https://www.kotak.com/content/dam/Kotak/google-play.png" alt="Google Play" title="Google Play" src="https://www.kotak.com/content/dam/Kotak/google-play.png"></a>
+                        <a href="https://play.google.com/store/apps/details?id=com.msf.kbank.mobile" target="_blank" aria-label="google-playstore link"><img class=" lazyloaded" data-src="https://www.kotak.com/content/dam/Kotak/google-play.png" alt="Google Play" title="Google Play" src="https://www.kotak.com/content/dam/Kotak/google-play.png"></a>
                     </li>
                 
                     <li>
-                        <a href="https://itunes.apple.com/in/app/kotak-bank/id622363400?mt=8" target="_blank"><img class=" lazyloaded" data-src="https://www.kotak.com/content/dam/Kotak/apple-store.png" alt="Apple App Store" title="Apple App Store" src="https://www.kotak.com/content/dam/Kotak/apple-store.png"></a>
+                        <a href="https://itunes.apple.com/in/app/kotak-bank/id622363400?mt=8" target="_blank" aria-label="apple-playstore link"><img class=" lazyloaded" data-src="https://www.kotak.com/content/dam/Kotak/apple-store.png" alt="Apple App Store" title="Apple App Store" src="https://www.kotak.com/content/dam/Kotak/apple-store.png"></a>
                     </li>
                 </ul>
             </div>
@@ -1551,29 +1551,29 @@ const footerContent = `
 <div class="accordion-container-2" style="display: none;">
     <div class="footer-sitemap">
         <ul>
-            <li><a href="/en/personal-banking/cards/credit-cards/mitc-and-ca.html" target="_top">Credit Card T&amp;C</a></li>
+            <li><a href="/en/personal-banking/cards/credit-cards/mitc-and-ca.html" target="_top" aria-label="Credit Card T&amp;C link">Credit Card T&amp;C</a></li>
         
-            <li><a href="/en/terms-conditions/co-brand-credit-card.html" target="_top">Co Brand Credit Card</a></li>
+            <li><a href="/en/terms-conditions/co-brand-credit-card.html" target="_top" aria-label="Co Brand Credit Card link">Co Brand Credit Card</a></li>
         
-            <li><a href="/en/personal-banking/cards/debit-cards/mitc.html" target="_top">Debit Card T&amp;C</a></li>
+            <li><a href="/en/personal-banking/cards/debit-cards/mitc.html" target="_top" aria-label="Debit Card T&amp;C link">Debit Card T&amp;C</a></li>
         
-            <li><a href="/en/customer-service/public-notices.html" target="_blank">Public Notice</a></li>
+            <li><a href="/en/customer-service/public-notices.html" target="_blank" aria-label="Public Notice link">Public Notice</a></li>
         
-            <li><a href="/en/investor-relations/financial-results/regulatory-disclosure.html" target="_top">Regulatory Disclosure</a></li>
+            <li><a href="/en/investor-relations/financial-results/regulatory-disclosure.html" target="_top" aria-label="Regulatory Disclosure link">Regulatory Disclosure</a></li>
         
-            <li><a href="/en/customer-service/important-customer-information/banking-policies.html" target="_top">MSME Policy &amp; Regulatory Updates</a></li>
+            <li><a href="/en/customer-service/important-customer-information/banking-policies.html" target="_top" aria-label="MSME Policy &amp; Regulatory Updates link">MSME Policy &amp; Regulatory Updates</a></li>
         
-            <li><a href="https://www.kotak.com/content/dam/Kotak/others/Certificate-Correspondent-Accounts-KM-Inc.pdf" target="_blank">USA Patriot Act Certification</a></li>
+            <li><a href="https://www.kotak.com/content/dam/Kotak/others/Certificate-Correspondent-Accounts-KM-Inc.pdf" target="_blank" aria-label="USA Patriot Act Certification link">USA Patriot Act Certification</a></li>
         
-            <li><a href="https://www.sihub.in/managesi/kotak/" target="_blank">Subscriptions/ Recurring Payments</a></li>
+            <li><a href="https://www.sihub.in/managesi/kotak/" target="_blank" aria-label="Subscriptions/ Recurring Payments link">Subscriptions/ Recurring Payments</a></li>
         
-            <li><a href="https://www.kotak.com/content/dam/Kotak/others/anti-money-laundering-questionnaire.pdf" target="_blank">Wolfsberg AML Questionnaire</a></li>
+            <li><a href="https://www.kotak.com/content/dam/Kotak/others/anti-money-laundering-questionnaire.pdf" target="_blank" aria-label="Wolfsberg AML Questionnaire link">Wolfsberg AML Questionnaire</a></li>
         
-            <li><a href="/en/bank-auctions.html" target="_top">Auction Cum Sale Notice</a></li>
+            <li><a href="/en/bank-auctions.html" target="_top" aria-label="Auction Cum Sale Notice link">Auction Cum Sale Notice</a></li>
         
-            <li><a href="https://www.kotak.com/content/dam/Kotak/others/asset-classification-norms.pdf" target="_top">Asset Classification Norms</a></li>
+            <li><a href="https://www.kotak.com/content/dam/Kotak/others/asset-classification-norms.pdf" target="_top" aria-label="Asset Classification Norms link">Asset Classification Norms</a></li>
         
-            <li><a href="/en/customer-service/grievance-redressal/recovery-agent.html" target="_top">Recovery Agent</a></li>
+            <li><a href="/en/customer-service/grievance-redressal/recovery-agent.html" target="_top" aria-label="Recovery Agent link">Recovery Agent</a></li>
         </ul>
     </div>
 </div>
@@ -1596,25 +1596,26 @@ const footerContent = `
             <div class="accordion-container-2" style="display: none;">
                 <div class="footer-sitemap">
                     <ul>
-                        <li><a href="https://www.kotakmf.com/?utm_source=kotakbanksite&amp;utm_medium=footer" target="_blank">Kotak Asset Management</a></li>
+                        <li><a href="https://www.kotakmf.com/?utm_source=kotakbanksite&amp;utm_medium=footer" target="_blank" aria-label="Kotak Asset Management link">Kotak Asset Management</a></li>
                     
-                        <li><a href="https://ddei5-0-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=www.zurichkotak.com&amp;umid=1A4EA99E-28FD-3A06-ADDE-F58F53C75AF4&amp;auth=1c08f41e13f1471be67f7d94088eca452d160899-09d8c17d76d170d8de41fc6419fe99babccf1f8b" target="_blank">Zurich Kotak General insurance</a></li>
+                        <li><a href="https://ddei5-0-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=www.zurichkotak.com&amp;umid=1A4EA99E-28FD-3A06-ADDE-F58F53C75AF4&amp;auth=1c08f41e13f1471be67f7d94088eca452d160899-09d8c17d76d170d8de41fc6419fe99babccf1f8b" target="_blank"
+                        aria-label="Zurich Kotak General insurance link">Zurich Kotak General insurance</a></li>
                     
-                        <li><a href="https://kie.kotak.com/" target="_blank">Kotak Institutional Equities</a></li>
+                        <li><a href="https://kie.kotak.com/" target="_blank" aria-label="Kotak Institutional Equities link">Kotak Institutional Equities</a></li>
                     
-                        <li><a href="/en/kotak-international-business.html" target="_blank">Kotak International Business</a></li>
+                        <li><a href="/en/kotak-international-business.html" target="_blank" aria-label="Kotak International Business link">Kotak International Business</a></li>
                     
-                        <li><a href="https://alternateassets.kotak.com" target="_blank">Kotak Investment Advisors</a></li>
+                        <li><a href="https://alternateassets.kotak.com" target="_blank" aria-label="Kotak Investment Advisors link">Kotak Investment Advisors</a></li>
                     
-                        <li><a href="https://investmentbank.kotak.com" target="_blank">Kotak Investment Banking</a></li>
+                        <li><a href="https://investmentbank.kotak.com" target="_blank" aria-label="Kotak Investment Banking link">Kotak Investment Banking</a></li>
                     
-                        <li><a href="https://www.kotaklife.com/?utm_source=organic&amp;utm_medium=KMBLwebsite&amp;utm_campaign=referral" target="_blank">Kotak Life Insurance</a></li>
+                        <li><a href="https://www.kotaklife.com/?utm_source=organic&amp;utm_medium=KMBLwebsite&amp;utm_campaign=referral" target="_blank" aria-label="Kotak Life Insurance link">Kotak Life Insurance</a></li>
                     
-                        <li><a href="https://www.kmil.co.in/" target="_blank">Kotak Mahindra Investments</a></li>
+                        <li><a href="https://www.kmil.co.in/" target="_blank" aria-label="Kotak Mahindra Investments link">Kotak Mahindra Investments</a></li>
                     
-                        <li><a href="https://www.primeloans.kotak.com/" target="_blank">Kotak Mahindra Prime</a></li>
+                        <li><a href="https://www.primeloans.kotak.com/" target="_blank" aria-label="Kotak Mahindra Prime link">Kotak Mahindra Prime</a></li>
                     
-                        <li><a href="https://www.kotaksecurities.com/" target="_blank">Kotak Securities Limited</a></li>
+                        <li><a href="https://www.kotaksecurities.com/" target="_blank" aria-label="Kotak Securities Limited link">Kotak Securities Limited</a></li>
                     </ul>
                 </div>
             </div>
