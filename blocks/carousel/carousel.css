@@ -194,3 +194,14 @@
     background: url(https://www.kotak.com/etc/designs/kotak/clientlib-site/images/svg-icon/prev.svg) no-repeat !important;
     right: 0% !important;
 }
+.text-white .carousel-content h1{
+    color: var(--link-hover-color);
+
+    @media screen and (min-width:1000px) {
+        max-width: 52%;
+    }
+}
+
+.text-secondary-blue .main-text{
+    color: #003366;
+}

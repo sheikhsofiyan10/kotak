@@ -1,5 +1,13 @@
 export default async function decorate(block) {
   console.log("inside block");
+  const fileName = "information.svg";
+  const paraCheck = document.querySelector(".notification div > div:first-child p");
+  const img = document.createElement("img");
+  img.src = `../../icons/${fileName}`;
+  img.alt = fileName.replace(".svg", "");
+  img.classList.add("credit-card-icon");
+  paraCheck.replaceWith(img);
+
   window.onload = () => {
     console.log("inside addEventListener");
     const wrapper = document.querySelector(".notification-wrapper");
@@ -63,16 +71,15 @@ export default async function decorate(block) {
       observer.observe(el, { attributes: true });
     });
   };
-  window.addEventListener("scroll", () => {
-    const wrapper = document.querySelector(".notification-wrapper");
+window.addEventListener('scroll', () => {
+    const wrapper = document.querySelector('.notification-wrapper');
     if (!wrapper) return;
-
     if (window.scrollY > 60) {
-      console.log("scroll more than 60>>>");
-      wrapper.style.display = "none !important";
+      console.log('scroll more than 60>>>');
+      wrapper.classList.add('notification-hidden');
     } else {
-      console.log("scroll less than 60>>>");
-      wrapper.style.display = "";
+      console.log('scroll less than 60>>>');
+      wrapper.classList.remove('notification-hidden');
     }
   });
 }
