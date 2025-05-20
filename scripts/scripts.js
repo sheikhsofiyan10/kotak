@@ -155,11 +155,38 @@ function loadScript(url, callback) {
   document.head.appendChild(script);
 }
 
+// Adobe Analytics Script
 loadScript(
   "https://assets.adobedtm.com/18d6771123cb/9acc6fcece69/launch-e0a440c6fb45-development.min.js",
   () => {
     // Add your analytics here
     console.log("Adobe Analytics Loaded");
+
+    var visitorID = "";
+    if (
+      typeof _satellite != "undefined" &&
+      typeof _satellite.getVisitorId() != "undefined" &&
+      _satellite.getVisitorId() != null &&
+      typeof _satellite.getVisitorId().getMarketingCloudVisitorID() !=
+        "undefined"
+    ) {
+      visitorID = _satellite.getVisitorId().getMarketingCloudVisitorID();
+    }
+
+    window.digitalData = {
+      page: {
+        pageInfo: {
+          pageName: document.title,
+          pageURL: window.location.href,
+        },
+      },
+
+      user: {
+        visitorID: visitorID,
+      },
+
+      event: "pageLoad",
+    };
   }
 );
 

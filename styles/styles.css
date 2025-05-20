@@ -402,6 +402,12 @@ main>.section:first-of-type {
   padding-left: 15px;
 }
 
+.section.heading-2 h2{
+  font-size: 28px;
+  font-weight: 400;
+  letter-spacing: .1px;
+}
+
 .custom-content.list-style-decimal ul {
   padding-left: 5rem;
 }
