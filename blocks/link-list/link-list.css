@@ -9,6 +9,9 @@
   font-weight: 500;
   line-height: 1.1;
   font-family: "Roboto", sans-serif;
+  text-align: start;
+  color: #333;
+  margin: 0;
 }
 .link-list-container.title-primary h2 {
   color: #003974;
@@ -16,6 +19,8 @@
   font-size: 15px;
   font-family: "Roboto", sans-serif;
   line-height: 1.1;
+  text-align: start;
+  margin: 0;
 }
 
 .helpcenter__link-wrapper {
