@@ -36,7 +36,6 @@ function createCard(review) {
 }
 
 async function renderCards(block) {
-  //const block = document.querySelector(".testimonials");
   const div = document.createElement("div");
   div.className = "owl-carousel card-testimonials";
   const url = document.querySelector('a[href$=".json"]').textContent.trim();
@@ -48,26 +47,3 @@ async function renderCards(block) {
   block.textContent = "";
   block.append(div);
 }
-
-window.onload = function () {
-  $(".testimonials > .owl-carousel.card-testimonials").owlCarousel({
-      items: 3,
-      loop: true,
-      margin: 10,
-      nav: true,
-      autoplay: false,
-      dots: false,
-      autoplayTimeout: 3000,
-      responsive: {
-        0: {
-          items: 1,
-        },
-        600: {
-          items: 1,
-        },
-        1000: {
-          items: 3,
-        },
-      },
-    });
-};
