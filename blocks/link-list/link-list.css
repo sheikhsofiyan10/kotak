@@ -65,3 +65,46 @@
   font-family: "Roboto", sans-serif;
   line-height: 20px;
 }
+
+.link-list-container {
+  background-color: #f5f5f5;
+}
+.helpcenter__list-item .subheading {
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "Roboto", sans-serif;
+  line-height: 20px;
+  margin-bottom: 0;
+}
+.link-list-container p.button-container {
+  margin-bottom: 0;
+}
+.helpcenter__border-bottom {
+  padding: 15px 0;
+  border-bottom: 1px solid #e4e4e4;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+.link-list-container.display-arrow .helpcenter__border-bottom::before {
+  position: absolute;
+  content: "";
+  background-image: url(../../icons/accordionarrow.svg);
+  width: 13px;
+  height: 13px;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  background-repeat: no-repeat;
+}
+
+.helpcenter__list-item a {
+  display: block;
+  color: #322b2b;
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  width: 100%;
+}

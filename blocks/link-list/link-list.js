@@ -9,6 +9,7 @@ export default async function decorate (block) {
     headerEl.classList.add("helpcenter__link-wrapper");
     Array.from(headerEl.children).forEach((item) => {
       if (item?.tagName === "P") {
+        item.children[0].classList.remove("button");
         item.children[0].innerHTML = `<img src="https://www.kotak.com/content/dam/Kotak/selfhelpicons/back%20button.png" />`;
       }
     });
