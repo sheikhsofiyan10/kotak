@@ -96,7 +96,7 @@ const footerContent = `
                     <div>
                         <div><div class="text section">
 <div id="text-5642c51a80" class="cmp-text">
-    <p>By clicking on the hyperlink, you will be leaving <a href="/en/home.html">www.kotak.com</a> and entering a website operated by other parties.</p>
+    <p>By clicking on the hyperlink, you will be leaving <a href="https://www.kotak.com/en/home.html">www.kotak.com</a> and entering a website operated by other parties.</p>
 <p class="btn-box popup-close" style="text-align: center;"><a href="https://kotakbizlabs.accubate.app/ext/form/2802/1/apply" class="btn btn-primary" target="_blank">Proceed</a></p>
 
 </div>
@@ -145,43 +145,43 @@ const footerContent = `
             			<p class="sec-footer-title">Channel Red  *New*</p>
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/stories-in-focus/channel-red/view-all.html?sixthFilterTag=mobile-banking">Mobile Banking</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/stories-in-focus/channel-red/view-all.html?sixthFilterTag=mobile-banking">Mobile Banking</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/stories-in-focus/channel-red/view-all.html?sixthFilterTag=net-banking">Net Banking</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/stories-in-focus/channel-red/view-all.html?sixthFilterTag=net-banking">Net Banking</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/stories-in-focus/channel-red/view-all.html?secondFilterTag=manage-your-account">Manage your account</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/stories-in-focus/channel-red/view-all.html?secondFilterTag=manage-your-account">Manage your account</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/stories-in-focus/channel-red/view-all.html?secondFilterTag=transfer-money">Transfer money</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/stories-in-focus/channel-red/view-all.html?secondFilterTag=transfer-money">Transfer money</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/stories-in-focus/channel-red/view-all.html?secondFilterTag=recharge-or-make-payments">Recharge / Make payments</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/stories-in-focus/channel-red/view-all.html?secondFilterTag=recharge-or-make-payments">Recharge / Make payments</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/stories-in-focus/channel-red/view-all.html?firstFilterTag=credit-cards">Credit Cards</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/stories-in-focus/channel-red/view-all.html?firstFilterTag=credit-cards">Credit Cards</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/stories-in-focus/channel-red/view-all.html?firstFilterTag=credit-cards">Debit Cards</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/stories-in-focus/channel-red/view-all.html?firstFilterTag=credit-cards">Debit Cards</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/stories-in-focus/channel-red/view-all.html?firstFilterTag=home-loan,personal-loan">Loans</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/stories-in-focus/channel-red/view-all.html?firstFilterTag=home-loan,personal-loan">Loans</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/stories-in-focus/channel-red/view-all.html?firstFilterTag=national-pension-scheme">National Pension Scheme</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/stories-in-focus/channel-red/view-all.html?firstFilterTag=national-pension-scheme">National Pension Scheme</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/stories-in-focus/channel-red/view-all.html?firstFilterTag=deposits">Deposits</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/stories-in-focus/channel-red/view-all.html?firstFilterTag=deposits">Deposits</a>
                     		
                 		
 					</li>
@@ -190,35 +190,35 @@ const footerContent = `
             			<p class="sec-footer-title">Popular Products</p>
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/personal-banking/loans/home-loan.html">Home Loan</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/personal-banking/loans/home-loan.html">Home Loan</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/personal-banking/loans/personal-loan.html">Personal Loan</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/personal-banking/loans/personal-loan.html">Personal Loan</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/personal-banking/accounts/savings-account.html">Savings Account</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/personal-banking/accounts/savings-account.html">Savings Account</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/business/accounts/current-accounts.html">Current Account</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/business/accounts/current-accounts.html">Current Account</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/personal-banking/cards/credit-cards.html">Credit Cards</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/personal-banking/cards/credit-cards.html">Credit Cards</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/personal-banking/investments/mutual-funds.html">Mutual Funds</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/personal-banking/investments/mutual-funds.html">Mutual Funds</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/personal-banking/investments/national-pension-system.html">National Pension Scheme (NPS)</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/personal-banking/investments/national-pension-system.html">National Pension Scheme (NPS)</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/business/loans/business-loan.html">Business Loan</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/business/loans/business-loan.html">Business Loan</a>
                     		
                 		
                     		
@@ -226,19 +226,19 @@ const footerContent = `
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/personal-banking/insurance/life-insurance/apply-for-life-insurance.html">Life Insurance</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/personal-banking/insurance/life-insurance/apply-for-life-insurance.html">Life Insurance</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/personal-banking/deposits/fixed-deposit.html">Fixed Deposit</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/personal-banking/deposits/fixed-deposit.html">Fixed Deposit</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/personal-banking/deposits/recurring-deposits.html">Recurring Deposit</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/personal-banking/deposits/recurring-deposits.html">Recurring Deposit</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/business/loans/loan-against-property.html">Loan against property</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/business/loans/loan-against-property.html">Loan against property</a>
                     		
                 		
                     		
@@ -250,35 +250,35 @@ const footerContent = `
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/personal-banking/loans/car-loan.html">Car Loan</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/personal-banking/loans/car-loan.html">Car Loan</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/personal-banking/loans/gold-loan.html">Gold Loan</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/personal-banking/loans/gold-loan.html">Gold Loan</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/personal-banking/loans/education-loan.html">Education Loan</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/personal-banking/loans/education-loan.html">Education Loan</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/personal-banking/cards/prepaid-card.html">Prepaid Card</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/personal-banking/cards/prepaid-card.html">Prepaid Card</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/personal-banking/accounts/corporate-salary-account.html">Salary Account</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/personal-banking/accounts/corporate-salary-account.html">Salary Account</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/personal-banking/investments/sovereign-gold-bond-scheme.html">Sovereign Gold Bond</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/personal-banking/investments/sovereign-gold-bond-scheme.html">Sovereign Gold Bond</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/corporate/cash-management-services/digital-collections/bbps.html">BBPS</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/corporate/cash-management-services/digital-collections/bbps.html">BBPS</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/personal-banking/cards/prepaid-card/forex-card.html">Forex Card</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/personal-banking/cards/prepaid-card/forex-card.html">Forex Card</a>
                     		
                 		
 					</li>
@@ -287,59 +287,59 @@ const footerContent = `
             			<p class="sec-footer-title">Help Center</p>
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/help-center/bank-account.html">Account</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/help-center/bank-account.html">Account</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/help-center/issue-with-transactions.html">Issue with Transactions</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/help-center/issue-with-transactions.html">Issue with Transactions</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/help-center/credit-card.html">Credit Card</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/help-center/credit-card.html">Credit Card</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/help-center/811-account.html">811 Account</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/help-center/811-account.html">811 Account</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/help-center/bill-payment-and-recharge.html">Fund Transfer, Bill Payment &amp; Recharge</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/help-center/bill-payment-and-recharge.html">Fund Transfer, Bill Payment &amp; Recharge</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/help-center/loans--hl--pl--bl--lap--wc-.html">Loans</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/help-center/loans--hl--pl--bl--lap--wc-.html">Loans</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/help-center/cards/fastag.html">FASTag</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/help-center/cards/fastag.html">FASTag</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/help-center/fixed-deposit-and-recurring-deposit.html">Fixed Deposit (FD) and Recurring Deposit (RD)</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/help-center/fixed-deposit-and-recurring-deposit.html">Fixed Deposit (FD) and Recurring Deposit (RD)</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/help-center/nri-banking.html">NRI Services</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/help-center/nri-banking.html">NRI Services</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/help-center/personal.html">My Profile - Mobile Number, Aadhaar, Email ID &amp; Address</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/help-center/personal.html">My Profile - Mobile Number, Aadhaar, Email ID &amp; Address</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/help-center/cards/forex.html">Forex</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/help-center/cards/forex.html">Forex</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/help-center/insurance.html">Insurance (Premium payments, Tax benefit etc )</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/help-center/insurance.html">Insurance (Premium payments, Tax benefit etc )</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/help-center/investments.html">Investments (Scheme Issues, Dividend related)</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/help-center/investments.html">Investments (Scheme Issues, Dividend related)</a>
                     		
                 		
                     		
-                        		<a class="sec-footer-links" href="/en/help-center/working-capital.html">Working Capital</a>
+                        		<a class="sec-footer-links" href="https://www.kotak.com/en/help-center/working-capital.html">Working Capital</a>
                     		
                 		
 					</li>
@@ -364,25 +364,25 @@ const footerContent = `
  						<div class="accordion-container-2" style="display: none;">
                 			<div class="footer-sitemap">
                     			<ul>
-                        			<li><a class="mb-secfooter-link" href="/en/stories-in-focus/channel-red/view-all.html?sixthFilterTag=mobile-banking">Mobile Banking</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/stories-in-focus/channel-red/view-all.html?sixthFilterTag=mobile-banking">Mobile Banking</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/stories-in-focus/channel-red/view-all.html?sixthFilterTag=net-banking">Net Banking</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/stories-in-focus/channel-red/view-all.html?sixthFilterTag=net-banking">Net Banking</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/stories-in-focus/channel-red/view-all.html?secondFilterTag=manage-your-account">Manage your account</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/stories-in-focus/channel-red/view-all.html?secondFilterTag=manage-your-account">Manage your account</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/stories-in-focus/channel-red/view-all.html?secondFilterTag=transfer-money">Transfer money</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/stories-in-focus/channel-red/view-all.html?secondFilterTag=transfer-money">Transfer money</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/stories-in-focus/channel-red/view-all.html?secondFilterTag=recharge-or-make-payments">Recharge / Make payments</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/stories-in-focus/channel-red/view-all.html?secondFilterTag=recharge-or-make-payments">Recharge / Make payments</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/stories-in-focus/channel-red/view-all.html?firstFilterTag=credit-cards">Credit Cards</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/stories-in-focus/channel-red/view-all.html?firstFilterTag=credit-cards">Credit Cards</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/stories-in-focus/channel-red/view-all.html?firstFilterTag=credit-cards">Debit Cards</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/stories-in-focus/channel-red/view-all.html?firstFilterTag=credit-cards">Debit Cards</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/stories-in-focus/channel-red/view-all.html?firstFilterTag=home-loan,personal-loan">Loans</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/stories-in-focus/channel-red/view-all.html?firstFilterTag=home-loan,personal-loan">Loans</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/stories-in-focus/channel-red/view-all.html?firstFilterTag=national-pension-scheme">National Pension Scheme</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/stories-in-focus/channel-red/view-all.html?firstFilterTag=national-pension-scheme">National Pension Scheme</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/stories-in-focus/channel-red/view-all.html?firstFilterTag=deposits">Deposits</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/stories-in-focus/channel-red/view-all.html?firstFilterTag=deposits">Deposits</a></li>
                     			</ul>
                 			</div>
             			</div>
@@ -400,51 +400,51 @@ const footerContent = `
  						<div class="accordion-container-2" style="display: none;">
                 			<div class="footer-sitemap">
                     			<ul>
-                        			<li><a class="mb-secfooter-link" href="/en/personal-banking/loans/home-loan.html">Home Loan</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/personal-banking/loans/home-loan.html">Home Loan</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/personal-banking/loans/personal-loan.html">Personal Loan</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/personal-banking/loans/personal-loan.html">Personal Loan</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/personal-banking/accounts/savings-account.html">Savings Account</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/personal-banking/accounts/savings-account.html">Savings Account</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/business/accounts/current-accounts.html">Current Account</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/business/accounts/current-accounts.html">Current Account</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/personal-banking/cards/credit-cards.html">Credit Cards</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/personal-banking/cards/credit-cards.html">Credit Cards</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/personal-banking/investments/mutual-funds.html">Mutual Funds</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/personal-banking/investments/mutual-funds.html">Mutual Funds</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/personal-banking/investments/national-pension-system.html">National Pension Scheme (NPS)</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/personal-banking/investments/national-pension-system.html">National Pension Scheme (NPS)</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/business/loans/business-loan.html">Business Loan</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/business/loans/business-loan.html">Business Loan</a></li>
                     			
                         			<li><a class="mb-secfooter-link" href="https://www.kotak.com/811-savingsaccount-ZeroBalanceAccount/811/vkyc-home.action?utm_source=kotak_website_secondary_footer&amp;utm_medium=referral&amp;utm_campaign=lead_gen">Zero Balance Savings Account</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/personal-banking/insurance/life-insurance/apply-for-life-insurance.html">Life Insurance</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/personal-banking/insurance/life-insurance/apply-for-life-insurance.html">Life Insurance</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/personal-banking/deposits/fixed-deposit.html">Fixed Deposit</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/personal-banking/deposits/fixed-deposit.html">Fixed Deposit</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/personal-banking/deposits/recurring-deposits.html">Recurring Deposit</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/personal-banking/deposits/recurring-deposits.html">Recurring Deposit</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/business/loans/loan-against-property.html">Loan against property</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/business/loans/loan-against-property.html">Loan against property</a></li>
                     			
                         			<li><a class="mb-secfooter-link" href="https://www.kotak811.com/open-zero-balance-savings-account?utm_source=kotak_website_secondary_footer&amp;utm_medium=referral&amp;utm_campaign=account_open">Kotak811 Savings Account</a></li>
                     			
                         			<li><a class="mb-secfooter-link" href="https://www.kotak811.com/current-account/811-business?utm_source=kotak_website_secondary_footer&amp;utm_medium=referral&amp;utm_campaign=ca_pp">Kotak811 Current Account</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/personal-banking/loans/car-loan.html">Car Loan</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/personal-banking/loans/car-loan.html">Car Loan</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/personal-banking/loans/gold-loan.html">Gold Loan</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/personal-banking/loans/gold-loan.html">Gold Loan</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/personal-banking/loans/education-loan.html">Education Loan</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/personal-banking/loans/education-loan.html">Education Loan</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/personal-banking/cards/prepaid-card.html">Prepaid Card</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/personal-banking/cards/prepaid-card.html">Prepaid Card</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/personal-banking/accounts/corporate-salary-account.html">Salary Account</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/personal-banking/accounts/corporate-salary-account.html">Salary Account</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/personal-banking/investments/sovereign-gold-bond-scheme.html">Sovereign Gold Bond</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/personal-banking/investments/sovereign-gold-bond-scheme.html">Sovereign Gold Bond</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/corporate/cash-management-services/digital-collections/bbps.html">BBPS</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/corporate/cash-management-services/digital-collections/bbps.html">BBPS</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/personal-banking/cards/prepaid-card/forex-card.html">Forex Card</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/personal-banking/cards/prepaid-card/forex-card.html">Forex Card</a></li>
                     			</ul>
                 			</div>
             			</div>
@@ -462,33 +462,33 @@ const footerContent = `
  						<div class="accordion-container-2" style="display: none;">
                 			<div class="footer-sitemap">
                     			<ul>
-                        			<li><a class="mb-secfooter-link" href="/en/help-center/bank-account.html">Account</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/help-center/bank-account.html">Account</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/help-center/issue-with-transactions.html">Issue with Transactions</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/help-center/issue-with-transactions.html">Issue with Transactions</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/help-center/credit-card.html">Credit Card</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/help-center/credit-card.html">Credit Card</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/help-center/811-account.html">811 Account</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/help-center/811-account.html">811 Account</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/help-center/bill-payment-and-recharge.html">Fund Transfer, Bill Payment &amp; Recharge</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/help-center/bill-payment-and-recharge.html">Fund Transfer, Bill Payment &amp; Recharge</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/help-center/loans--hl--pl--bl--lap--wc-.html">Loans</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/help-center/loans--hl--pl--bl--lap--wc-.html">Loans</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/help-center/cards/fastag.html">FASTag</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/help-center/cards/fastag.html">FASTag</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/help-center/fixed-deposit-and-recurring-deposit.html">Fixed Deposit (FD) and Recurring Deposit (RD)</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/help-center/fixed-deposit-and-recurring-deposit.html">Fixed Deposit (FD) and Recurring Deposit (RD)</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/help-center/nri-banking.html">NRI Services</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/help-center/nri-banking.html">NRI Services</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/help-center/personal.html">My Profile - Mobile Number, Aadhaar, Email ID &amp; Address</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/help-center/personal.html">My Profile - Mobile Number, Aadhaar, Email ID &amp; Address</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/help-center/cards/forex.html">Forex</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/help-center/cards/forex.html">Forex</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/help-center/insurance.html">Insurance (Premium payments, Tax benefit etc )</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/help-center/insurance.html">Insurance (Premium payments, Tax benefit etc )</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/help-center/investments.html">Investments (Scheme Issues, Dividend related)</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/help-center/investments.html">Investments (Scheme Issues, Dividend related)</a></li>
                     			
-                        			<li><a class="mb-secfooter-link" href="/en/help-center/working-capital.html">Working Capital</a></li>
+                        			<li><a class="mb-secfooter-link" href="https://www.kotak.com/en/help-center/working-capital.html">Working Capital</a></li>
                     			</ul>
                 			</div>
             			</div>
@@ -585,23 +585,23 @@ const footerContent = `
             <div class="col-md-2 col-sm-4 col-xs-6">
                 <div><div class="footer-links section"><ul class="footerSpace">
     <li>
-        <p class="footerspace-title"><a href="/en/about-us.html" target="_top">About us</a></p></li>
+        <p class="footerspace-title"><a href="https://www.kotak.com/en/about-us.html" target="_top">About us</a></p></li>
     
     
         <li>
-            <a href="/en/about-us/our-business.html" target="_blank">Our Businesses</a>
+            <a href="https://www.kotak.com/en/about-us/our-business.html" target="_blank">Our Businesses</a>
         </li>
     
         <li>
-            <a href="/en/about-us/media.html" target="_top">Media Centre</a>
+            <a href="https://www.kotak.com/en/about-us/media.html" target="_top">Media Centre</a>
         </li>
     
         <li>
-            <a href="/en/about-us/careers.html" target="_blank">Careers</a>
+            <a href="https://www.kotak.com/en/about-us/careers.html" target="_blank">Careers</a>
         </li>
     
         <li>
-            <a href="/en/personal-banking/difc.html" target="_top">DIFC Branch</a>
+            <a href="https://www.kotak.com/en/personal-banking/difc.html" target="_top">DIFC Branch</a>
         </li>
     
         <li>
@@ -609,7 +609,7 @@ const footerContent = `
         </li>
     
         <li>
-            <a href="/en/personal-banking/fsl.html" target="_top">KMFSL</a>
+            <a href="https://www.kotak.com/en/personal-banking/fsl.html" target="_top">KMFSL</a>
         </li>
     
 </ul>
@@ -622,31 +622,31 @@ const footerContent = `
 </div>
 <div class="footer-links section"><ul class="footerSpace">
     <li>
-        <p class="footerspace-title"><a href="/en/investor-relations.html" target="_top">Investor Relations</a></p></li>
+        <p class="footerspace-title"><a href="https://www.kotak.com/en/investor-relations.html" target="_top">Investor Relations</a></p></li>
     
     
         <li>
-            <a href="/en/investor-relations.html" target="_top">Overview</a>
+            <a href="https://www.kotak.com/en/investor-relations.html" target="_top">Overview</a>
         </li>
     
         <li>
-            <a href="/en/investor-relations/financial-results.html" target="_top">Financials</a>
+            <a href="https://www.kotak.com/en/investor-relations/financial-results.html" target="_top">Financials</a>
         </li>
     
         <li>
-            <a href="/en/investor-relations/governance.html" target="_top">Governance</a>
+            <a href="https://www.kotak.com/en/investor-relations/governance.html" target="_top">Governance</a>
         </li>
     
         <li>
-            <a href="/en/investor-relations/investor-information.html" target="_top">Shareholding &amp; Investor Info</a>
+            <a href="https://www.kotak.com/en/investor-relations/investor-information.html" target="_top">Shareholding &amp; Investor Info</a>
         </li>
     
         <li>
-            <a href="/en/investor-relations/sustainability.html" target="_top">Sustainability</a>
+            <a href="https://www.kotak.com/en/investor-relations/sustainability.html" target="_top">Sustainability</a>
         </li>
     
         <li>
-            <a href="/en/investor-relations/investor-information/disclosures-regulation.html" target="_top">Disclosures Regulation 46 and 62</a>
+            <a href="https://www.kotak.com/en/investor-relations/investor-information/disclosures-regulation.html" target="_top">Disclosures Regulation 46 and 62</a>
         </li>
     
 </ul>
@@ -664,19 +664,19 @@ const footerContent = `
             <div class="col-md-2 col-sm-4 col-xs-6">
                 <div><div class="footer-links section"><ul class="footerSpace">
     <li>
-        <p class="footerspace-title"><a href="/en/customer-service.html" target="_top">Customer Service</a></p></li>
+        <p class="footerspace-title"><a href="https://www.kotak.com/en/customer-service.html" target="_top">Customer Service</a></p></li>
     
     
         <li>
-            <a href="/en/customer-service/important-customer-information.html" target="_top">Important Information</a>
+            <a href="https://www.kotak.com/en/customer-service/important-customer-information.html" target="_top">Important Information</a>
         </li>
     
         <li>
-            <a href="/en/customer-service/contact-us/email-us.html" target="_top">Write to us</a>
+            <a href="https://www.kotak.com/en/customer-service/contact-us/email-us.html" target="_top">Write to us</a>
         </li>
     
         <li>
-            <a href="/en/customer-service/grievance-redressal.html" target="_top">Grievance Redressal</a>
+            <a href="https://www.kotak.com/en/customer-service/grievance-redressal.html" target="_top">Grievance Redressal</a>
         </li>
     
         <li>
@@ -684,11 +684,11 @@ const footerContent = `
         </li>
     
         <li>
-            <a href="/en/customer-service/important-customer-information/banking-ombudsman.html" target="_top">Banking Ombudsman</a>
+            <a href="https://www.kotak.com/en/customer-service/important-customer-information/banking-ombudsman.html" target="_top">Banking Ombudsman</a>
         </li>
     
         <li>
-            <a href="/en/customer-service/download-forms.html" target="_top">Download Forms</a>
+            <a href="https://www.kotak.com/en/customer-service/download-forms.html" target="_top">Download Forms</a>
         </li>
     
         <li>
@@ -696,19 +696,19 @@ const footerContent = `
         </li>
     
         <li>
-            <a href="/en/transaction-services/track-application.html" target="_top">Track Application Status</a>
+            <a href="https://www.kotak.com/en/transaction-services/track-application.html" target="_top">Track Application Status</a>
         </li>
     
         <li>
-            <a href="/en/safe-banking.html" target="_top">Tips on Safe Banking</a>
+            <a href="https://www.kotak.com/en/safe-banking.html" target="_top">Tips on Safe Banking</a>
         </li>
     
         <li>
-            <a href="/en/customer-service/doorstep-banking-service.html" target="_top">Doorstep Banking Service</a>
+            <a href="https://www.kotak.com/en/customer-service/doorstep-banking-service.html" target="_top">Doorstep Banking Service</a>
         </li>
     
         <li>
-            <a href="/en/customer-service/depository-services.html" target="_top">Contact Us for Depository Services</a>
+            <a href="https://www.kotak.com/en/customer-service/depository-services.html" target="_top">Contact Us for Depository Services</a>
         </li>
     
         <li>
@@ -737,7 +737,7 @@ const footerContent = `
         </li>
     
         <li>
-            <a href="/en/personal-banking/aadhaar-enrollment-center.html" target="_top">Aadhaar Enrollment Center</a>
+            <a href="https://www.kotak.com/en/personal-banking/aadhaar-enrollment-center.html" target="_top">Aadhaar Enrollment Center</a>
         </li>
     
 </ul>
@@ -755,67 +755,67 @@ const footerContent = `
             <div class="col-md-2 col-sm-4 col-xs-6">
                 <div><div class="footer-links section"><ul class="footerSpace">
     <li>
-        <p class="footerspace-title"><a href="/en/calculators.html" target="_top">Calculators &amp; Tools</a></p></li>
+        <p class="footerspace-title"><a href="https://www.kotak.com/en/calculators.html" target="_top">Calculators &amp; Tools</a></p></li>
     
     
         <li>
-            <a href="/en/calculators/personal-loan-emi-calculator.html" target="_top">Personal Loan EMI Calculator</a>
+            <a href="https://www.kotak.com/en/calculators/personal-loan-emi-calculator.html" target="_top">Personal Loan EMI Calculator</a>
         </li>
     
         <li>
-            <a href="/en/calculators/car-loan-emi-calculator.html" target="_top">Car Loan EMI Calculator</a>
+            <a href="https://www.kotak.com/en/calculators/car-loan-emi-calculator.html" target="_top">Car Loan EMI Calculator</a>
         </li>
     
         <li>
-            <a href="/en/personal-banking/loans/home-loan/home-loan-emi-calculator.html" target="_top">Home Loan EMI Calculator</a>
+            <a href="https://www.kotak.com/en/personal-banking/loans/home-loan/home-loan-emi-calculator.html" target="_top">Home Loan EMI Calculator</a>
         </li>
     
         <li>
-            <a href="/en/personal-banking/deposits/fixed-deposit/fixed-deposit-calculator.html" target="_top">Fixed Deposit Calculator</a>
+            <a href="https://www.kotak.com/en/personal-banking/deposits/fixed-deposit/fixed-deposit-calculator.html" target="_top">Fixed Deposit Calculator</a>
         </li>
     
         <li>
-            <a href="/en/personal-banking/deposits/recurring-deposits/recurring-deposit-calculator.html" target="_top">Recurring Deposit Calculator</a>
+            <a href="https://www.kotak.com/en/personal-banking/deposits/recurring-deposits/recurring-deposit-calculator.html" target="_top">Recurring Deposit Calculator</a>
         </li>
     
         <li>
-            <a href="/en/personal-banking/insurance/life-insurance.html" target="_top">Life Insurance Calculator</a>
+            <a href="https://www.kotak.com/en/personal-banking/insurance/life-insurance.html" target="_top">Life Insurance Calculator</a>
         </li>
     
         <li>
-            <a href="/en/business/loans/business-loan/emi-calculator.html" target="_top">Business Loan EMI Calculator</a>
+            <a href="https://www.kotak.com/en/business/loans/business-loan/emi-calculator.html" target="_top">Business Loan EMI Calculator</a>
         </li>
     
         <li>
-            <a href="/en/personal-banking/accounts/savings-account/grand-savings-account.html" target="_top">Retirement Calculator</a>
+            <a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/grand-savings-account.html" target="_top">Retirement Calculator</a>
         </li>
     
         <li>
-            <a href="/en/personal-banking/accounts/savings-account/simple-interest-calculator.html" target="_top">Simple Interest Calculator</a>
+            <a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/simple-interest-calculator.html" target="_top">Simple Interest Calculator</a>
         </li>
     
         <li>
-            <a href="/en/personal-banking/accounts/savings-account/compound-interest-calculator.html" target="_top">Compound Interest Calculator</a>
+            <a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/compound-interest-calculator.html" target="_top">Compound Interest Calculator</a>
         </li>
     
         <li>
-            <a href="/en/calculators/goal-planner.html" target="_top">Goal Planner</a>
+            <a href="https://www.kotak.com/en/calculators/goal-planner.html" target="_top">Goal Planner</a>
         </li>
     
         <li>
-            <a href="/en/personal-banking/loans/free-credit-score-checker.html" target="_top">Free Credit Score Checker</a>
+            <a href="https://www.kotak.com/en/personal-banking/loans/free-credit-score-checker.html" target="_top">Free Credit Score Checker</a>
         </li>
     
         <li>
-            <a href="/en/personal-banking/investments/mutual-funds/sip-calculator.html" target="_top">Sip Calculator</a>
+            <a href="https://www.kotak.com/en/personal-banking/investments/mutual-funds/sip-calculator.html" target="_top">Sip Calculator</a>
         </li>
     
         <li>
-            <a href="/en/personal-banking/investments/mutual-funds/mutual-funds-calculator.html" target="_top">Mutual Fund Calculator</a>
+            <a href="https://www.kotak.com/en/personal-banking/investments/mutual-funds/mutual-funds-calculator.html" target="_top">Mutual Fund Calculator</a>
         </li>
     
         <li>
-            <a href="/en/personal-banking/investments/mutual-funds/lumpsum-calculator.html" target="_top">Lump Sum Calculator</a>
+            <a href="https://www.kotak.com/en/personal-banking/investments/mutual-funds/lumpsum-calculator.html" target="_top">Lump Sum Calculator</a>
         </li>
     
 </ul>
@@ -833,23 +833,23 @@ const footerContent = `
             <div class="col-md-2 col-sm-4 col-xs-6">
                 <div><div class="footer-links section"><ul class="footerSpace">
     <li>
-        <p class="footerspace-title"><a href="/en/digital-banking.html" target="_top">Digital Banking</a></p></li>
+        <p class="footerspace-title"><a href="https://www.kotak.com/en/digital-banking.html" target="_top">Digital Banking</a></p></li>
     
     
         <li>
-            <a href="/en/digital-banking/ways-to-bank.html" target="_top">Ways to Bank</a>
+            <a href="https://www.kotak.com/en/digital-banking/ways-to-bank.html" target="_top">Ways to Bank</a>
         </li>
     
         <li>
-            <a href="/en/digital-banking/insta-services.html" target="_top">Insta Services</a>
+            <a href="https://www.kotak.com/en/digital-banking/insta-services.html" target="_top">Insta Services</a>
         </li>
     
         <li>
-            <a href="/en/digital-banking/business-solutions.html" target="_top">Business &amp; Fintech</a>
+            <a href="https://www.kotak.com/en/digital-banking/business-solutions.html" target="_top">Business &amp; Fintech</a>
         </li>
     
         <li>
-            <a href="/en/open-banking.html" target="_top">Open Banking</a>
+            <a href="https://www.kotak.com/en/open-banking.html" target="_top">Open Banking</a>
         </li>
     
 </ul>
@@ -866,7 +866,7 @@ const footerContent = `
     
     
         <li>
-            <a href="/en/help-center.html" target="_top">Help Center</a>
+            <a href="https://www.kotak.com/en/help-center.html" target="_top">Help Center</a>
         </li>
     
 </ul>
@@ -883,11 +883,11 @@ const footerContent = `
     
     
         <li>
-            <a href="/en/personal-banking/cards/credit-cards.html" target="_top">Credit Cards</a>
+            <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards.html" target="_top">Credit Cards</a>
         </li>
     
         <li>
-            <a href="/en/personal-banking/accounts/savings-account/811-zero-balance-digital-savings-account.html" target="_top">811 Digital Savings Bank Account</a>
+            <a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/811-zero-balance-digital-savings-account.html" target="_top">811 Digital Savings Bank Account</a>
         </li>
     
 </ul>
@@ -909,15 +909,15 @@ const footerContent = `
     
     
         <li>
-            <a href="/en/rates/interest-rates.html" target="_top">Interest Rates</a>
+            <a href="https://www.kotak.com/en/rates/interest-rates.html" target="_top">Interest Rates</a>
         </li>
     
         <li>
-            <a href="/en/gsfc.html" target="_top">Fees &amp; Charges (GSFC)</a>
+            <a href="https://www.kotak.com/en/gsfc.html" target="_top">Fees &amp; Charges (GSFC)</a>
         </li>
     
         <li>
-            <a href="/en/customer-service/important-customer-information/good-services-tax-gst.html" target="_top">Goods &amp; Services Tax (GST)</a>
+            <a href="https://www.kotak.com/en/customer-service/important-customer-information/good-services-tax-gst.html" target="_top">Goods &amp; Services Tax (GST)</a>
         </li>
     
 </ul>
@@ -930,7 +930,7 @@ const footerContent = `
 </div>
 <div class="footer-links section"><ul class="footerSpace">
     <li>
-        <p class="footerspace-title"><a href="/en/personal-banking/financial-inclusions.html" target="_top">Financial Inclusion</a></p></li>
+        <p class="footerspace-title"><a href="https://www.kotak.com/en/personal-banking/financial-inclusions.html" target="_top">Financial Inclusion</a></p></li>
     
     
 </ul>
@@ -943,7 +943,7 @@ const footerContent = `
 </div>
 <div class="footer-links section"><ul class="footerSpace">
     <li>
-        <p class="footerspace-title"><a href="/en/personal-banking/erstwhile-ing-vysya/about-merger.html" target="_top">About Merger</a></p></li>
+        <p class="footerspace-title"><a href="https://www.kotak.com/en/personal-banking/erstwhile-ing-vysya/about-merger.html" target="_top">About Merger</a></p></li>
     
     
 </ul>
@@ -960,19 +960,19 @@ const footerContent = `
     
     
         <li>
-            <a href="/en/personal-banking/erstwhile-ing-vysya/savings-accounts.html" target="_top">Savings Account</a>
+            <a href="https://www.kotak.com/en/personal-banking/erstwhile-ing-vysya/savings-accounts.html" target="_top">Savings Account</a>
         </li>
     
         <li>
-            <a href="/en/personal-banking/erstwhile-ing-vysya/current-accounts.html" target="_top">Current Account</a>
+            <a href="https://www.kotak.com/en/personal-banking/erstwhile-ing-vysya/current-accounts.html" target="_top">Current Account</a>
         </li>
     
         <li>
-            <a href="/en/personal-banking/erstwhile-ing-vysya/debit-cards.html" target="_top">Debit Card</a>
+            <a href="https://www.kotak.com/en/personal-banking/erstwhile-ing-vysya/debit-cards.html" target="_top">Debit Card</a>
         </li>
     
         <li>
-            <a href="/en/personal-banking/erstwhile-ing-vysya/institutional-accounts.html" target="_top">Institutional Accounts</a>
+            <a href="https://www.kotak.com/en/personal-banking/erstwhile-ing-vysya/institutional-accounts.html" target="_top">Institutional Accounts</a>
         </li>
     
 </ul>
@@ -993,27 +993,27 @@ const footerContent = `
     
     
         <li>
-            <a href="/en/personal-banking/cards/credit-cards/mitc-and-ca.html" target="_top">Credit Card T&amp;C</a>
+            <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/mitc-and-ca.html" target="_top">Credit Card T&amp;C</a>
         </li>
     
         <li>
-            <a href="/en/terms-conditions/co-brand-credit-card.html" target="_top">Co Brand Credit Card</a>
+            <a href="https://www.kotak.com/en/terms-conditions/co-brand-credit-card.html" target="_top">Co Brand Credit Card</a>
         </li>
     
         <li>
-            <a href="/en/personal-banking/cards/debit-cards/mitc.html" target="_top">Debit Card T&amp;C</a>
+            <a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/mitc.html" target="_top">Debit Card T&amp;C</a>
         </li>
     
         <li>
-            <a href="/en/customer-service/public-notices.html" target="_blank">Public Notice</a>
+            <a href="https://www.kotak.com/en/customer-service/public-notices.html" target="_blank">Public Notice</a>
         </li>
     
         <li>
-            <a href="/en/investor-relations/financial-results/regulatory-disclosure.html" target="_top">Regulatory Disclosure</a>
+            <a href="https://www.kotak.com/en/investor-relations/financial-results/regulatory-disclosure.html" target="_top">Regulatory Disclosure</a>
         </li>
     
         <li>
-            <a href="/en/customer-service/important-customer-information/banking-policies.html" target="_top">MSME Policy &amp; Regulatory Updates</a>
+            <a href="https://www.kotak.com/en/customer-service/important-customer-information/banking-policies.html" target="_top">MSME Policy &amp; Regulatory Updates</a>
         </li>
     
         <li>
@@ -1029,7 +1029,7 @@ const footerContent = `
         </li>
     
         <li>
-            <a href="/en/bank-auctions.html" target="_top">Auction Cum Sale Notice</a>
+            <a href="https://www.kotak.com/en/bank-auctions.html" target="_top">Auction Cum Sale Notice</a>
         </li>
     
         <li>
@@ -1037,7 +1037,7 @@ const footerContent = `
         </li>
     
         <li>
-            <a href="/en/customer-service/grievance-redressal/recovery-agent.html" target="_top">Recovery Agent</a>
+            <a href="https://www.kotak.com/en/customer-service/grievance-redressal/recovery-agent.html" target="_top">Recovery Agent</a>
         </li>
     
 </ul>
@@ -1106,7 +1106,7 @@ const footerContent = `
                         
                             <li><a href="https://kie.kotak.com/" target="_blank">Kotak Institutional Equities</a></li>
                         
-                            <li><a href="/en/kotak-international-business.html" target="_blank">Kotak International Business</a></li>
+                            <li><a href="https://www.kotak.com/en/kotak-international-business.html" target="_blank">Kotak International Business</a></li>
                         
                             <li><a href="https://alternateassets.kotak.com" target="_blank">Kotak Investment Advisors</a></li>
                         
@@ -1162,17 +1162,17 @@ const footerContent = `
 <div class="accordion-container-2" style="display: none;">
     <div class="footer-sitemap">
         <ul>
-            <li><a href="/en/about-us/our-business.html" target="_blank">Our Businesses</a></li>
+            <li><a href="https://www.kotak.com/en/about-us/our-business.html" target="_blank">Our Businesses</a></li>
         
-            <li><a href="/en/about-us/media.html" target="_top">Media Centre</a></li>
+            <li><a href="https://www.kotak.com/en/about-us/media.html" target="_top">Media Centre</a></li>
         
-            <li><a href="/en/about-us/careers.html" target="_blank">Careers</a></li>
+            <li><a href="https://www.kotak.com/en/about-us/careers.html" target="_blank">Careers</a></li>
         
-            <li><a href="/en/personal-banking/difc.html" target="_top">DIFC Branch</a></li>
+            <li><a href="https://www.kotak.com/en/personal-banking/difc.html" target="_top">DIFC Branch</a></li>
         
             <li><a href="https://www.kotak.com/en/personal-banking/gift.html" target="_top">GIFT Branch</a></li>
         
-            <li><a href="/en/personal-banking/fsl.html" target="_top">KMFSL</a></li>
+            <li><a href="https://www.kotak.com/en/personal-banking/fsl.html" target="_top">KMFSL</a></li>
         </ul>
     </div>
 </div>
@@ -1197,17 +1197,17 @@ const footerContent = `
 <div class="accordion-container-2" style="display: none;">
     <div class="footer-sitemap">
         <ul>
-            <li><a href="/en/investor-relations.html" target="_top">Overview</a></li>
+            <li><a href="https://www.kotak.com/en/investor-relations.html" target="_top">Overview</a></li>
         
-            <li><a href="/en/investor-relations/financial-results.html" target="_top">Financials</a></li>
+            <li><a href="https://www.kotak.com/en/investor-relations/financial-results.html" target="_top">Financials</a></li>
         
-            <li><a href="/en/investor-relations/governance.html" target="_top">Governance</a></li>
+            <li><a href="https://www.kotak.com/en/investor-relations/governance.html" target="_top">Governance</a></li>
         
-            <li><a href="/en/investor-relations/investor-information.html" target="_top">Shareholding &amp; Investor Info</a></li>
+            <li><a href="https://www.kotak.com/en/investor-relations/investor-information.html" target="_top">Shareholding &amp; Investor Info</a></li>
         
-            <li><a href="/en/investor-relations/sustainability.html" target="_top">Sustainability</a></li>
+            <li><a href="https://www.kotak.com/en/investor-relations/sustainability.html" target="_top">Sustainability</a></li>
         
-            <li><a href="/en/investor-relations/investor-information/disclosures-regulation.html" target="_top">Disclosures Regulation 46 and 62</a></li>
+            <li><a href="https://www.kotak.com/en/investor-relations/investor-information/disclosures-regulation.html" target="_top">Disclosures Regulation 46 and 62</a></li>
         </ul>
     </div>
 </div>
@@ -1235,27 +1235,27 @@ const footerContent = `
 <div class="accordion-container-2" style="display: none;">
     <div class="footer-sitemap">
         <ul>
-            <li><a href="/en/customer-service/important-customer-information.html" target="_top">Important Information</a></li>
+            <li><a href="https://www.kotak.com/en/customer-service/important-customer-information.html" target="_top">Important Information</a></li>
         
-            <li><a href="/en/customer-service/contact-us/email-us.html" target="_top">Write to us</a></li>
+            <li><a href="https://www.kotak.com/en/customer-service/contact-us/email-us.html" target="_top">Write to us</a></li>
         
-            <li><a href="/en/customer-service/grievance-redressal.html" target="_top">Grievance Redressal</a></li>
+            <li><a href="https://www.kotak.com/en/customer-service/grievance-redressal.html" target="_top">Grievance Redressal</a></li>
         
             <li><a href="https://www.kotak.com/srforms/content/forms/af/kapps.html" target="_top">Report Fraud / Raise Dispute</a></li>
         
-            <li><a href="/en/customer-service/important-customer-information/banking-ombudsman.html" target="_top">Banking Ombudsman</a></li>
+            <li><a href="https://www.kotak.com/en/customer-service/important-customer-information/banking-ombudsman.html" target="_top">Banking Ombudsman</a></li>
         
-            <li><a href="/en/customer-service/download-forms.html" target="_top">Download Forms</a></li>
+            <li><a href="https://www.kotak.com/en/customer-service/download-forms.html" target="_top">Download Forms</a></li>
         
             <li><a href="https://www.kotak.com/en/customer-service/service-request.html" target="_top">Service Requests</a></li>
         
-            <li><a href="/en/transaction-services/track-application.html" target="_top">Track Application Status</a></li>
+            <li><a href="https://www.kotak.com/en/transaction-services/track-application.html" target="_top">Track Application Status</a></li>
         
-            <li><a href="/en/safe-banking.html" target="_top">Tips on Safe Banking</a></li>
+            <li><a href="https://www.kotak.com/en/safe-banking.html" target="_top">Tips on Safe Banking</a></li>
         
-            <li><a href="/en/customer-service/doorstep-banking-service.html" target="_top">Doorstep Banking Service</a></li>
+            <li><a href="https://www.kotak.com/en/customer-service/doorstep-banking-service.html" target="_top">Doorstep Banking Service</a></li>
         
-            <li><a href="/en/customer-service/depository-services.html" target="_top">Contact Us for Depository Services</a></li>
+            <li><a href="https://www.kotak.com/en/customer-service/depository-services.html" target="_top">Contact Us for Depository Services</a></li>
         
             <li><a href="https://netbanking.kotak.com/knb2/?referer=RDR-DNC" target="_top">Do Not Call Registry</a></li>
         
@@ -1286,7 +1286,7 @@ const footerContent = `
         <ul>
             <li><a href="https://www.kotak.com/srforms/content/forms/af/kotakforms/aadhaarupdate.html" target="_top">Link your Aadhaar</a></li>
         
-            <li><a href="/en/personal-banking/aadhaar-enrollment-center.html" target="_top">Aadhaar Enrollment Center</a></li>
+            <li><a href="https://www.kotak.com/en/personal-banking/aadhaar-enrollment-center.html" target="_top">Aadhaar Enrollment Center</a></li>
         </ul>
     </div>
 </div>
@@ -1314,35 +1314,35 @@ const footerContent = `
 <div class="accordion-container-2" style="display: none;">
     <div class="footer-sitemap">
         <ul>
-            <li><a href="/en/calculators/personal-loan-emi-calculator.html" target="_top">Personal Loan EMI Calculator</a></li>
+            <li><a href="https://www.kotak.com/en/calculators/personal-loan-emi-calculator.html" target="_top">Personal Loan EMI Calculator</a></li>
         
-            <li><a href="/en/calculators/car-loan-emi-calculator.html" target="_top">Car Loan EMI Calculator</a></li>
+            <li><a href="https://www.kotak.com/en/calculators/car-loan-emi-calculator.html" target="_top">Car Loan EMI Calculator</a></li>
         
-            <li><a href="/en/personal-banking/loans/home-loan/home-loan-emi-calculator.html" target="_top">Home Loan EMI Calculator</a></li>
+            <li><a href="https://www.kotak.com/en/personal-banking/loans/home-loan/home-loan-emi-calculator.html" target="_top">Home Loan EMI Calculator</a></li>
         
-            <li><a href="/en/personal-banking/deposits/fixed-deposit/fixed-deposit-calculator.html" target="_top">Fixed Deposit Calculator</a></li>
+            <li><a href="https://www.kotak.com/en/personal-banking/deposits/fixed-deposit/fixed-deposit-calculator.html" target="_top">Fixed Deposit Calculator</a></li>
         
-            <li><a href="/en/personal-banking/deposits/recurring-deposits/recurring-deposit-calculator.html" target="_top">Recurring Deposit Calculator</a></li>
+            <li><a href="https://www.kotak.com/en/personal-banking/deposits/recurring-deposits/recurring-deposit-calculator.html" target="_top">Recurring Deposit Calculator</a></li>
         
-            <li><a href="/en/personal-banking/insurance/life-insurance.html" target="_top">Life Insurance Calculator</a></li>
+            <li><a href="https://www.kotak.com/en/personal-banking/insurance/life-insurance.html" target="_top">Life Insurance Calculator</a></li>
         
-            <li><a href="/en/business/loans/business-loan/emi-calculator.html" target="_top">Business Loan EMI Calculator</a></li>
+            <li><a href="https://www.kotak.com/en/business/loans/business-loan/emi-calculator.html" target="_top">Business Loan EMI Calculator</a></li>
         
-            <li><a href="/en/personal-banking/accounts/savings-account/grand-savings-account.html" target="_top">Retirement Calculator</a></li>
+            <li><a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/grand-savings-account.html" target="_top">Retirement Calculator</a></li>
         
-            <li><a href="/en/personal-banking/accounts/savings-account/simple-interest-calculator.html" target="_top">Simple Interest Calculator</a></li>
+            <li><a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/simple-interest-calculator.html" target="_top">Simple Interest Calculator</a></li>
         
-            <li><a href="/en/personal-banking/accounts/savings-account/compound-interest-calculator.html" target="_top">Compound Interest Calculator</a></li>
+            <li><a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/compound-interest-calculator.html" target="_top">Compound Interest Calculator</a></li>
         
-            <li><a href="/en/calculators/goal-planner.html" target="_top">Goal Planner</a></li>
+            <li><a href="https://www.kotak.com/en/calculators/goal-planner.html" target="_top">Goal Planner</a></li>
         
-            <li><a href="/en/personal-banking/loans/free-credit-score-checker.html" target="_top">Free Credit Score Checker</a></li>
+            <li><a href="https://www.kotak.com/en/personal-banking/loans/free-credit-score-checker.html" target="_top">Free Credit Score Checker</a></li>
         
-            <li><a href="/en/personal-banking/investments/mutual-funds/sip-calculator.html" target="_top">Sip Calculator</a></li>
+            <li><a href="https://www.kotak.com/en/personal-banking/investments/mutual-funds/sip-calculator.html" target="_top">Sip Calculator</a></li>
         
-            <li><a href="/en/personal-banking/investments/mutual-funds/mutual-funds-calculator.html" target="_top">Mutual Fund Calculator</a></li>
+            <li><a href="https://www.kotak.com/en/personal-banking/investments/mutual-funds/mutual-funds-calculator.html" target="_top">Mutual Fund Calculator</a></li>
         
-            <li><a href="/en/personal-banking/investments/mutual-funds/lumpsum-calculator.html" target="_top">Lump Sum Calculator</a></li>
+            <li><a href="https://www.kotak.com/en/personal-banking/investments/mutual-funds/lumpsum-calculator.html" target="_top">Lump Sum Calculator</a></li>
         </ul>
     </div>
 </div>
@@ -1370,13 +1370,13 @@ const footerContent = `
 <div class="accordion-container-2" style="display: none;">
     <div class="footer-sitemap">
         <ul>
-            <li><a href="/en/digital-banking/ways-to-bank.html" target="_top">Ways to Bank</a></li>
+            <li><a href="https://www.kotak.com/en/digital-banking/ways-to-bank.html" target="_top">Ways to Bank</a></li>
         
-            <li><a href="/en/digital-banking/insta-services.html" target="_top">Insta Services</a></li>
+            <li><a href="https://www.kotak.com/en/digital-banking/insta-services.html" target="_top">Insta Services</a></li>
         
-            <li><a href="/en/digital-banking/business-solutions.html" target="_top">Business &amp; Fintech</a></li>
+            <li><a href="https://www.kotak.com/en/digital-banking/business-solutions.html" target="_top">Business &amp; Fintech</a></li>
         
-            <li><a href="/en/open-banking.html" target="_top">Open Banking</a></li>
+            <li><a href="https://www.kotak.com/en/open-banking.html" target="_top">Open Banking</a></li>
         </ul>
     </div>
 </div>
@@ -1401,7 +1401,7 @@ const footerContent = `
 <div class="accordion-container-2" style="display: none;">
     <div class="footer-sitemap">
         <ul>
-            <li><a href="/en/help-center.html" target="_top">Help Center</a></li>
+            <li><a href="https://www.kotak.com/en/help-center.html" target="_top">Help Center</a></li>
         </ul>
     </div>
 </div>
@@ -1426,9 +1426,9 @@ const footerContent = `
 <div class="accordion-container-2" style="display: none;">
     <div class="footer-sitemap">
         <ul>
-            <li><a href="/en/personal-banking/cards/credit-cards.html" target="_top">Credit Cards</a></li>
+            <li><a href="https://www.kotak.com/en/personal-banking/cards/credit-cards.html" target="_top">Credit Cards</a></li>
         
-            <li><a href="/en/personal-banking/accounts/savings-account/811-zero-balance-digital-savings-account.html" target="_top">811 Digital Savings Bank Account</a></li>
+            <li><a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/811-zero-balance-digital-savings-account.html" target="_top">811 Digital Savings Bank Account</a></li>
         </ul>
     </div>
 </div>
@@ -1456,11 +1456,11 @@ const footerContent = `
 <div class="accordion-container-2" style="display: none;">
     <div class="footer-sitemap">
         <ul>
-            <li><a href="/en/rates/interest-rates.html" target="_top">Interest Rates</a></li>
+            <li><a href="https://www.kotak.com/en/rates/interest-rates.html" target="_top">Interest Rates</a></li>
         
-            <li><a href="/en/gsfc.html" target="_top">Fees &amp; Charges (GSFC)</a></li>
+            <li><a href="https://www.kotak.com/en/gsfc.html" target="_top">Fees &amp; Charges (GSFC)</a></li>
         
-            <li><a href="/en/customer-service/important-customer-information/good-services-tax-gst.html" target="_top">Goods &amp; Services Tax (GST)</a></li>
+            <li><a href="https://www.kotak.com/en/customer-service/important-customer-information/good-services-tax-gst.html" target="_top">Goods &amp; Services Tax (GST)</a></li>
         </ul>
     </div>
 </div>
@@ -1472,7 +1472,7 @@ const footerContent = `
     <i class="right-arow sprite-img"></i>
     <div class="clearfix">
         <div class="ohidden">
-            <p class="contactcard-footer-title "><a href="/en/personal-banking/financial-inclusions.html" target="_top">Financial Inclusion</a></p>
+            <p class="contactcard-footer-title "><a href="https://www.kotak.com/en/personal-banking/financial-inclusions.html" target="_top">Financial Inclusion</a></p>
         </div>
     </div>
 </div>
@@ -1488,7 +1488,7 @@ const footerContent = `
     <i class="right-arow sprite-img"></i>
     <div class="clearfix">
         <div class="ohidden">
-            <p class="contactcard-footer-title "><a href="/en/personal-banking/erstwhile-ing-vysya/about-merger.html" target="_top">About Merger</a></p>
+            <p class="contactcard-footer-title "><a href="https://www.kotak.com/en/personal-banking/erstwhile-ing-vysya/about-merger.html" target="_top">About Merger</a></p>
         </div>
     </div>
 </div>
@@ -1517,13 +1517,13 @@ const footerContent = `
 <div class="accordion-container-2" style="display: none;">
     <div class="footer-sitemap">
         <ul>
-            <li><a href="/en/personal-banking/erstwhile-ing-vysya/savings-accounts.html" target="_top">Savings Account</a></li>
+            <li><a href="https://www.kotak.com/en/personal-banking/erstwhile-ing-vysya/savings-accounts.html" target="_top">Savings Account</a></li>
         
-            <li><a href="/en/personal-banking/erstwhile-ing-vysya/current-accounts.html" target="_top">Current Account</a></li>
+            <li><a href="https://www.kotak.com/en/personal-banking/erstwhile-ing-vysya/current-accounts.html" target="_top">Current Account</a></li>
         
-            <li><a href="/en/personal-banking/erstwhile-ing-vysya/debit-cards.html" target="_top">Debit Card</a></li>
+            <li><a href="https://www.kotak.com/en/personal-banking/erstwhile-ing-vysya/debit-cards.html" target="_top">Debit Card</a></li>
         
-            <li><a href="/en/personal-banking/erstwhile-ing-vysya/institutional-accounts.html" target="_top">Institutional Accounts</a></li>
+            <li><a href="https://www.kotak.com/en/personal-banking/erstwhile-ing-vysya/institutional-accounts.html" target="_top">Institutional Accounts</a></li>
         </ul>
     </div>
 </div>
@@ -1551,17 +1551,17 @@ const footerContent = `
 <div class="accordion-container-2" style="display: none;">
     <div class="footer-sitemap">
         <ul>
-            <li><a href="/en/personal-banking/cards/credit-cards/mitc-and-ca.html" target="_top" aria-label="Credit Card T&amp;C link">Credit Card T&amp;C</a></li>
+            <li><a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/mitc-and-ca.html" target="_top" aria-label="Credit Card T&amp;C link">Credit Card T&amp;C</a></li>
         
-            <li><a href="/en/terms-conditions/co-brand-credit-card.html" target="_top" aria-label="Co Brand Credit Card link">Co Brand Credit Card</a></li>
+            <li><a href="https://www.kotak.com/en/terms-conditions/co-brand-credit-card.html" target="_top" aria-label="Co Brand Credit Card link">Co Brand Credit Card</a></li>
         
-            <li><a href="/en/personal-banking/cards/debit-cards/mitc.html" target="_top" aria-label="Debit Card T&amp;C link">Debit Card T&amp;C</a></li>
+            <li><a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/mitc.html" target="_top" aria-label="Debit Card T&amp;C link">Debit Card T&amp;C</a></li>
         
-            <li><a href="/en/customer-service/public-notices.html" target="_blank" aria-label="Public Notice link">Public Notice</a></li>
+            <li><a href="https://www.kotak.com/en/customer-service/public-notices.html" target="_blank" aria-label="Public Notice link">Public Notice</a></li>
         
-            <li><a href="/en/investor-relations/financial-results/regulatory-disclosure.html" target="_top" aria-label="Regulatory Disclosure link">Regulatory Disclosure</a></li>
+            <li><a href="https://www.kotak.com/en/investor-relations/financial-results/regulatory-disclosure.html" target="_top" aria-label="Regulatory Disclosure link">Regulatory Disclosure</a></li>
         
-            <li><a href="/en/customer-service/important-customer-information/banking-policies.html" target="_top" aria-label="MSME Policy &amp; Regulatory Updates link">MSME Policy &amp; Regulatory Updates</a></li>
+            <li><a href="https://www.kotak.com/en/customer-service/important-customer-information/banking-policies.html" target="_top" aria-label="MSME Policy &amp; Regulatory Updates link">MSME Policy &amp; Regulatory Updates</a></li>
         
             <li><a href="https://www.kotak.com/content/dam/Kotak/others/Certificate-Correspondent-Accounts-KM-Inc.pdf" target="_blank" aria-label="USA Patriot Act Certification link">USA Patriot Act Certification</a></li>
         
@@ -1569,11 +1569,11 @@ const footerContent = `
         
             <li><a href="https://www.kotak.com/content/dam/Kotak/others/anti-money-laundering-questionnaire.pdf" target="_blank" aria-label="Wolfsberg AML Questionnaire link">Wolfsberg AML Questionnaire</a></li>
         
-            <li><a href="/en/bank-auctions.html" target="_top" aria-label="Auction Cum Sale Notice link">Auction Cum Sale Notice</a></li>
+            <li><a href="https://www.kotak.com/en/bank-auctions.html" target="_top" aria-label="Auction Cum Sale Notice link">Auction Cum Sale Notice</a></li>
         
             <li><a href="https://www.kotak.com/content/dam/Kotak/others/asset-classification-norms.pdf" target="_top" aria-label="Asset Classification Norms link">Asset Classification Norms</a></li>
         
-            <li><a href="/en/customer-service/grievance-redressal/recovery-agent.html" target="_top" aria-label="Recovery Agent link">Recovery Agent</a></li>
+            <li><a href="https://www.kotak.com/en/customer-service/grievance-redressal/recovery-agent.html" target="_top" aria-label="Recovery Agent link">Recovery Agent</a></li>
         </ul>
     </div>
 </div>
@@ -1603,7 +1603,7 @@ const footerContent = `
                     
                         <li><a href="https://kie.kotak.com/" target="_blank" aria-label="Kotak Institutional Equities link">Kotak Institutional Equities</a></li>
                     
-                        <li><a href="/en/kotak-international-business.html" target="_blank" aria-label="Kotak International Business link">Kotak International Business</a></li>
+                        <li><a href="https://www.kotak.com/en/kotak-international-business.html" target="_blank" aria-label="Kotak International Business link">Kotak International Business</a></li>
                     
                         <li><a href="https://alternateassets.kotak.com" target="_blank" aria-label="Kotak Investment Advisors link">Kotak Investment Advisors</a></li>
                     
@@ -1630,11 +1630,11 @@ const footerContent = `
     <div class="container">
         <span class="copybox-text">Copyright Kotak Mahindra Bank Limited.</span>
         
-            | <a href="/en/disclaimer.html" target="_top">Disclaimer</a>
+            | <a href="https://www.kotak.com/en/disclaimer.html" target="_top">Disclaimer</a>
         
-            | <a href="/en/privacy-policy.html" target="_top">Privacy Policy</a>
+            | <a href="https://www.kotak.com/en/privacy-policy.html" target="_top">Privacy Policy</a>
         
-            | <a href="/en/terms-conditions.html" target="_top">Terms &amp; Conditions</a>
+            | <a href="https://www.kotak.com/en/terms-conditions.html" target="_top">Terms &amp; Conditions</a>
         
     </div>
 </section>

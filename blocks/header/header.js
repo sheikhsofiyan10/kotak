@@ -97,7 +97,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/accounts/savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/accounts/savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Savings Account</div>
@@ -111,7 +111,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/accounts/savings-account/grand-savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/grand-savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Senior Citizen Savings Account</div>
@@ -125,7 +125,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/accounts/savings-account/activ-money-savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/activ-money-savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">ActivMoney Savings Account</div>
@@ -139,7 +139,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/accounts/savings-account/everyday-saving-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/everyday-saving-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Everyday Savings Account</div>
@@ -153,7 +153,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/accounts/savings-account/811-zero-balance-digital-savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/811-zero-balance-digital-savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">811 Zero Balance Account</div>
@@ -167,7 +167,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/accounts/savings-account/ace-savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/ace-savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Ace Savings Account</div>
@@ -181,7 +181,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/accounts/savings-account/silk-woman-savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/silk-woman-savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Silk Womens Savings Account</div>
@@ -226,7 +226,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/accounts/current-accounts.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/accounts/current-accounts.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Current Accounts</div>
@@ -240,7 +240,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/accounts/current-accounts/global-trade.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/accounts/current-accounts/global-trade.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Global Trade Current Account</div>
@@ -254,7 +254,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/accounts/current-accounts/start-up-premium.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/accounts/current-accounts/start-up-premium.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Startup Premium Current Account</div>
@@ -268,7 +268,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/accounts/current-accounts/pro.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/accounts/current-accounts/pro.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Pro Current Account</div>
@@ -282,7 +282,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/accounts/current-accounts/start-up-regular.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/accounts/current-accounts/start-up-regular.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Startup Regular Current Account</div>
@@ -296,7 +296,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/accounts/current-accounts/astra-15.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/accounts/current-accounts/astra-15.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Astra 15 Current Account</div>
@@ -341,7 +341,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/privy-league.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/privy-league.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Privy League</div>
@@ -355,7 +355,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/privy-league/programmes/black.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/privy-league/programmes/black.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Privy Black</div>
@@ -369,7 +369,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/privy-league/programmes/platinum.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/privy-league/programmes/platinum.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Privy Platinum</div>
@@ -383,7 +383,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/privy-league/programmes/neon.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/privy-league/programmes/neon.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Privy Neon</div>
@@ -428,7 +428,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/accounts/corporate-salary-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/accounts/corporate-salary-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Salary Accounts</div>
@@ -442,7 +442,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/accounts/corporate-salary-account/everyday-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/accounts/corporate-salary-account/everyday-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Everyday Account</div>
@@ -470,7 +470,7 @@ const headerContent = `
                                                               
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/accounts/corporate-salary-account/ace-salary-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/accounts/corporate-salary-account/ace-salary-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Ace Salary Account</div>
@@ -484,7 +484,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/accounts/corporate-salary-account/NationBuilders.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/accounts/corporate-salary-account/NationBuilders.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">NationBuilders Salary Account</div>
@@ -498,7 +498,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/accounts/corporate-salary-account/edge-salary-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/accounts/corporate-salary-account/edge-salary-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Edge Salary Account</div>
@@ -512,7 +512,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/privy-league.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/privy-league.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Corporate Salary Privy League Programme</div>
@@ -616,7 +616,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Service Requests</div>
@@ -630,7 +630,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/transaction-services/statement.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/transaction-services/statement.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Check your last 5 transactions</div>
@@ -644,7 +644,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/transaction-services/know-your-balance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/transaction-services/know-your-balance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Know your account balance</div>
@@ -745,7 +745,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/deposits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/deposits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Deposits</div>
@@ -759,7 +759,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/deposits/fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/deposits/fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Fixed Deposit</div>
@@ -773,7 +773,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/deposits/recurring-deposits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/deposits/recurring-deposits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Recurring Deposit</div>
@@ -787,7 +787,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/deposits/tax-saving-fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/deposits/tax-saving-fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Tax Saving Fixed Deposit</div>
@@ -801,7 +801,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/deposits/senior-citizen-fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/deposits/senior-citizen-fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Senior Citizen Fixed Deposit</div>
@@ -815,7 +815,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/deposits/fixed-deposit/fixed-deposit-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/deposits/fixed-deposit/fixed-deposit-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Fixed Deposit Calculator</div>
@@ -829,7 +829,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/deposits/recurring-deposits/recurring-deposit-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/deposits/recurring-deposits/recurring-deposit-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Recurring Deposit Calculator</div>
@@ -864,7 +864,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/personal-banking/cards.html">Cards &amp; Prepaid Services</a>
+                                                     <a href="https://www.kotak.com/en/personal-banking/cards.html">Cards &amp; Prepaid Services</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -903,7 +903,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/cards/credit-cards.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 <div class="mb-li-dec">Learn more</div>
                                                                 
@@ -917,7 +917,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/credit-cards/kotak-811-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/kotak-811-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">811 Credit Card</div>
@@ -931,7 +931,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/credit-cards/zen-signature-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/zen-signature-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Zen Signature Credit Card</div>
@@ -945,7 +945,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/credit-cards/mojo-platinum-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/mojo-platinum-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Mojo Platinum Credit Card</div>
@@ -959,7 +959,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/credit-cards/myntra-kotak-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/myntra-kotak-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Myntra Kotak Credit Card</div>
@@ -973,7 +973,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/credit-cards/league-platinum-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/league-platinum-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">League Platinum Credit Card</div>
@@ -987,7 +987,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/credit-cards/white-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/white-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">White Credit Card</div>
@@ -1032,7 +1032,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/cards/debit-cards.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/cards/debit-cards.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Debit Cards</div>
@@ -1046,7 +1046,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/debit-cards/pay-shop-more.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/pay-shop-more.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">PayShopMore Debit Card</div>
@@ -1060,7 +1060,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/debit-cards/pvr-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/pvr-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Kotak PVR Debit Card</div>
@@ -1074,7 +1074,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/debit-cards/platinum-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/platinum-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Platinum Debit Card</div>
@@ -1088,7 +1088,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/debit-cards/811-dream-different-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/811-dream-different-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">811 Dream Different Debit Card</div>
@@ -1102,7 +1102,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/debit-cards/privy-league-signature-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/privy-league-signature-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Privy League Signature Debit Card</div>
@@ -1116,7 +1116,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/debit-cards/silk-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/silk-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Silk Platinum Debit Card</div>
@@ -1130,7 +1130,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/debit-cards/business-class-gold-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/business-class-gold-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Business Class Gold Debit Card</div>
@@ -1144,7 +1144,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/debit-cards/debit-card-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/debit-card-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Debit Card Services</div>
@@ -1189,7 +1189,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/cards/prepaid-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/cards/prepaid-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Prepaid Services/Spendz</div>
@@ -1203,7 +1203,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/prepaid-card/forex-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/prepaid-card/forex-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Forex Card</div>
@@ -1217,7 +1217,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/prepaid-card/forex-card/kotak-forex-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/prepaid-card/forex-card/kotak-forex-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Recharge Forex Card</div>
@@ -1231,7 +1231,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/prepaid-card/kotak-gift-cards.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/prepaid-card/kotak-gift-cards.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Gift Card</div>
@@ -1245,7 +1245,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/prepaid-card/spendz.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/prepaid-card/spendz.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Spendz</div>
@@ -1290,7 +1290,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/cards/credit-cards/credit-card-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/credit-card-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Credit Card Services</div>
@@ -1318,7 +1318,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/credit-cards/credit-card-services/credit-card-payments.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/credit-card-services/credit-card-payments.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Credit Card Bill Payment</div>
@@ -1332,7 +1332,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/transaction-services/generate-pin.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/transaction-services/generate-pin.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Generate PIN</div>
@@ -1374,7 +1374,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/credit-cards/credit-card-services/personal-loan-on-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/credit-card-services/personal-loan-on-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Personal Loan on Credit Card</div>
@@ -1433,7 +1433,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/cards/credit-cards/commercial-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/commercial-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Commercial Credit Cards</div>
@@ -1447,7 +1447,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/credit-cards/corporate-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/corporate-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Corporate Credit Card</div>
@@ -1461,7 +1461,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/credit-cards/purchase-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/purchase-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Purchase Credit Card</div>
@@ -1475,7 +1475,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/credit-cards/biz-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/biz-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Biz Credit Card</div>
@@ -1520,7 +1520,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Other Card Services</div>
@@ -1621,7 +1621,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/cards/wearable-payments.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/cards/wearable-payments.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Wearable Payment</div>
@@ -1635,7 +1635,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec"></div>
@@ -1670,7 +1670,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/personal-banking/loans.html">Loans</a>
+                                                     <a href="https://www.kotak.com/en/personal-banking/loans.html">Loans</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -1709,7 +1709,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/loans/personal-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/loans/personal-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Personal Loan</div>
@@ -1737,7 +1737,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/loans/personal-loan/eligibility.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/loans/personal-loan/eligibility.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Personal Loan Eligibility</div>
@@ -1751,7 +1751,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/loans/personal-loan/required-documents.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/loans/personal-loan/required-documents.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Personal Loan Documents</div>
@@ -1765,7 +1765,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/loans/personal-loan/interest-rates.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/loans/personal-loan/interest-rates.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Personal Loan Interest Rate</div>
@@ -1779,7 +1779,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/loans/personal-loan/personal-loan-emi-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/loans/personal-loan/personal-loan-emi-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Personal Loan EMI Calculator</div>
@@ -1793,7 +1793,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/loans/personal-loan/top-up-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/loans/personal-loan/top-up-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Personal Loan Top up</div>
@@ -1807,7 +1807,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/loans/personal-loan/top-up-and-balance-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/loans/personal-loan/top-up-and-balance-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Personal Loan Balance Transfer</div>
@@ -1852,7 +1852,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/loans/home-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/loans/home-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Home Loan</div>
@@ -1880,7 +1880,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/loans/home-loan/eligibility.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/loans/home-loan/eligibility.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Home Loan Eligibility</div>
@@ -1894,7 +1894,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/loans/home-loan/required-documents.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/loans/home-loan/required-documents.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Home Loan Documents</div>
@@ -1908,7 +1908,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/loans/home-loan/interest-rates.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/loans/home-loan/interest-rates.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Home Loan Interest Rate</div>
@@ -1922,7 +1922,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/loans/home-loan/home-loan-emi-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/loans/home-loan/home-loan-emi-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Home Loan EMI Calculator</div>
@@ -1950,7 +1950,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/loans/home-loan/home-loan-balance-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/loans/home-loan/home-loan-balance-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Home Loan Balance Transfer</div>
@@ -1995,7 +1995,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/loans/business-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/loans/business-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Business Loan</div>
@@ -2110,7 +2110,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/loans.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/loans.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Other Loans</div>
@@ -2124,7 +2124,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/loans/payday-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/loans/payday-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">PayDay Loan</div>
@@ -2138,7 +2138,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/loans/gold-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/loans/gold-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Gold Loan</div>
@@ -2152,7 +2152,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/loans/loans-against-securities.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/loans/loans-against-securities.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Loan against Securities</div>
@@ -2166,7 +2166,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/loans/education-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/loans/education-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Education Loan</div>
@@ -2180,7 +2180,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/loans/car-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/loans/car-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Car Loan</div>
@@ -2208,7 +2208,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/loans/healthcare-finance-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/loans/healthcare-finance-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Healthcare Finance Solutions</div>
@@ -2323,7 +2323,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/loans/smart-emi/store-locator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/loans/smart-emi/store-locator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Locate nearest Partner Store</div>
@@ -2368,7 +2368,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Loan Account Services</div>
@@ -2473,7 +2473,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/personal-banking/investments.html">Investment &amp; Insurance</a>
+                                                     <a href="https://www.kotak.com/en/personal-banking/investments.html">Investment &amp; Insurance</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -2512,7 +2512,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/investments.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/investments.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Investments</div>
@@ -2526,7 +2526,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/investments/investments-ki-baatein.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/investments/investments-ki-baatein.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Investments Ki Baatein with Nilesh Shah</div>
@@ -2554,7 +2554,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/investments/mutual-funds/kotak-cherry.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/investments/mutual-funds/kotak-cherry.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Kotak Cherry</div>
@@ -2568,7 +2568,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/investments/mutual-funds/sip-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/investments/mutual-funds/sip-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Sip Calculator</div>
@@ -2582,7 +2582,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/investments/mutual-funds/mutual-funds-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/investments/mutual-funds/mutual-funds-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Mutual Fund Calculator</div>
@@ -2596,7 +2596,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/investments/mutual-funds/lumpsum-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/investments/mutual-funds/lumpsum-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Lump Sum Calculator</div>
@@ -2610,7 +2610,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/investments/demat-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/investments/demat-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">DEMAT account</div>
@@ -2624,7 +2624,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/investments/asba-facility.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/investments/asba-facility.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Kotak ASBA Facility</div>
@@ -2638,7 +2638,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/accounts/bank-demat-trading.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/accounts/bank-demat-trading.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Stocks</div>
@@ -2652,7 +2652,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/investments/portfolio-management.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/investments/portfolio-management.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Portfolio Management Service</div>
@@ -2666,7 +2666,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/investments/tax-saving.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/investments/tax-saving.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Tax saving investments</div>
@@ -2680,7 +2680,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/investments/national-pension-system.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/investments/national-pension-system.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">National Pension System</div>
@@ -2694,7 +2694,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/investments/sovereign-gold-bond-scheme.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/investments/sovereign-gold-bond-scheme.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Sovereign Gold Bonds</div>
@@ -2739,7 +2739,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/insurance/life-insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/insurance/life-insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Life Insurance</div>
@@ -2753,7 +2753,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/insurance/life-insurance/protection-plans.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/insurance/life-insurance/protection-plans.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Protection Plans</div>
@@ -2767,7 +2767,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/insurance/life-insurance/savings-and-investment-plans.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/insurance/life-insurance/savings-and-investment-plans.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Savings and Investment Plans</div>
@@ -2781,7 +2781,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/insurance/life-insurance/ulips.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/insurance/life-insurance/ulips.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">ULIPs</div>
@@ -2795,7 +2795,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/insurance/life-insurance/retirement-plans.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/insurance/life-insurance/retirement-plans.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Retirement plans</div>
@@ -2840,7 +2840,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All General Insurance</div>
@@ -2854,7 +2854,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/insurance/health-insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/insurance/health-insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Health Insurance</div>
@@ -2868,7 +2868,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/insurance/kotak-group-accident-protect.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/insurance/kotak-group-accident-protect.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Group Accident Protect</div>
@@ -2882,7 +2882,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/insurance/car-insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/insurance/car-insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Car Insurance</div>
@@ -2896,7 +2896,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/insurance/two-wheeler-insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/insurance/two-wheeler-insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Two wheeler Insurance</div>
@@ -2941,7 +2941,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/deposits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/deposits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Deposits</div>
@@ -2955,7 +2955,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/deposits/fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/deposits/fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Fixed Deposit</div>
@@ -2969,7 +2969,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/deposits/recurring-deposits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/deposits/recurring-deposits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Recurring Deposit</div>
@@ -2983,7 +2983,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/deposits/tax-saving-fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/deposits/tax-saving-fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Tax Saving Fixed Deposit</div>
@@ -2997,7 +2997,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/deposits/senior-citizen-fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/deposits/senior-citizen-fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Senior Citizen Fixed Deposit</div>
@@ -3011,7 +3011,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/deposits/fixed-deposit/fixed-deposit-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/deposits/fixed-deposit/fixed-deposit-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Fixed Deposit Calculator</div>
@@ -3025,7 +3025,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/deposits/recurring-deposits/recurring-deposit-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/deposits/recurring-deposits/recurring-deposit-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Recurring Deposit Calculator</div>
@@ -3070,7 +3070,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Government Schemes</div>
@@ -3084,7 +3084,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/investments/national-pension-system.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/investments/national-pension-system.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">National Pension Scheme (NPS)</div>
@@ -3098,7 +3098,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/investments/national-pension-system/nps-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/investments/national-pension-system/nps-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">NPS Calculator</div>
@@ -3112,7 +3112,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/insurance/pradhan-mantri-jeevan-jyoti-bima-yojana.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/insurance/pradhan-mantri-jeevan-jyoti-bima-yojana.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Pradhan Mantri Jeevan Jyoti Bima Yojana</div>
@@ -3126,7 +3126,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/insurance/pradhan-mantri-suraksha-bima-yojana.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/insurance/pradhan-mantri-suraksha-bima-yojana.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Pradhan Mantri Suraksha Bima Yojana</div>
@@ -3140,7 +3140,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/insurance/atal-pension-yojana.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/insurance/atal-pension-yojana.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Atal Pension Yojana</div>
@@ -3154,7 +3154,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/investments/rbi-bonds.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/investments/rbi-bonds.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">RBI - Floating Rate Savings Bond, 2020 (T)</div>
@@ -3168,7 +3168,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/investments/sovereign-gold-bond-scheme.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/investments/sovereign-gold-bond-scheme.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Sovereign Gold Bond Scheme</div>
@@ -3242,7 +3242,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/digital-banking/insta-services/money-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/digital-banking/insta-services/money-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Money Transfer / Forex</div>
@@ -3256,7 +3256,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/digital-banking/insta-services/money-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/digital-banking/insta-services/money-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Money Transfer (NEFT/RTGS/IMPS)</div>
@@ -3270,7 +3270,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/digital-banking/ways-to-bank/bhim-upi.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/digital-banking/ways-to-bank/bhim-upi.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">UPI</div>
@@ -3284,7 +3284,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/digital-banking/insta-services/scan-any-qr.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/digital-banking/insta-services/scan-any-qr.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Scan Any QR</div>
@@ -3298,7 +3298,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/digital-banking/insta-services/pay-your-contact.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/digital-banking/insta-services/pay-your-contact.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Pay your contact</div>
@@ -3312,7 +3312,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/digital-banking/insta-services/send-money-abroad.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/digital-banking/insta-services/send-money-abroad.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Send money abroad</div>
@@ -3326,7 +3326,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/digital-banking/insta-services/foreign-currency-cash.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/digital-banking/insta-services/foreign-currency-cash.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Foreign Currency Cash Services</div>
@@ -3340,7 +3340,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/cards/prepaid-card/forex-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/cards/prepaid-card/forex-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Buy Forex Card</div>
@@ -3385,7 +3385,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Bill Payments / Recharges via BillDesk</div>
@@ -3399,7 +3399,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="javascript:void(0);" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3" data-toggle="modal" data-target="#overlay-1609938547637">
+                                                          <a href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3" data-toggle="modal" data-target="#overlay-1609938547637">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Utility payments</div>
@@ -3413,7 +3413,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="javascript:void(0);" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3" data-toggle="modal" data-target="#overlay-1609938547637">
+                                                          <a href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3" data-toggle="modal" data-target="#overlay-1609938547637">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Mobile / Landline postpaid bill payment</div>
@@ -3455,7 +3455,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="javascript:void(0);" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3" data-toggle="modal" data-target="#overlay-1609938547637">
+                                                          <a href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3" data-toggle="modal" data-target="#overlay-1609938547637">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Mobile prepaid recharge</div>
@@ -3469,7 +3469,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="javascript:void(0);" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3" data-toggle="modal" data-target="#overlay-1609938547637">
+                                                          <a href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3" data-toggle="modal" data-target="#overlay-1609938547637">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">View all payments / recharges</div>
@@ -3514,7 +3514,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Loan &amp; Card Payment</div>
@@ -3601,7 +3601,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/taxes.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/taxes.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Tax Payment</div>
@@ -3615,7 +3615,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/taxes/direct-income-tax-payment.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/taxes/direct-income-tax-payment.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Income Tax Payment</div>
@@ -3629,7 +3629,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/taxes/gst.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/taxes/gst.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Goods &amp; Services Tax (GST)</div>
@@ -3643,7 +3643,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/taxes/customs-duty.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/taxes/customs-duty.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Customs Duty Payment</div>
@@ -3657,7 +3657,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/taxes/direct-income-tax-payment/bulk-upload-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/taxes/direct-income-tax-payment/bulk-upload-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Bulk Tax Payment Solutions</div>
@@ -3779,7 +3779,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/offers.html">Offers</a>
+                                                     <a href="https://www.kotak.com/en/offers.html">Offers</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -4104,7 +4104,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Popular Offers</div>
@@ -4181,7 +4181,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/customer-service/service-request.html">Service Request</a>
+                                                     <a href="https://www.kotak.com/en/customer-service/service-request.html">Service Request</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -4220,7 +4220,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Update Profile</div>
@@ -4307,7 +4307,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Saving and Current Accounts</div>
@@ -4478,7 +4478,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Debit and Credit Cards</div>
@@ -4492,7 +4492,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/transaction-services/coft.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/transaction-services/coft.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Card Token Management</div>
@@ -4506,7 +4506,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/transaction-services/generate-pin.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/transaction-services/generate-pin.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Generate PIN for all your Kotak cards</div>
@@ -4520,7 +4520,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/transaction-services/block-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/transaction-services/block-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Activate or deactivate your card</div>
@@ -4534,7 +4534,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/transaction-services/report-lost-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/transaction-services/report-lost-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Report a lost or stolen card</div>
@@ -4548,7 +4548,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/transaction-services/international-usage.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/transaction-services/international-usage.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Set your card for international usage</div>
@@ -4562,7 +4562,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/transaction-services/apply-new-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/transaction-services/apply-new-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Apply for New Debit Card</div>
@@ -4576,7 +4576,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/transaction-services/image-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/transaction-services/image-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Personalize your Debit Card from over 70+ images</div>
@@ -4635,7 +4635,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Personal Loans</div>
@@ -4764,7 +4764,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Home Loans</div>
@@ -4879,7 +4879,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Business Loans / Loan Against Property / Payday Loans</div>
@@ -4971,7 +4971,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/accounts/current-accounts.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/accounts/current-accounts.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Current Accounts</div>
@@ -4985,7 +4985,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/accounts/current-accounts/global-trade.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/accounts/current-accounts/global-trade.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Global Trade Current Account</div>
@@ -4999,7 +4999,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/accounts/current-accounts/start-up-premium.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/accounts/current-accounts/start-up-premium.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Startup Premium Current Account</div>
@@ -5013,7 +5013,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/accounts/current-accounts/pro.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/accounts/current-accounts/pro.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Pro Current Account</div>
@@ -5027,7 +5027,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/accounts/current-accounts/start-up-regular.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/accounts/current-accounts/start-up-regular.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Startup Regular Current Account</div>
@@ -5041,7 +5041,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/accounts/current-accounts/astra-15.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/accounts/current-accounts/astra-15.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Astra 15 Current Account</div>
@@ -5055,7 +5055,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/accounts/current-accounts/ace.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/accounts/current-accounts/ace.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Ace Current Account</div>
@@ -5069,7 +5069,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/accounts/current-accounts/astra-05.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/accounts/current-accounts/astra-05.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Astra 05 Current Account</div>
@@ -5083,7 +5083,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/accounts/current-accounts/elite.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/accounts/current-accounts/elite.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Elite Current Account</div>
@@ -5128,7 +5128,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/accounts/current-accounts/fees-and-charges.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/accounts/current-accounts/fees-and-charges.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Fees and Charges - Current Account</div>
@@ -5142,7 +5142,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec"></div>
@@ -5187,7 +5187,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/accounts/retail-institutional-accounts.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/accounts/retail-institutional-accounts.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Retail Institutions Account (TASC)</div>
@@ -5201,7 +5201,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec"></div>
@@ -5246,7 +5246,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/privy-league.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/privy-league.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Privy League</div>
@@ -5260,7 +5260,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/privy-league/programmes.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/privy-league/programmes.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Privy League Programmes</div>
@@ -5274,7 +5274,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/privy-league/privileges.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/privy-league/privileges.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Privy Offerings</div>
@@ -5319,7 +5319,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/accounts/corporate-salary-account/corporate-benefits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/accounts/corporate-salary-account/corporate-benefits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Salary2Wealth - Corporate Benefit</div>
@@ -5333,7 +5333,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/accounts/corporate-salary-account/edge-salary-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/accounts/corporate-salary-account/edge-salary-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Edge Salary Account</div>
@@ -5378,7 +5378,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/accounts/government-business.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/accounts/government-business.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Government Business</div>
@@ -5392,7 +5392,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/accounts/government-business/customised-and-innovative-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/accounts/government-business/customised-and-innovative-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Customised and Innovative Solutions</div>
@@ -5406,7 +5406,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/accounts/government-business/other-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/accounts/government-business/other-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Other Services</div>
@@ -5465,7 +5465,7 @@ const headerContent = `
                                                             
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec"></div>
@@ -5500,7 +5500,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/business/loans.html">Loans</a>
+                                                     <a href="https://www.kotak.com/en/business/loans.html">Loans</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -5539,7 +5539,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/loans/business-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/loans/business-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Business Loan</div>
@@ -5567,7 +5567,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/loans/business-loan/emi-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/loans/business-loan/emi-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Business Loan EMI Calculator</div>
@@ -5581,7 +5581,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/loans/business-loan/eligibility.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/loans/business-loan/eligibility.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Eligibility</div>
@@ -5595,7 +5595,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/loans/business-loan/fees-and-charges.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/loans/business-loan/fees-and-charges.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Fees &amp; Charges</div>
@@ -5609,7 +5609,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/loans/business-loan/required-documents.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/loans/business-loan/required-documents.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Required Documents</div>
@@ -5623,7 +5623,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/loans/business-loan/receivables-against-creditcard.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/loans/business-loan/receivables-against-creditcard.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Credit Card Receivables</div>
@@ -5668,7 +5668,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/working-capital.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/working-capital.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Working Capital</div>
@@ -5682,7 +5682,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/corporate/solutions/finance-my-business/working-capital-finance/apply-for-working-capital-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/corporate/solutions/finance-my-business/working-capital-finance/apply-for-working-capital-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Apply Now</div>
@@ -5696,7 +5696,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/working-capital/channel-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/working-capital/channel-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Channel Finance</div>
@@ -5710,7 +5710,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/working-capital/dealer-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/working-capital/dealer-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Dealer Finance</div>
@@ -5724,7 +5724,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/working-capital/agri-business.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/working-capital/agri-business.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Agri SME Business</div>
@@ -5738,7 +5738,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/working-capital/transportation-logistics.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/working-capital/transportation-logistics.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Transportation, Logistics, Warehouse</div>
@@ -5752,7 +5752,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/working-capital/infrastructure-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/working-capital/infrastructure-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Infrastructure Finance</div>
@@ -5766,7 +5766,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="javascript:void(0);" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3" data-toggle="modal" data-target="#overlay-1532420790151">
+                                                          <a href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3" data-toggle="modal" data-target="#overlay-1532420790151">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Submit e-financials</div>
@@ -5811,7 +5811,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Other Loans</div>
@@ -5825,7 +5825,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/loans/loan-against-property.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/loans/loan-against-property.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Loan Against Property</div>
@@ -5839,7 +5839,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/loans/commercial-vehicle-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/loans/commercial-vehicle-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Commercial Vehicle</div>
@@ -5853,7 +5853,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/loans/construction-equipment.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/loans/construction-equipment.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Construction Equipment</div>
@@ -5867,7 +5867,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/loans/agri-project-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/loans/agri-project-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Agri Project</div>
@@ -5881,7 +5881,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/loans/crop-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/loans/crop-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Crop Loan</div>
@@ -5895,7 +5895,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/loans/farm-equipment.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/loans/farm-equipment.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Farm Equipment</div>
@@ -5909,7 +5909,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/loans/healthcare-finance-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/loans/healthcare-finance-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Healthcare Finance Solutions</div>
@@ -5944,7 +5944,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/corporate/solutions/manage-collection-and-payments.html">Payment &amp; Tax Solutions</a>
+                                                     <a href="https://www.kotak.com/en/corporate/solutions/manage-collection-and-payments.html">Payment &amp; Tax Solutions</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -5983,7 +5983,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/corporate/solutions/manage-collection-and-payments.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/corporate/solutions/manage-collection-and-payments.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Payment Solutions</div>
@@ -5997,7 +5997,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/digital-banking/business-solutions/bharat-qr-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/digital-banking/business-solutions/bharat-qr-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Bharat QR Solution</div>
@@ -6011,7 +6011,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/digital-banking/business-solutions/point-of-sale-machine.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/digital-banking/business-solutions/point-of-sale-machine.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Point of sale Machine(POS)</div>
@@ -6025,7 +6025,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/digital-banking/business-solutions/bulk-upload-facility.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/digital-banking/business-solutions/bulk-upload-facility.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Bulk Upload Facility</div>
@@ -6039,7 +6039,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/digital-banking/business-solutions/kotak-biz.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/digital-banking/business-solutions/kotak-biz.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Kotak.biz App</div>
@@ -6084,7 +6084,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/digital-banking/insta-services/money-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/digital-banking/insta-services/money-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Money Transfer</div>
@@ -6098,7 +6098,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/digital-banking/insta-services/money-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/digital-banking/insta-services/money-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Fund Transfer (NEFT, RTGS &amp; IMPS)</div>
@@ -6112,7 +6112,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/digital-banking/ways-to-bank/bhim-upi.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/digital-banking/ways-to-bank/bhim-upi.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">UPI</div>
@@ -6126,7 +6126,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/digital-banking/insta-services/pay-your-contact.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/digital-banking/insta-services/pay-your-contact.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Pay your contact</div>
@@ -6140,7 +6140,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/digital-banking/insta-services/send-money-abroad.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/digital-banking/insta-services/send-money-abroad.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Send money abroad</div>
@@ -6185,7 +6185,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Bill payments/Recharges</div>
@@ -6314,7 +6314,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Loan/Card Payment</div>
@@ -6401,7 +6401,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/taxes.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/taxes.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Tax Payment</div>
@@ -6415,7 +6415,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/taxes/direct-income-tax-payment.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/taxes/direct-income-tax-payment.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Income Tax Payment</div>
@@ -6429,7 +6429,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/taxes/gst.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/taxes/gst.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Goods &amp; Services Tax (GST)</div>
@@ -6443,7 +6443,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/taxes/customs-duty.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/taxes/customs-duty.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Customs Duty Payment</div>
@@ -6457,7 +6457,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/business/taxes/direct-income-tax-payment/bulk-upload-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/business/taxes/direct-income-tax-payment/bulk-upload-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Bulk Upload Solutions</div>
@@ -6492,7 +6492,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/business/trade-services.html">Trade Services</a>
+                                                     <a href="https://www.kotak.com/en/business/trade-services.html">Trade Services</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -6531,7 +6531,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/trade-services/domestic.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/trade-services/domestic.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Domestic</div>
@@ -6576,7 +6576,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/trade-services/international-exports.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/trade-services/international-exports.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All International - Exports</div>
@@ -6621,7 +6621,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/trade-services/international-imports.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/trade-services/international-imports.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All International - Imports</div>
@@ -6666,7 +6666,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/working-capital/non-fund-based/bank-guarantee.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/working-capital/non-fund-based/bank-guarantee.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Bank Guarantee</div>
@@ -6711,7 +6711,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/working-capital/non-fund-based/letter-of-credit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/working-capital/non-fund-based/letter-of-credit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Letter of Credit</div>
@@ -6756,7 +6756,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/working-capital/fund-based/export-credit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/working-capital/fund-based/export-credit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Export Credit</div>
@@ -6801,7 +6801,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/working-capital/fund-based/import-credit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/working-capital/fund-based/import-credit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Import credit</div>
@@ -6836,7 +6836,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/business/offers-beyond-banking.html">Offers Beyond Banking</a>
+                                                     <a href="https://www.kotak.com/en/business/offers-beyond-banking.html">Offers Beyond Banking</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -6875,7 +6875,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/offers-beyond-banking.html?category=business+management" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/offers-beyond-banking.html?category=business+management" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Business Management &amp; Marketing</div>
@@ -6920,7 +6920,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/offers-beyond-banking.html?category=erp+_and_+accounting" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/offers-beyond-banking.html?category=erp+_and_+accounting" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All ERP &amp; Accounting</div>
@@ -6965,7 +6965,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/offers-beyond-banking.html?category=logistics" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/offers-beyond-banking.html?category=logistics" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Logistics</div>
@@ -7010,7 +7010,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/offers-beyond-banking.html?category=human+resource" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/offers-beyond-banking.html?category=human+resource" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Human Resource</div>
@@ -7055,7 +7055,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/offers-beyond-banking.html?category=business+travel" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/offers-beyond-banking.html?category=business+travel" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Business Travel</div>
@@ -7100,7 +7100,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/offers-beyond-banking.html?category=co-working+space" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/offers-beyond-banking.html?category=co-working+space" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Co-working Space</div>
@@ -7145,7 +7145,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/offers-beyond-banking.html?category=taxation+_and_+legal" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/offers-beyond-banking.html?category=taxation+_and_+legal" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Taxation &amp; Legal</div>
@@ -7190,7 +7190,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/offers-beyond-banking.html?category=healthcare+solutions" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/offers-beyond-banking.html?category=healthcare+solutions" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Healthcare Solutions</div>
@@ -7235,7 +7235,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/business/offers-beyond-banking.html?category=industry+insights" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/business/offers-beyond-banking.html?category=industry+insights" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Industry Insights</div>
@@ -7274,7 +7274,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/corporate/solutions.html">Explore Products </a>
+                                                     <a href="https://www.kotak.com/en/corporate/solutions.html">Explore Products </a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -7313,7 +7313,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/corporate/cash-management-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/corporate/cash-management-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Cash Management Services</div>
@@ -7327,7 +7327,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/corporate/cash-management-services/digital-payments.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/corporate/cash-management-services/digital-payments.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Digital Payments</div>
@@ -7341,7 +7341,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/corporate/cash-management-services/physical-collection.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/corporate/cash-management-services/physical-collection.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Physical Collections</div>
@@ -7355,7 +7355,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/corporate/cash-management-services/digital-collections.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/corporate/cash-management-services/digital-collections.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Digital Collections</div>
@@ -7369,7 +7369,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/corporate/cash-management-services/allpay-payment-gateway.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/corporate/cash-management-services/allpay-payment-gateway.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Allpay Payment Gateway</div>
@@ -7414,7 +7414,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/corporate/trade-supply-chain-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/corporate/trade-supply-chain-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Trade &amp; Supply Chain Finance</div>
@@ -7428,7 +7428,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/corporate/trade-supply-chain-finance/import-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/corporate/trade-supply-chain-finance/import-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Import Finance</div>
@@ -7442,7 +7442,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/corporate/trade-supply-chain-finance/export-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/corporate/trade-supply-chain-finance/export-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Export Finance</div>
@@ -7456,7 +7456,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/corporate/trade-supply-chain-finance/supply-chain-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/corporate/trade-supply-chain-finance/supply-chain-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Domestic Trade &amp; Supply Chain Finance</div>
@@ -7501,7 +7501,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/corporate/trade-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/corporate/trade-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Trade Service</div>
@@ -7515,7 +7515,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/corporate/trade-services/remittances.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/corporate/trade-services/remittances.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Remittances</div>
@@ -7529,7 +7529,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/corporate/trade-services/imports.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/corporate/trade-services/imports.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Import</div>
@@ -7543,7 +7543,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/corporate/trade-services/exports.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/corporate/trade-services/exports.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Export</div>
@@ -7557,7 +7557,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/corporate/trade-services/others.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/corporate/trade-services/others.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Others Trade Services</div>
@@ -7592,7 +7592,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/corporate/sector-expertise.html">Sector  Expertise</a>
+                                                     <a href="https://www.kotak.com/en/corporate/sector-expertise.html">Sector  Expertise</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -7621,7 +7621,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/corporate/sector-expertise.html">Accounts</a>
+                                                     <a href="https://www.kotak.com/en/corporate/sector-expertise.html">Accounts</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -7660,7 +7660,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All </div>
@@ -7674,7 +7674,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/corporate/rera.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/corporate/rera.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">RERA</div>
@@ -7688,7 +7688,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/corporate/csr-and-unspent-csr.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/corporate/csr-and-unspent-csr.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">CSR and Unspent CSR Account</div>
@@ -7766,7 +7766,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/kotak-private-banking.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/kotak-private-banking.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Kotak Private Banking</div>
@@ -7811,7 +7811,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/kotak-private.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/kotak-private.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 <div class="mb-li-dec">Learn more</div>
                                                                 
@@ -7856,7 +7856,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/kotak-private-banking/our-accolades.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/kotak-private-banking/our-accolades.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Awards &amp; Accolades</div>
@@ -7930,7 +7930,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/kotak-private-banking/investment-management.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/kotak-private-banking/investment-management.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Investment Management </div>
@@ -7975,7 +7975,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/kotak-private-banking/banking-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/kotak-private-banking/banking-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Banking Solutions</div>
@@ -8014,7 +8014,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/personal-banking/privy-league.html">Privy League <br>Overview </a>
+                                                     <a href="https://www.kotak.com/en/personal-banking/privy-league.html">Privy League <br>Overview </a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -8043,7 +8043,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/personal-banking/privy-league/programmes.html">Privy League<br> Programmes </a>
+                                                     <a href="https://www.kotak.com/en/personal-banking/privy-league/programmes.html">Privy League<br> Programmes </a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -8082,7 +8082,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Customized Programmes</div>
@@ -8096,7 +8096,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/privy-league/programmes/black.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/privy-league/programmes/black.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Privy League Black</div>
@@ -8110,7 +8110,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/privy-league/programmes/platinum.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/privy-league/programmes/platinum.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Privy League Platinum</div>
@@ -8124,7 +8124,7 @@ const headerContent = `
                                                               </a>
                                                         </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="/en/personal-banking/privy-league/programmes/neon.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a href="https://www.kotak.com/en/personal-banking/privy-league/programmes/neon.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec">Privy League Neon</div>
@@ -8159,7 +8159,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/personal-banking/privy-league/privileges.html">Privy<br>Offerings </a>
+                                                     <a href="https://www.kotak.com/en/personal-banking/privy-league/privileges.html">Privy<br>Offerings </a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -8192,7 +8192,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/personal-banking/nri/accounts-deposits.html">NRI Accounts &amp; Deposits</a>
+                                                     <a href="https://www.kotak.com/en/personal-banking/nri/accounts-deposits.html">NRI Accounts &amp; Deposits</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -8231,7 +8231,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/nri/accounts-deposits/saving-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/nri/accounts-deposits/saving-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Savings Account</div>
@@ -8276,7 +8276,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/nri/accounts-deposits/current-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/nri/accounts-deposits/current-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Current Account</div>
@@ -8321,7 +8321,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/nri/accounts-deposits/deposits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/nri/accounts-deposits/deposits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Deposits</div>
@@ -8366,7 +8366,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/nri/accounts-deposits/structured-products.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/nri/accounts-deposits/structured-products.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Structured Products</div>
@@ -8411,7 +8411,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/nri/accounts-deposits/special-products.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/nri/accounts-deposits/special-products.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Special Products</div>
@@ -8446,7 +8446,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/personal-banking/nri/transfer-money.html">NRI Money Transfer</a>
+                                                     <a href="https://www.kotak.com/en/personal-banking/nri/transfer-money.html">NRI Money Transfer</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -8485,7 +8485,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/nri/transfer-money/wire-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/nri/transfer-money/wire-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Wire Transfer</div>
@@ -8530,7 +8530,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/nri/transfer-money/remittances-from-exchange-house.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/nri/transfer-money/remittances-from-exchange-house.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Remittances from Exchange House</div>
@@ -8575,7 +8575,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/nri/transfer-money/cheques-and-demand-drafts.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/nri/transfer-money/cheques-and-demand-drafts.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Foreign Currency Cheques</div>
@@ -8610,7 +8610,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/personal-banking/nri/loans.html">NRI Loans</a>
+                                                     <a href="https://www.kotak.com/en/personal-banking/nri/loans.html">NRI Loans</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -8649,7 +8649,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/nri/loans/nri-home-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/nri/loans/nri-home-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All NRI Home Loan</div>
@@ -8694,7 +8694,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/nri/loans/nri-home-improvement-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/nri/loans/nri-home-improvement-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All NRI Home Improvement Loan</div>
@@ -8729,7 +8729,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/personal-banking/nri/cards.html">NRI Cards</a>
+                                                     <a href="https://www.kotak.com/en/personal-banking/nri/cards.html">NRI Cards</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -8768,7 +8768,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/nri/cards/credit-cards.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/nri/cards/credit-cards.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Credit Cards</div>
@@ -8813,7 +8813,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/nri/cards/debit-cards.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/nri/cards/debit-cards.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Debit Cards</div>
@@ -8858,7 +8858,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/nri/cards/prepaid-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/nri/cards/prepaid-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Prepaid Cards</div>
@@ -8903,7 +8903,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/cards/debit-cards/debit-card-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/debit-card-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Debit Card Services</div>
@@ -8948,7 +8948,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/cards/credit-cards/credit-card-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/credit-card-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Credit Card Services</div>
@@ -8983,7 +8983,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/personal-banking/nri/investments-insurance.html">NRI Investment &amp; Insurance</a>
+                                                     <a href="https://www.kotak.com/en/personal-banking/nri/investments-insurance.html">NRI Investment &amp; Insurance</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -9022,7 +9022,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/insurance/life-insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/insurance/life-insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Life Insurance</div>
@@ -9067,7 +9067,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/investments/mutual-funds.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/investments/mutual-funds.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Mutual Funds</div>
@@ -9112,7 +9112,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/investments/national-pension-system.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/investments/national-pension-system.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All National Pension System (NPS)</div>
@@ -9157,7 +9157,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/nri/investments-insurance/portfolio-investments-schemes.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/nri/investments-insurance/portfolio-investments-schemes.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Portfolio Investment Schemes</div>
@@ -9202,7 +9202,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/personal-banking/investments/demat-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/personal-banking/investments/demat-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Demat Account</div>
@@ -9237,7 +9237,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/personal-banking/nri/privy.html">NRI Privy League</a>
+                                                     <a href="https://www.kotak.com/en/personal-banking/nri/privy.html">NRI Privy League</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -9270,7 +9270,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/investor-relations.html">Overview</a>
+                                                     <a href="https://www.kotak.com/en/investor-relations.html">Overview</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -9328,7 +9328,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/investor-relations/governance.html">Governance</a>
+                                                     <a href="https://www.kotak.com/en/investor-relations/governance.html">Governance</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -9357,7 +9357,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/investor-relations/investor-information.html">Shareholding &amp; <br>Investor Info </a>
+                                                     <a href="https://www.kotak.com/en/investor-relations/investor-information.html">Shareholding &amp; <br>Investor Info </a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -9386,7 +9386,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/investor-relations/sustainability.html">Sustainability </a>
+                                                     <a href="https://www.kotak.com/en/investor-relations/sustainability.html">Sustainability </a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -9415,7 +9415,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/investor-relations/investor-information.html">Investor updates</a>
+                                                     <a href="https://www.kotak.com/en/investor-relations/investor-information.html">Investor updates</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -9454,7 +9454,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/investor-relations/tech-at-kotak.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/investor-relations/tech-at-kotak.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Tech@Kotak</div>
@@ -9499,7 +9499,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="/en/investor-relations/kotak811-events.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a href="https://www.kotak.com/en/investor-relations/kotak811-events.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Kotak811 Events</div>
@@ -9534,7 +9534,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/investor-relations/investor-information/disclosures-regulation.html">Disclosures <br>Regulation 46 and 62</a>
+                                                     <a href="https://www.kotak.com/en/investor-relations/investor-information/disclosures-regulation.html">Disclosures <br>Regulation 46 and 62</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -9563,7 +9563,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a href="/en/investor-relations/investor-information/iepf.html">IEPF</a>
+                                                     <a href="https://www.kotak.com/en/investor-relations/investor-information/iepf.html">IEPF</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -9590,19 +9590,19 @@ const headerContent = `
                         </div>
                         <div class="header-menu">
                             <ul class="header-menu-ul">
-                                <li class="header-menu-li active-header-menu"><a href="/en/home.html" class="header-menutext-color" target="_self">Personal</a></li>
+                                <li class="header-menu-li active-header-menu"><a href="https://www.kotak.com/en/home.html" class="header-menutext-color" target="_self">Personal</a></li>
                             
-                                <li class="header-menu-li "><a href="/en/business.html" class="header-menutext-color" target="_self">Business</a></li>
+                                <li class="header-menu-li "><a href="https://www.kotak.com/en/business.html" class="header-menutext-color" target="_self">Business</a></li>
                             
-                                <li class="header-menu-li "><a href="/en/corporate.html" class="header-menutext-color" target="_self">Corporate</a></li>
+                                <li class="header-menu-li "><a href="https://www.kotak.com/en/corporate.html" class="header-menutext-color" target="_self">Corporate</a></li>
                             
-                                <li class="header-menu-li "><a href="/en/kotak-private-banking.html" class="header-menutext-color" target="_self">Private Banking</a></li>
+                                <li class="header-menu-li "><a href="https://www.kotak.com/en/kotak-private-banking.html" class="header-menutext-color" target="_self">Private Banking</a></li>
                             
-                                <li class="header-menu-li "><a href="/en/personal-banking/privy-league.html" class="header-menutext-color" target="_self">Privy League</a></li>
+                                <li class="header-menu-li "><a href="https://www.kotak.com/en/personal-banking/privy-league.html" class="header-menutext-color" target="_self">Privy League</a></li>
                             
-                                <li class="header-menu-li "><a href="/en/personal-banking/nri.html" class="header-menutext-color" target="_self">NRI Services</a></li>
+                                <li class="header-menu-li "><a href="https://www.kotak.com/en/personal-banking/nri.html" class="header-menutext-color" target="_self">NRI Services</a></li>
                             
-                                <li class="header-menu-li "><a href="/en/investor-relations.html" class="header-menutext-color" target="_self">Investors</a></li>
+                                <li class="header-menu-li "><a href="https://www.kotak.com/en/investor-relations.html" class="header-menutext-color" target="_self">Investors</a></li>
                             </ul>
                         </div>
                     </div>
@@ -9709,43 +9709,43 @@ const headerContent = `
                 <div class="sub-header-menu">
                     <ul class="sub-header-ul">
                       
-                        <li class="sub-header-li" data-menu="sub-menu-detail-1"><a target="_self" class="subheader-menutext-color">Accounts &amp; Deposits</a>
+                        <li class="sub-header-li" data-menu="sub-menu-detail-1"><a href="#"  target="_self" class="subheader-menutext-color">Accounts &amp; Deposits</a>
                           <!-- <sly data-sly-test=",,,,,," data-sly-list=",,,,,,"> -->
                             
                         <!-- </sly> -->
                         </li>
                         
-                        <li class="sub-header-li" data-menu="sub-menu-detail-2"><a href="/en/personal-banking/cards.html" target="_self" class="subheader-menutext-color">Cards &amp; Prepaid Services</a>
+                        <li class="sub-header-li" data-menu="sub-menu-detail-2"><a href="https://www.kotak.com/en/personal-banking/cards.html" target="_self" class="subheader-menutext-color">Cards &amp; Prepaid Services</a>
                           <!-- <sly data-sly-test=",,,,,," data-sly-list=",,,,,,"> -->
                             
                         <!-- </sly> -->
                         </li>
                         
-                        <li class="sub-header-li" data-menu="sub-menu-detail-3"><a href="/en/personal-banking/loans.html" target="_self" class="subheader-menutext-color">Loans</a>
+                        <li class="sub-header-li" data-menu="sub-menu-detail-3"><a href="https://www.kotak.com/en/personal-banking/loans.html" target="_self" class="subheader-menutext-color">Loans</a>
                           <!-- <sly data-sly-test=",,,,,," data-sly-list=",,,,,,"> -->
                             
                         <!-- </sly> -->
                         </li>
                         
-                        <li class="sub-header-li" data-menu="sub-menu-detail-4"><a href="/en/personal-banking/investments.html" target="_self" class="subheader-menutext-color">Investment &amp; Insurance</a>
+                        <li class="sub-header-li" data-menu="sub-menu-detail-4"><a href="https://www.kotak.com/en/personal-banking/investments.html" target="_self" class="subheader-menutext-color">Investment &amp; Insurance</a>
                           <!-- <sly data-sly-test=",,,,,," data-sly-list=",,,,,,"> -->
                             
                         <!-- </sly> -->
                         </li>
                         
-                        <li class="sub-header-li" data-menu="sub-menu-detail-5"><a target="_self" class="subheader-menutext-color">Payments &amp; Taxes</a>
+                        <li class="sub-header-li" data-menu="sub-menu-detail-5"><a href="#"  target="_self" class="subheader-menutext-color">Payments &amp; Taxes</a>
                           <!-- <sly data-sly-test=",,,,,," data-sly-list=",,,,,,"> -->
                             
                         <!-- </sly> -->
                         </li>
                         
-                        <li class="sub-header-li" data-menu="sub-menu-detail-6"><a href="/en/offers.html" target="_self" class="subheader-menutext-color">Offers</a>
+                        <li class="sub-header-li" data-menu="sub-menu-detail-6"><a href="https://www.kotak.com/en/offers.html" target="_self" class="subheader-menutext-color">Offers</a>
                           <!-- <sly data-sly-test=",,,,,," data-sly-list=",,,,,,"> -->
                             
                         <!-- </sly> -->
                         </li>
                         
-                        <li class="sub-header-li" data-menu="sub-menu-detail-7"><a href="/en/customer-service/service-request.html" target="_self" class="subheader-menutext-color">Service Request</a>
+                        <li class="sub-header-li" data-menu="sub-menu-detail-7"><a href="https://www.kotak.com/en/customer-service/service-request.html" target="_self" class="subheader-menutext-color">Service Request</a>
                           <!-- <sly data-sly-test=",,,,,," data-sly-list=",,,,,,"> -->
                             
                         <!-- </sly> -->
@@ -9763,12 +9763,12 @@ const headerContent = `
                   
                           
                             
-                        <a href="/en/help-center.html" class="sub-header-help subheader-menutext-color-help">
+                        <a href="https://www.kotak.com/en/help-center.html" class="sub-header-help subheader-menutext-color-help">
                           <img src="https://www.kotak.com/content/dam/Kotak/svg-icons/navigation/help-web.svg" width="24" height="24" alt="logo">
                           Help Center
                         </a>
                       
-                        <a href="/en/reach-us.html" class="sub-header-help subheader-menutext-color-help">
+                        <a href="https://www.kotak.com/en/reach-us.html" class="sub-header-help subheader-menutext-color-help">
                           <img src="https://www.kotak.com/content/dam/Kotak/svg-icons/navigation/locate-us.svg" width="24" height="24" alt="logo">
                           Locate us
                         </a>
@@ -9789,40 +9789,40 @@ const headerContent = `
                         <div class="sub-menu-detail-level sub-menu-detail-level-single " data-primarycolor="rgb(255,255,255)" data-secondarycolor="rgb(255,255,255)" style="background-color: rgb(255, 255, 255);">
                                 
                                     <div class="sub-menu-detail-container  bb-block "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/personal-banking/accounts/savings-account.html" target="_self">Savings Account</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/personal-banking/accounts/savings-account.html" target="_self">Savings Account</a> 
                                           
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/accounts/savings-account/grand-savings-account.html" target="_self">Senior Citizen Savings Account</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/grand-savings-account.html" target="_self">Senior Citizen Savings Account</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/accounts/savings-account/activ-money-savings-account.html" target="_self">ActivMoney Savings Account</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/activ-money-savings-account.html" target="_self">ActivMoney Savings Account</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/accounts/savings-account/everyday-saving-account.html" target="_self">Everyday Savings Account</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/everyday-saving-account.html" target="_self">Everyday Savings Account</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/accounts/savings-account/811-zero-balance-digital-savings-account.html" target="_self">811 Zero Balance Account</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/811-zero-balance-digital-savings-account.html" target="_self">811 Zero Balance Account</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/accounts/savings-account/ace-savings-account.html" target="_self">Ace Savings Account</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/ace-savings-account.html" target="_self">Ace Savings Account</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/accounts/savings-account/silk-woman-savings-account.html" target="_self">Silk Womens Savings Account</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/silk-woman-savings-account.html" target="_self">Silk Womens Savings Account</a></li>                                
                                         </ul>
                                     </div>
                                 
                                     <div class="sub-menu-detail-container   "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/business/accounts/current-accounts.html" target="_self">Current Accounts</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/business/accounts/current-accounts.html" target="_self">Current Accounts</a> 
                                           
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/business/accounts/current-accounts/global-trade.html" target="_self">Global Trade Current Account</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/business/accounts/current-accounts/global-trade.html" target="_self">Global Trade Current Account</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/business/accounts/current-accounts/start-up-premium.html" target="_self">Startup Premium Current Account</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/business/accounts/current-accounts/start-up-premium.html" target="_self">Startup Premium Current Account</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/business/accounts/current-accounts/pro.html" target="_self">Pro Current Account</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/business/accounts/current-accounts/pro.html" target="_self">Pro Current Account</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/business/accounts/current-accounts/start-up-regular.html" target="_self">Startup Regular Current Account</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/business/accounts/current-accounts/start-up-regular.html" target="_self">Startup Regular Current Account</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/business/accounts/current-accounts/astra-15.html" target="_self">Astra 15 Current Account</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/business/accounts/current-accounts/astra-15.html" target="_self">Astra 15 Current Account</a></li>                                
                                         </ul>
                                     </div>
                                 
@@ -9832,36 +9832,36 @@ const headerContent = `
                         <div class="sub-menu-detail-level sub-menu-detail-level-single " data-primarycolor="rgb(255,255,255)" data-secondarycolor="rgb(255,255,255)" style="background-color: rgb(255, 255, 255);">
                                 
                                     <div class="sub-menu-detail-container  bb-block "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/personal-banking/privy-league.html" target="_self">Privy League</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/personal-banking/privy-league.html" target="_self">Privy League</a> 
                                           <span class="sub-header-premium">Premium</span>
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/privy-league/programmes/black.html" target="_self">Privy Black</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/privy-league/programmes/black.html" target="_self">Privy Black</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/privy-league/programmes/platinum.html" target="_self">Privy Platinum</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/privy-league/programmes/platinum.html" target="_self">Privy Platinum</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/privy-league/programmes/neon.html" target="_self">Privy Neon</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/privy-league/programmes/neon.html" target="_self">Privy Neon</a></li>                                
                                         </ul>
                                     </div>
                                 
                                     <div class="sub-menu-detail-container  bb-block "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/personal-banking/accounts/corporate-salary-account.html" target="_self">Salary Accounts</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/personal-banking/accounts/corporate-salary-account.html" target="_self">Salary Accounts</a> 
                                           
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/accounts/corporate-salary-account/everyday-account.html" target="_self">Everyday Account</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/accounts/corporate-salary-account/everyday-account.html" target="_self">Everyday Account</a></li>                                
                                         
                                             <li class="sub-menu-detail-li sub-menu-detail-text">Kotak Crème</li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/accounts/corporate-salary-account/ace-salary-account.html" target="_self">Ace Salary Account</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/accounts/corporate-salary-account/ace-salary-account.html" target="_self">Ace Salary Account</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/accounts/corporate-salary-account/NationBuilders.html" target="_self">NationBuilders Salary Account</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/accounts/corporate-salary-account/NationBuilders.html" target="_self">NationBuilders Salary Account</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/accounts/corporate-salary-account/edge-salary-account.html" target="_self">Edge Salary Account</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/accounts/corporate-salary-account/edge-salary-account.html" target="_self">Edge Salary Account</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/privy-league.html" target="_self">Corporate Salary Privy League Programme</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/privy-league.html" target="_self">Corporate Salary Privy League Programme</a></li>                                
                                         </ul>
                                     </div>
                                 
@@ -9881,14 +9881,14 @@ const headerContent = `
                         <div class="sub-menu-detail-level sub-menu-detail-level-single " data-primarycolor="rgb(255,255,255)" data-secondarycolor="rgb(255,255,255)" style="background-color: rgb(255, 255, 255);">
                                 
                                     <div class="sub-menu-detail-container  bb-block "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/customer-service/service-request.html" target="_self">Service Requests</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/customer-service/service-request.html" target="_self">Service Requests</a> 
                                           
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/transaction-services/statement.html" target="_self">Check your last 5 transactions</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/transaction-services/statement.html" target="_self">Check your last 5 transactions</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/transaction-services/know-your-balance.html" target="_self">Know your account balance</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/transaction-services/know-your-balance.html" target="_self">Know your account balance</a></li>                                
                                         
                                             <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://forms.kotak.com/content/forms/af/kotakforms/passbookupdation.html" target="_self">Activate / Deactivate Passbook</a></li>                                
                                         
@@ -9901,22 +9901,22 @@ const headerContent = `
                                     </div>
                                 
                                     <div class="sub-menu-detail-container   "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/personal-banking/deposits.html" target="_self">Deposits</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/personal-banking/deposits.html" target="_self">Deposits</a> 
                                           
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/deposits/fixed-deposit.html" target="_self">Fixed Deposit</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/deposits/fixed-deposit.html" target="_self">Fixed Deposit</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/deposits/recurring-deposits.html" target="_self">Recurring Deposit</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/deposits/recurring-deposits.html" target="_self">Recurring Deposit</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/deposits/tax-saving-fixed-deposit.html" target="_self">Tax Saving Fixed Deposit</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/deposits/tax-saving-fixed-deposit.html" target="_self">Tax Saving Fixed Deposit</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/deposits/senior-citizen-fixed-deposit.html" target="_self">Senior Citizen Fixed Deposit</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/deposits/senior-citizen-fixed-deposit.html" target="_self">Senior Citizen Fixed Deposit</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/deposits/fixed-deposit/fixed-deposit-calculator.html" target="_self">Fixed Deposit Calculator</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/deposits/fixed-deposit/fixed-deposit-calculator.html" target="_self">Fixed Deposit Calculator</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/deposits/recurring-deposits/recurring-deposit-calculator.html" target="_self">Recurring Deposit Calculator</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/deposits/recurring-deposits/recurring-deposit-calculator.html" target="_self">Recurring Deposit Calculator</a></li>                                
                                         </ul>
                                     </div>
                                 
@@ -9931,46 +9931,46 @@ const headerContent = `
                         <div class="sub-menu-detail-level sub-menu-detail-level-single " data-primarycolor="rgb(255,255,255)" data-secondarycolor="rgb(255,255,255)" style="background-color: rgb(255, 255, 255);">
                                 
                                     <div class="sub-menu-detail-container  bb-block "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/personal-banking/cards/credit-cards.html" target="_self">Credit Cards</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/personal-banking/cards/credit-cards.html" target="_self">Credit Cards</a> 
                                           
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/credit-cards/kotak-811-credit-card.html" target="_self">811 Credit Card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/kotak-811-credit-card.html" target="_self">811 Credit Card</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/credit-cards/zen-signature-credit-card.html" target="_self">Zen Signature Credit Card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/zen-signature-credit-card.html" target="_self">Zen Signature Credit Card</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/credit-cards/mojo-platinum-credit-card.html" target="_self">Mojo Platinum Credit Card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/mojo-platinum-credit-card.html" target="_self">Mojo Platinum Credit Card</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/credit-cards/myntra-kotak-credit-card.html" target="_self">Myntra Kotak Credit Card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/myntra-kotak-credit-card.html" target="_self">Myntra Kotak Credit Card</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/credit-cards/league-platinum-card.html" target="_self">League Platinum Credit Card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/league-platinum-card.html" target="_self">League Platinum Credit Card</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/credit-cards/white-credit-card.html" target="_self">White Credit Card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/white-credit-card.html" target="_self">White Credit Card</a></li>                                
                                         </ul>
                                     </div>
                                 
                                     <div class="sub-menu-detail-container   "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/personal-banking/cards/debit-cards.html" target="_self">Debit Cards</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/personal-banking/cards/debit-cards.html" target="_self">Debit Cards</a> 
                                           
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/debit-cards/pay-shop-more.html" target="_self">PayShopMore Debit Card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/pay-shop-more.html" target="_self">PayShopMore Debit Card</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/debit-cards/pvr-debit-card.html" target="_self">Kotak PVR Debit Card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/pvr-debit-card.html" target="_self">Kotak PVR Debit Card</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/debit-cards/platinum-debit-card.html" target="_self">Platinum Debit Card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/platinum-debit-card.html" target="_self">Platinum Debit Card</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/debit-cards/811-dream-different-debit-card.html" target="_self">811 Dream Different Debit Card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/811-dream-different-debit-card.html" target="_self">811 Dream Different Debit Card</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/debit-cards/privy-league-signature-debit-card.html" target="_self">Privy League Signature Debit Card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/privy-league-signature-debit-card.html" target="_self">Privy League Signature Debit Card</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/debit-cards/silk-debit-card.html" target="_self">Silk Platinum Debit Card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/silk-debit-card.html" target="_self">Silk Platinum Debit Card</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/debit-cards/business-class-gold-debit-card.html" target="_self">Business Class Gold Debit Card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/business-class-gold-debit-card.html" target="_self">Business Class Gold Debit Card</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/debit-cards/debit-card-services.html" target="_self">Debit Card Services</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/debit-card-services.html" target="_self">Debit Card Services</a></li>                                
                                         </ul>
                                     </div>
                                 
@@ -9980,38 +9980,38 @@ const headerContent = `
                         <div class="sub-menu-detail-level sub-menu-detail-level-single " data-primarycolor="rgb(255,255,255)" data-secondarycolor="rgb(255,255,255)" style="background-color: rgb(255, 255, 255);">
                                 
                                     <div class="sub-menu-detail-container  bb-block "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/personal-banking/cards/prepaid-card.html" target="_self">Prepaid Services/Spendz</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/personal-banking/cards/prepaid-card.html" target="_self">Prepaid Services/Spendz</a> 
                                           
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/prepaid-card/forex-card.html" target="_self">Forex Card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/prepaid-card/forex-card.html" target="_self">Forex Card</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/prepaid-card/forex-card/kotak-forex-card.html" target="_self">Recharge Forex Card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/prepaid-card/forex-card/kotak-forex-card.html" target="_self">Recharge Forex Card</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/prepaid-card/kotak-gift-cards.html" target="_self">Gift Card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/prepaid-card/kotak-gift-cards.html" target="_self">Gift Card</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/prepaid-card/spendz.html" target="_self">Spendz</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/prepaid-card/spendz.html" target="_self">Spendz</a></li>                                
                                         </ul>
                                     </div>
                                 
                                     <div class="sub-menu-detail-container   "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/personal-banking/cards/credit-cards/credit-card-services.html" target="_self">Credit Card Services</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/credit-card-services.html" target="_self">Credit Card Services</a> 
                                           
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
                                             <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://kapps.kotak.com/CCPreLogin/Statement/statement" target="_self">View Credit Card Statement</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/credit-cards/credit-card-services/credit-card-payments.html" target="_self">Credit Card Bill Payment</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/credit-card-services/credit-card-payments.html" target="_self">Credit Card Bill Payment</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/transaction-services/generate-pin.html" target="_self">Generate PIN</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/transaction-services/generate-pin.html" target="_self">Generate PIN</a></li>                                
                                         
                                             <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/transaction-services/track-application" target="_self">Check Application Status</a></li>                                
                                         
                                             <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/transaction-services/statement" target="_self">Register for E-statement</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/credit-cards/credit-card-services/personal-loan-on-credit-card.html" target="_self">Personal Loan on Credit Card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/credit-card-services/personal-loan-on-credit-card.html" target="_self">Personal Loan on Credit Card</a></li>                                
                                         
                                             <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://netbanking.kotak.com/knb2/" target="_self">Apply for Add On Card</a></li>                                
                                         </ul>
@@ -10023,21 +10023,21 @@ const headerContent = `
                         <div class="sub-menu-detail-level sub-menu-detail-level-single " data-primarycolor="rgb(255,255,255)" data-secondarycolor="rgb(255,255,255)" style="background-color: rgb(255, 255, 255);">
                                 
                                     <div class="sub-menu-detail-container   "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/personal-banking/cards/credit-cards/commercial-credit-card.html" target="_self">Commercial Credit Cards</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/commercial-credit-card.html" target="_self">Commercial Credit Cards</a> 
                                           
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/credit-cards/corporate-credit-card.html" target="_self">Corporate Credit Card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/corporate-credit-card.html" target="_self">Corporate Credit Card</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/credit-cards/purchase-credit-card.html" target="_self">Purchase Credit Card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/purchase-credit-card.html" target="_self">Purchase Credit Card</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/credit-cards/biz-credit-card.html" target="_self">Biz Credit Card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/biz-credit-card.html" target="_self">Biz Credit Card</a></li>                                
                                         </ul>
                                     </div>
                                 
                                     <div class="sub-menu-detail-container   "> 
-                                        <div class="sub-menu-detail-title"><a target="_self">Other Card Services</a> 
+                                        <div class="sub-menu-detail-title"><a href="#"  target="_self">Other Card Services</a> 
                                           
                                           
                                         </div>
@@ -10053,12 +10053,12 @@ const headerContent = `
                                     </div>
                                 
                                     <div class="sub-menu-detail-container   "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/personal-banking/cards/wearable-payments.html" target="_self">Wearable Payment</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/personal-banking/cards/wearable-payments.html" target="_self">Wearable Payment</a> 
                                           
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a target="_self"></a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="#"  target="_self"></a></li>                                
                                         </ul>
                                     </div>
                                 
@@ -10073,46 +10073,46 @@ const headerContent = `
                         <div class="sub-menu-detail-level sub-menu-detail-level-single " data-primarycolor="rgb(255,255,255)" data-secondarycolor="rgb(255,255,255)" style="background-color: rgb(255, 255, 255);">
                                 
                                     <div class="sub-menu-detail-container  bb-block "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/personal-banking/loans/personal-loan.html" target="_self">Personal Loan</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/personal-banking/loans/personal-loan.html" target="_self">Personal Loan</a> 
                                           
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
                                             <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://kudosdigital.kotak.com/vivid/vividflow/run/personal_loan?ProductID=152&amp;ProductCategoryID=143&amp;Channel=33" target="_self">Apply for a Personal Loan</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/loans/personal-loan/eligibility.html" target="_self">Personal Loan Eligibility</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/loans/personal-loan/eligibility.html" target="_self">Personal Loan Eligibility</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/loans/personal-loan/required-documents.html" target="_self">Personal Loan Documents</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/loans/personal-loan/required-documents.html" target="_self">Personal Loan Documents</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/loans/personal-loan/interest-rates.html" target="_self">Personal Loan Interest Rate</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/loans/personal-loan/interest-rates.html" target="_self">Personal Loan Interest Rate</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/loans/personal-loan/personal-loan-emi-calculator.html" target="_self">Personal Loan EMI Calculator</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/loans/personal-loan/personal-loan-emi-calculator.html" target="_self">Personal Loan EMI Calculator</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/loans/personal-loan/top-up-loan.html" target="_self">Personal Loan Top up</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/loans/personal-loan/top-up-loan.html" target="_self">Personal Loan Top up</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/loans/personal-loan/top-up-and-balance-transfer.html" target="_self">Personal Loan Balance Transfer</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/loans/personal-loan/top-up-and-balance-transfer.html" target="_self">Personal Loan Balance Transfer</a></li>                                
                                         </ul>
                                     </div>
                                 
                                     <div class="sub-menu-detail-container  bb-block "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/personal-banking/loans/home-loan.html" target="_self">Home Loan</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/personal-banking/loans/home-loan.html" target="_self">Home Loan</a> 
                                           
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
                                             <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://homeloans.kotak.com/?cid=HL001&amp;cName=HLProductPage_MainBanner&amp;c_source=Organic&amp;c_medium=Website_ProductPage&amp;c_campaign=Apply_Now_Main_Banner&amp;c_content=Display&amp;c_term=HL001" target="_self">Apply for a Home Loan</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/loans/home-loan/eligibility.html" target="_self">Home Loan Eligibility</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/loans/home-loan/eligibility.html" target="_self">Home Loan Eligibility</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/loans/home-loan/required-documents.html" target="_self">Home Loan Documents</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/loans/home-loan/required-documents.html" target="_self">Home Loan Documents</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/loans/home-loan/interest-rates.html" target="_self">Home Loan Interest Rate</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/loans/home-loan/interest-rates.html" target="_self">Home Loan Interest Rate</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/loans/home-loan/home-loan-emi-calculator.html" target="_self">Home Loan EMI Calculator</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/loans/home-loan/home-loan-emi-calculator.html" target="_self">Home Loan EMI Calculator</a></li>                                
                                         
                                             <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/loans/home-loan/home-renovation-loan.html" target="_self">Home Improvement Loan</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/loans/home-loan/home-loan-balance-transfer.html" target="_self">Home Loan Balance Transfer</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/loans/home-loan/home-loan-balance-transfer.html" target="_self">Home Loan Balance Transfer</a></li>                                
                                         </ul>
                                     </div>
                                 
@@ -10122,7 +10122,7 @@ const headerContent = `
                         <div class="sub-menu-detail-level sub-menu-detail-level-single " data-primarycolor="rgb(255,255,255)" data-secondarycolor="rgb(255,255,255)" style="background-color: rgb(255, 255, 255);">
                                 
                                     <div class="sub-menu-detail-container  bb-block "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/business/loans/business-loan.html" target="_self">Business Loan</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/business/loans/business-loan.html" target="_self">Business Loan</a> 
                                           
                                           
                                         </div>
@@ -10140,24 +10140,24 @@ const headerContent = `
                                     </div>
                                 
                                     <div class="sub-menu-detail-container   "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/personal-banking/loans.html" target="_self">Other Loans</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/personal-banking/loans.html" target="_self">Other Loans</a> 
                                           
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/loans/payday-loan.html" target="_self">PayDay Loan</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/loans/payday-loan.html" target="_self">PayDay Loan</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/loans/gold-loan.html" target="_self">Gold Loan</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/loans/gold-loan.html" target="_self">Gold Loan</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/loans/loans-against-securities.html" target="_self">Loan against Securities</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/loans/loans-against-securities.html" target="_self">Loan against Securities</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/loans/education-loan.html" target="_self">Education Loan</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/loans/education-loan.html" target="_self">Education Loan</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/loans/car-loan.html" target="_self">Car Loan</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/loans/car-loan.html" target="_self">Car Loan</a></li>                                
                                         
                                             <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/business/loans/loan-against-property.html" target="_self">Loan against properties</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/business/loans/healthcare-finance-solutions.html" target="_self">Healthcare Finance Solutions</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/business/loans/healthcare-finance-solutions.html" target="_self">Healthcare Finance Solutions</a></li>                                
                                         </ul>
                                     </div>
                                 
@@ -10180,12 +10180,12 @@ const headerContent = `
                                         
                                             <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/loans/smart-emi/offers.html" target="_self">Smart EMI Offers</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/loans/smart-emi/store-locator.html" target="_self">Locate nearest Partner Store</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/loans/smart-emi/store-locator.html" target="_self">Locate nearest Partner Store</a></li>                                
                                         </ul>
                                     </div>
                                 
                                     <div class="sub-menu-detail-container   "> 
-                                        <div class="sub-menu-detail-title"><a target="_self">Loan Account Services</a> 
+                                        <div class="sub-menu-detail-title"><a href="#"  target="_self">Loan Account Services</a> 
                                           
                                           
                                         </div>
@@ -10213,36 +10213,36 @@ const headerContent = `
                         <div class="sub-menu-detail-level sub-menu-detail-level-single " data-primarycolor="rgb(255,255,255)" data-secondarycolor="rgb(255,255,255)" style="background-color: rgb(255, 255, 255);">
                                 
                                     <div class="sub-menu-detail-container   "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/personal-banking/investments.html" target="_self">Investments</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/personal-banking/investments.html" target="_self">Investments</a> 
                                           
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/investments/investments-ki-baatein.html" target="_self">Investments Ki Baatein with Nilesh Shah</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/investments/investments-ki-baatein.html" target="_self">Investments Ki Baatein with Nilesh Shah</a></li>                                
                                         
                                             <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/investments/mutual-funds.html" target="_self">Mutual Funds</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/investments/mutual-funds/kotak-cherry.html" target="_self">Kotak Cherry</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/investments/mutual-funds/kotak-cherry.html" target="_self">Kotak Cherry</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/investments/mutual-funds/sip-calculator.html" target="_self">Sip Calculator</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/investments/mutual-funds/sip-calculator.html" target="_self">Sip Calculator</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/investments/mutual-funds/mutual-funds-calculator.html" target="_self">Mutual Fund Calculator</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/investments/mutual-funds/mutual-funds-calculator.html" target="_self">Mutual Fund Calculator</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/investments/mutual-funds/lumpsum-calculator.html" target="_self">Lump Sum Calculator</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/investments/mutual-funds/lumpsum-calculator.html" target="_self">Lump Sum Calculator</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/investments/demat-account.html" target="_self">DEMAT account</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/investments/demat-account.html" target="_self">DEMAT account</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/investments/asba-facility.html" target="_self">Kotak ASBA Facility</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/investments/asba-facility.html" target="_self">Kotak ASBA Facility</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/accounts/bank-demat-trading.html" target="_self">Stocks</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/accounts/bank-demat-trading.html" target="_self">Stocks</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/investments/portfolio-management.html" target="_self">Portfolio Management Service</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/investments/portfolio-management.html" target="_self">Portfolio Management Service</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/investments/tax-saving.html" target="_self">Tax saving investments</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/investments/tax-saving.html" target="_self">Tax saving investments</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/investments/national-pension-system.html" target="_self">National Pension System</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/investments/national-pension-system.html" target="_self">National Pension System</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/investments/sovereign-gold-bond-scheme.html" target="_self">Sovereign Gold Bonds</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/investments/sovereign-gold-bond-scheme.html" target="_self">Sovereign Gold Bonds</a></li>                                
                                         </ul>
                                     </div>
                                 
@@ -10252,59 +10252,34 @@ const headerContent = `
                         <div class="sub-menu-detail-level sub-menu-detail-level-single " data-primarycolor="rgb(255,255,255)" data-secondarycolor="rgb(255,255,255)" style="background-color: rgb(255, 255, 255);">
                                 
                                     <div class="sub-menu-detail-container  bb-block "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/personal-banking/insurance/life-insurance.html" target="_self">Life Insurance</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/personal-banking/insurance/life-insurance.html" target="_self">Life Insurance</a> 
                                           
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/insurance/life-insurance/protection-plans.html" target="_self">Protection Plans</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/insurance/life-insurance/protection-plans.html" target="_self">Protection Plans</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/insurance/life-insurance/savings-and-investment-plans.html" target="_self">Savings and Investment Plans</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/insurance/life-insurance/savings-and-investment-plans.html" target="_self">Savings and Investment Plans</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/insurance/life-insurance/ulips.html" target="_self">ULIPs</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/insurance/life-insurance/ulips.html" target="_self">ULIPs</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/insurance/life-insurance/retirement-plans.html" target="_self">Retirement plans</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/insurance/life-insurance/retirement-plans.html" target="_self">Retirement plans</a></li>                                
                                         </ul>
                                     </div>
                                 
                                     <div class="sub-menu-detail-container   "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/personal-banking/insurance.html" target="_self">General Insurance</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/personal-banking/insurance.html" target="_self">General Insurance</a> 
                                           
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/insurance/health-insurance.html" target="_self">Health Insurance</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/insurance/health-insurance.html" target="_self">Health Insurance</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/insurance/kotak-group-accident-protect.html" target="_self">Group Accident Protect</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/insurance/kotak-group-accident-protect.html" target="_self">Group Accident Protect</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/insurance/car-insurance.html" target="_self">Car Insurance</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/insurance/car-insurance.html" target="_self">Car Insurance</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/insurance/two-wheeler-insurance.html" target="_self">Two wheeler Insurance</a></li>                                
-                                        </ul>
-                                    </div>
-                                
-                        </div>
-                    
-                            
-                        <div class="sub-menu-detail-level sub-menu-detail-level-single " data-primarycolor="rgb(255,255,255)" data-secondarycolor="rgb(255,255,255)" style="background-color: rgb(255, 255, 255);">
-                                
-                                    <div class="sub-menu-detail-container   "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/personal-banking/deposits.html" target="_self">Deposits</a> 
-                                          
-                                          
-                                        </div>
-                                        <ul class="sub-menu-detail-ul">
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/deposits/fixed-deposit.html" target="_self">Fixed Deposit</a></li>                                
-                                        
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/deposits/recurring-deposits.html" target="_self">Recurring Deposit</a></li>                                
-                                        
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/deposits/tax-saving-fixed-deposit.html" target="_self">Tax Saving Fixed Deposit</a></li>                                
-                                        
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/deposits/senior-citizen-fixed-deposit.html" target="_self">Senior Citizen Fixed Deposit</a></li>                                
-                                        
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/deposits/fixed-deposit/fixed-deposit-calculator.html" target="_self">Fixed Deposit Calculator</a></li>                                
-                                        
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/deposits/recurring-deposits/recurring-deposit-calculator.html" target="_self">Recurring Deposit Calculator</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/insurance/two-wheeler-insurance.html" target="_self">Two wheeler Insurance</a></li>                                
                                         </ul>
                                     </div>
                                 
@@ -10314,24 +10289,49 @@ const headerContent = `
                         <div class="sub-menu-detail-level sub-menu-detail-level-single " data-primarycolor="rgb(255,255,255)" data-secondarycolor="rgb(255,255,255)" style="background-color: rgb(255, 255, 255);">
                                 
                                     <div class="sub-menu-detail-container   "> 
-                                        <div class="sub-menu-detail-title"><a target="_self">Government Schemes</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/personal-banking/deposits.html" target="_self">Deposits</a> 
                                           
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/investments/national-pension-system.html" target="_self">National Pension Scheme (NPS)</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/deposits/fixed-deposit.html" target="_self">Fixed Deposit</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/investments/national-pension-system/nps-calculator.html" target="_self">NPS Calculator</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/deposits/recurring-deposits.html" target="_self">Recurring Deposit</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/insurance/pradhan-mantri-jeevan-jyoti-bima-yojana.html" target="_self">Pradhan Mantri Jeevan Jyoti Bima Yojana</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/deposits/tax-saving-fixed-deposit.html" target="_self">Tax Saving Fixed Deposit</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/insurance/pradhan-mantri-suraksha-bima-yojana.html" target="_self">Pradhan Mantri Suraksha Bima Yojana</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/deposits/senior-citizen-fixed-deposit.html" target="_self">Senior Citizen Fixed Deposit</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/insurance/atal-pension-yojana.html" target="_self">Atal Pension Yojana</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/deposits/fixed-deposit/fixed-deposit-calculator.html" target="_self">Fixed Deposit Calculator</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/investments/rbi-bonds.html" target="_self">RBI - Floating Rate Savings Bond, 2020 (T)</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/deposits/recurring-deposits/recurring-deposit-calculator.html" target="_self">Recurring Deposit Calculator</a></li>                                
+                                        </ul>
+                                    </div>
+                                
+                        </div>
+                    
+                            
+                        <div class="sub-menu-detail-level sub-menu-detail-level-single " data-primarycolor="rgb(255,255,255)" data-secondarycolor="rgb(255,255,255)" style="background-color: rgb(255, 255, 255);">
+                                
+                                    <div class="sub-menu-detail-container   "> 
+                                        <div class="sub-menu-detail-title"><a href="#"  target="_self">Government Schemes</a> 
+                                          
+                                          
+                                        </div>
+                                        <ul class="sub-menu-detail-ul">
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/investments/national-pension-system.html" target="_self">National Pension Scheme (NPS)</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/investments/sovereign-gold-bond-scheme.html" target="_self">Sovereign Gold Bond Scheme</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/investments/national-pension-system/nps-calculator.html" target="_self">NPS Calculator</a></li>                                
+                                        
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/insurance/pradhan-mantri-jeevan-jyoti-bima-yojana.html" target="_self">Pradhan Mantri Jeevan Jyoti Bima Yojana</a></li>                                
+                                        
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/insurance/pradhan-mantri-suraksha-bima-yojana.html" target="_self">Pradhan Mantri Suraksha Bima Yojana</a></li>                                
+                                        
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/insurance/atal-pension-yojana.html" target="_self">Atal Pension Yojana</a></li>                                
+                                        
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/investments/rbi-bonds.html" target="_self">RBI - Floating Rate Savings Bond, 2020 (T)</a></li>                                
+                                        
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/investments/sovereign-gold-bond-scheme.html" target="_self">Sovereign Gold Bond Scheme</a></li>                                
                                         </ul>
                                     </div>
                                 
@@ -10346,44 +10346,44 @@ const headerContent = `
                         <div class="sub-menu-detail-level sub-menu-detail-level-single " data-primarycolor="rgb(255,255,255)" data-secondarycolor="rgb(255,255,255)" style="background-color: rgb(255, 255, 255);">
                                 
                                     <div class="sub-menu-detail-container  bb-block "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/digital-banking/insta-services/money-transfer.html" target="_self">Money Transfer / Forex</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/digital-banking/insta-services/money-transfer.html" target="_self">Money Transfer / Forex</a> 
                                           
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/digital-banking/insta-services/money-transfer.html" target="_self">Money Transfer (NEFT/RTGS/IMPS)</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/digital-banking/insta-services/money-transfer.html" target="_self">Money Transfer (NEFT/RTGS/IMPS)</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/digital-banking/ways-to-bank/bhim-upi.html" target="_self">UPI</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/digital-banking/ways-to-bank/bhim-upi.html" target="_self">UPI</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/digital-banking/insta-services/scan-any-qr.html" target="_self">Scan Any QR</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/digital-banking/insta-services/scan-any-qr.html" target="_self">Scan Any QR</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/digital-banking/insta-services/pay-your-contact.html" target="_self">Pay your contact</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/digital-banking/insta-services/pay-your-contact.html" target="_self">Pay your contact</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/digital-banking/insta-services/send-money-abroad.html" target="_self">Send money abroad</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/digital-banking/insta-services/send-money-abroad.html" target="_self">Send money abroad</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/digital-banking/insta-services/foreign-currency-cash.html" target="_self">Foreign Currency Cash Services</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/digital-banking/insta-services/foreign-currency-cash.html" target="_self">Foreign Currency Cash Services</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/personal-banking/cards/prepaid-card/forex-card.html" target="_self">Buy Forex Card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/personal-banking/cards/prepaid-card/forex-card.html" target="_self">Buy Forex Card</a></li>                                
                                         </ul>
                                     </div>
                                 
                                     <div class="sub-menu-detail-container   "> 
-                                        <div class="sub-menu-detail-title"><a target="_self">Bill Payments / Recharges via BillDesk</a> 
+                                        <div class="sub-menu-detail-title"><a href="#"  target="_self">Bill Payments / Recharges via BillDesk</a> 
                                           
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="javascript:void(0);" target="_self" data-toggle="modal" data-target="#overlay-1609938547637">Utility payments</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="#" target="_self" data-toggle="modal" data-target="#overlay-1609938547637">Utility payments</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="javascript:void(0);" target="_self" data-toggle="modal" data-target="#overlay-1609938547637">Mobile / Landline postpaid bill payment</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="#" target="_self" data-toggle="modal" data-target="#overlay-1609938547637">Mobile / Landline postpaid bill payment</a></li>                                
                                         
                                             <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://hexagon.billdesk.com/hgapp-instapay/InstaPayController?BankID=KTK03" target="_self">Credit Card bill payment</a></li>                                
                                         
                                             <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://hexagon.billdesk.com/hgapp-instapay/InstaPayController?BankID=KTK03" target="_self">Recharge FASTag</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="javascript:void(0);" target="_self" data-toggle="modal" data-target="#overlay-1609938547637">Mobile prepaid recharge</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="#" target="_self" data-toggle="modal" data-target="#overlay-1609938547637">Mobile prepaid recharge</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="javascript:void(0);" target="_self" data-toggle="modal" data-target="#overlay-1609938547637">View all payments / recharges</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="#" target="_self" data-toggle="modal" data-target="#overlay-1609938547637">View all payments / recharges</a></li>                                
                                         </ul>
                                     </div>
                                 
@@ -10393,7 +10393,7 @@ const headerContent = `
                         <div class="sub-menu-detail-level sub-menu-detail-level-single " data-primarycolor="rgb(255,255,255)" data-secondarycolor="rgb(255,255,255)" style="background-color: rgb(255, 255, 255);">
                                 
                                     <div class="sub-menu-detail-container  bb-block "> 
-                                        <div class="sub-menu-detail-title"><a target="_self">Loan &amp; Card Payment</a> 
+                                        <div class="sub-menu-detail-title"><a href="#"  target="_self">Loan &amp; Card Payment</a> 
                                           
                                           
                                         </div>
@@ -10407,18 +10407,18 @@ const headerContent = `
                                     </div>
                                 
                                     <div class="sub-menu-detail-container  bb-block "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/business/taxes.html" target="_self">Tax Payment</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/business/taxes.html" target="_self">Tax Payment</a> 
                                           
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/business/taxes/direct-income-tax-payment.html" target="_self">Income Tax Payment</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/business/taxes/direct-income-tax-payment.html" target="_self">Income Tax Payment</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/business/taxes/gst.html" target="_self">Goods &amp; Services Tax (GST)</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/business/taxes/gst.html" target="_self">Goods &amp; Services Tax (GST)</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/business/taxes/customs-duty.html" target="_self">Customs Duty Payment</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/business/taxes/customs-duty.html" target="_self">Customs Duty Payment</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/business/taxes/direct-income-tax-payment/bulk-upload-solutions.html" target="_self">Bulk Tax Payment Solutions</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/business/taxes/direct-income-tax-payment/bulk-upload-solutions.html" target="_self">Bulk Tax Payment Solutions</a></li>                                
                                         </ul>
                                     </div>
                                 
@@ -10501,7 +10501,7 @@ const headerContent = `
                         <div class="sub-menu-detail-level sub-menu-detail-level-single " data-primarycolor="rgb(255,255,255)" data-secondarycolor="rgb(255,255,255)" style="background-color: rgb(255, 255, 255);">
                                 
                                     <div class="sub-menu-detail-container   "> 
-                                        <div class="sub-menu-detail-title"><a target="_self">Popular Offers</a> 
+                                        <div class="sub-menu-detail-title"><a href="#"  target="_self">Popular Offers</a> 
                                           
                                           <span class="sub-header-new">New</span>
                                         </div>
@@ -10525,7 +10525,7 @@ const headerContent = `
                         <div class="sub-menu-detail-level sub-menu-detail-level-single " data-primarycolor="rgb(255,255,255)" data-secondarycolor="rgb(255,255,255)" style="background-color: rgb(255, 255, 255);">
                                 
                                     <div class="sub-menu-detail-container  bb-block "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/customer-service/service-request.html" target="_self">Update Profile</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/customer-service/service-request.html" target="_self">Update Profile</a> 
                                           
                                           
                                         </div>
@@ -10539,7 +10539,7 @@ const headerContent = `
                                     </div>
                                 
                                     <div class="sub-menu-detail-container   "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/customer-service/service-request.html" target="_self">Saving and Current Accounts</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/customer-service/service-request.html" target="_self">Saving and Current Accounts</a> 
                                           
                                           
                                         </div>
@@ -10570,31 +10570,31 @@ const headerContent = `
                         <div class="sub-menu-detail-level sub-menu-detail-level-single " data-primarycolor="rgb(255,255,255)" data-secondarycolor="rgb(255,255,255)" style="background-color: rgb(255, 255, 255);">
                                 
                                     <div class="sub-menu-detail-container  bb-block "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/customer-service/service-request.html" target="_self">Debit and Credit Cards</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/customer-service/service-request.html" target="_self">Debit and Credit Cards</a> 
                                           
                                           
                                         </div>
                                         <ul class="sub-menu-detail-ul">
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/transaction-services/coft.html" target="_self">Card Token Management</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/transaction-services/coft.html" target="_self">Card Token Management</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/transaction-services/generate-pin.html" target="_self">Generate PIN for all your Kotak cards</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/transaction-services/generate-pin.html" target="_self">Generate PIN for all your Kotak cards</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/transaction-services/block-card.html" target="_self">Activate or deactivate your card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/transaction-services/block-card.html" target="_self">Activate or deactivate your card</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/transaction-services/report-lost-card.html" target="_self">Report a lost or stolen card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/transaction-services/report-lost-card.html" target="_self">Report a lost or stolen card</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/transaction-services/international-usage.html" target="_self">Set your card for international usage</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/transaction-services/international-usage.html" target="_self">Set your card for international usage</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/transaction-services/apply-new-card.html" target="_self">Apply for New Debit Card</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/transaction-services/apply-new-card.html" target="_self">Apply for New Debit Card</a></li>                                
                                         
-                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="/en/transaction-services/image-card.html" target="_self">Personalize your Debit Card from over 70+ images</a></li>                                
+                                            <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/en/transaction-services/image-card.html" target="_self">Personalize your Debit Card from over 70+ images</a></li>                                
                                         
                                             <li class="sub-menu-detail-li sub-menu-detail-text"><a href="https://www.kotak.com/srforms/content/forms/af/kapps.html" target="_self">Raise Dispute / Report Fraud</a></li>                                
                                         </ul>
                                     </div>
                                 
                                     <div class="sub-menu-detail-container   "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/customer-service/service-request.html" target="_self">Personal Loans</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/customer-service/service-request.html" target="_self">Personal Loans</a> 
                                           
                                           
                                         </div>
@@ -10619,7 +10619,7 @@ const headerContent = `
                         <div class="sub-menu-detail-level sub-menu-detail-level-single " data-primarycolor="rgb(255,255,255)" data-secondarycolor="rgb(255,255,255)" style="background-color: rgb(255, 255, 255);">
                                 
                                     <div class="sub-menu-detail-container  bb-block "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/customer-service/service-request.html" target="_self">Home Loans</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/customer-service/service-request.html" target="_self">Home Loans</a> 
                                           
                                           
                                         </div>
@@ -10637,7 +10637,7 @@ const headerContent = `
                                     </div>
                                 
                                     <div class="sub-menu-detail-container   "> 
-                                        <div class="sub-menu-detail-title"><a href="/en/customer-service/service-request.html" target="_self">Business Loans / Loan Against Property / Payday Loans</a> 
+                                        <div class="sub-menu-detail-title"><a href="https://www.kotak.com/en/customer-service/service-request.html" target="_self">Business Loans / Loan Against Property / Payday Loans</a> 
                                           
                                           
                                         </div>
@@ -10660,17 +10660,17 @@ const headerContent = `
             <div class="mobile-header-log">
               
             
-                <a href="/en/home.html">
+                <a href="https://www.kotak.com/en/home.html">
                     <img class=" lazyloaded" src="https://www.kotak.com/content/dam/Kotak/svg-icons/navigation/kmbl-logo-mob.png" alt="kmbl-logo-mob" title="kmbl-logo-mob" width="94" height="29">
                 </a>
             
             </div>
             <div class="heading-right">
                 <button class="login-btn login-btnmd"><img src="https://www.kotak.com/content/dam/Kotak/svg-icons/navigation/login-mob.svg" alt=""><a href="javascript:void(0)">Login</a></button>
-                <a href="javascript:void(0);" class="fetch-search-results analytics-links " data-toggle="modal" data-target="#search-modal">
-                  <img src="https://www.kotak.com/content/dam/Kotak/svg-icons/navigation/search-mob.svg"></a>
+                <a href="#" class="fetch-search-results analytics-links " data-toggle="modal" data-target="#search-modal">
+                  <img src="https://www.kotak.com/content/dam/Kotak/svg-icons/navigation/search-mob.svg" alt="search-icon"></a>
                 <div class="mb-headeropenclose">
-                    <a href="javascript:void(0);" class="mb-header-open" data-openoffcavas="open">
+                    <a href="#" class="mb-header-open" data-openoffcavas="open">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" width="24" height="24">
                             <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"></path>
                           </svg>
@@ -10758,7 +10758,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/accounts/savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/accounts/savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Savings Account</div>
@@ -10772,7 +10772,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/accounts/savings-account/grand-savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/grand-savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Senior Citizen Savings Account</div>
@@ -10785,7 +10785,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/accounts/savings-account/activ-money-savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/activ-money-savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">ActivMoney Savings Account</div>
@@ -10798,7 +10798,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/accounts/savings-account/everyday-saving-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/everyday-saving-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Everyday Savings Account</div>
@@ -10811,7 +10811,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/accounts/savings-account/811-zero-balance-digital-savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/811-zero-balance-digital-savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">811 Zero Balance Account</div>
@@ -10824,7 +10824,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/accounts/savings-account/ace-savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/ace-savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Ace Savings Account</div>
@@ -10837,7 +10837,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/accounts/savings-account/silk-woman-savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/accounts/savings-account/silk-woman-savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Silk Womens Savings Account</div>
@@ -10880,7 +10880,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/accounts/current-accounts.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/accounts/current-accounts.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Current Accounts</div>
@@ -10894,7 +10894,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/accounts/current-accounts/global-trade.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/accounts/current-accounts/global-trade.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Global Trade Current Account</div>
@@ -10907,7 +10907,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/accounts/current-accounts/start-up-premium.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/accounts/current-accounts/start-up-premium.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Startup Premium Current Account</div>
@@ -10920,7 +10920,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/accounts/current-accounts/pro.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/accounts/current-accounts/pro.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Pro Current Account</div>
@@ -10933,7 +10933,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/accounts/current-accounts/start-up-regular.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/accounts/current-accounts/start-up-regular.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Startup Regular Current Account</div>
@@ -10946,7 +10946,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/accounts/current-accounts/astra-15.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/accounts/current-accounts/astra-15.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Astra 15 Current Account</div>
@@ -10989,7 +10989,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/privy-league.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/privy-league.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Privy League</div>
@@ -11003,7 +11003,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/privy-league/programmes/black.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/privy-league/programmes/black.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Privy Black</div>
@@ -11016,7 +11016,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/privy-league/programmes/platinum.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/privy-league/programmes/platinum.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Privy Platinum</div>
@@ -11029,7 +11029,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/privy-league/programmes/neon.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/privy-league/programmes/neon.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Privy Neon</div>
@@ -11072,7 +11072,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/accounts/corporate-salary-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/accounts/corporate-salary-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Salary Accounts</div>
@@ -11086,7 +11086,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/accounts/corporate-salary-account/everyday-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/accounts/corporate-salary-account/everyday-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Everyday Account</div>
@@ -11112,7 +11112,7 @@ const headerContent = `
                                 
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/accounts/corporate-salary-account/ace-salary-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/accounts/corporate-salary-account/ace-salary-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Ace Salary Account</div>
@@ -11125,7 +11125,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/accounts/corporate-salary-account/NationBuilders.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/accounts/corporate-salary-account/NationBuilders.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">NationBuilders Salary Account</div>
@@ -11138,7 +11138,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/accounts/corporate-salary-account/edge-salary-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/accounts/corporate-salary-account/edge-salary-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Edge Salary Account</div>
@@ -11151,7 +11151,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/privy-league.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/privy-league.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Corporate Salary Privy League Programme</div>
@@ -11251,7 +11251,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Service Requests</div>
@@ -11265,7 +11265,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/transaction-services/statement.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/transaction-services/statement.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Check your last 5 transactions</div>
@@ -11278,7 +11278,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/transaction-services/know-your-balance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/transaction-services/know-your-balance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Know your account balance</div>
@@ -11373,7 +11373,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/deposits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/deposits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Deposits</div>
@@ -11387,7 +11387,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/deposits/fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/deposits/fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Fixed Deposit</div>
@@ -11400,7 +11400,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/deposits/recurring-deposits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/deposits/recurring-deposits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Recurring Deposit</div>
@@ -11413,7 +11413,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/deposits/tax-saving-fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/deposits/tax-saving-fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Tax Saving Fixed Deposit</div>
@@ -11426,7 +11426,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/deposits/senior-citizen-fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/deposits/senior-citizen-fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Senior Citizen Fixed Deposit</div>
@@ -11439,7 +11439,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/deposits/fixed-deposit/fixed-deposit-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/deposits/fixed-deposit/fixed-deposit-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Fixed Deposit Calculator</div>
@@ -11452,7 +11452,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/deposits/recurring-deposits/recurring-deposit-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/deposits/recurring-deposits/recurring-deposit-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Recurring Deposit Calculator</div>
@@ -11486,7 +11486,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/personal-banking/cards.html">Cards &amp; Prepaid Services </a>
+                              <a href="https://www.kotak.com/en/personal-banking/cards.html">Cards &amp; Prepaid Services </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -11523,7 +11523,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/credit-cards.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards.html" target="_self" class="mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     <div class="mb-li-dec">Learn more
                                     </div>
@@ -11538,7 +11538,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/credit-cards/kotak-811-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/kotak-811-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">811 Credit Card</div>
@@ -11551,7 +11551,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/credit-cards/zen-signature-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/zen-signature-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Zen Signature Credit Card</div>
@@ -11564,7 +11564,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/credit-cards/mojo-platinum-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/mojo-platinum-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Mojo Platinum Credit Card</div>
@@ -11577,7 +11577,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/credit-cards/myntra-kotak-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/myntra-kotak-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Myntra Kotak Credit Card</div>
@@ -11590,7 +11590,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/credit-cards/league-platinum-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/league-platinum-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">League Platinum Credit Card</div>
@@ -11603,7 +11603,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/credit-cards/white-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/white-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">White Credit Card</div>
@@ -11646,7 +11646,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/debit-cards.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/debit-cards.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Debit Cards</div>
@@ -11660,7 +11660,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/debit-cards/pay-shop-more.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/pay-shop-more.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">PayShopMore Debit Card</div>
@@ -11673,7 +11673,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/debit-cards/pvr-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/pvr-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Kotak PVR Debit Card</div>
@@ -11686,7 +11686,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/debit-cards/platinum-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/platinum-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Platinum Debit Card</div>
@@ -11699,7 +11699,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/debit-cards/811-dream-different-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/811-dream-different-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">811 Dream Different Debit Card</div>
@@ -11712,7 +11712,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/debit-cards/privy-league-signature-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/privy-league-signature-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Privy League Signature Debit Card</div>
@@ -11725,7 +11725,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/debit-cards/silk-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/silk-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Silk Platinum Debit Card</div>
@@ -11738,7 +11738,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/debit-cards/business-class-gold-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/business-class-gold-debit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Business Class Gold Debit Card</div>
@@ -11751,7 +11751,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/debit-cards/debit-card-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/debit-card-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Debit Card Services</div>
@@ -11794,7 +11794,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/prepaid-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/prepaid-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Prepaid Services/Spendz</div>
@@ -11808,7 +11808,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/prepaid-card/forex-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/prepaid-card/forex-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Forex Card</div>
@@ -11821,7 +11821,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/prepaid-card/forex-card/kotak-forex-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/prepaid-card/forex-card/kotak-forex-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Recharge Forex Card</div>
@@ -11834,7 +11834,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/prepaid-card/kotak-gift-cards.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/prepaid-card/kotak-gift-cards.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Gift Card</div>
@@ -11847,7 +11847,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/prepaid-card/spendz.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/prepaid-card/spendz.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Spendz</div>
@@ -11890,7 +11890,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/credit-cards/credit-card-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/credit-card-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Credit Card Services</div>
@@ -11917,7 +11917,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/credit-cards/credit-card-services/credit-card-payments.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/credit-card-services/credit-card-payments.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Credit Card Bill Payment</div>
@@ -11930,7 +11930,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/transaction-services/generate-pin.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/transaction-services/generate-pin.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Generate PIN</div>
@@ -11969,7 +11969,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/credit-cards/credit-card-services/personal-loan-on-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/credit-card-services/personal-loan-on-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Personal Loan on Credit Card</div>
@@ -12025,7 +12025,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/credit-cards/commercial-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/commercial-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Commercial Credit Cards</div>
@@ -12039,7 +12039,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/credit-cards/corporate-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/corporate-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Corporate Credit Card</div>
@@ -12052,7 +12052,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/credit-cards/purchase-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/purchase-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Purchase Credit Card</div>
@@ -12065,7 +12065,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/credit-cards/biz-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/biz-credit-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Biz Credit Card</div>
@@ -12108,7 +12108,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Other Card Services</div>
@@ -12204,7 +12204,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/wearable-payments.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/wearable-payments.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Wearable Payment</div>
@@ -12218,7 +12218,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec"></div>
@@ -12252,7 +12252,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/personal-banking/loans.html">Loans </a>
+                              <a href="https://www.kotak.com/en/personal-banking/loans.html">Loans </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -12289,7 +12289,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/loans/personal-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/loans/personal-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Personal Loan</div>
@@ -12316,7 +12316,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/loans/personal-loan/eligibility.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/loans/personal-loan/eligibility.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Personal Loan Eligibility</div>
@@ -12329,7 +12329,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/loans/personal-loan/required-documents.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/loans/personal-loan/required-documents.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Personal Loan Documents</div>
@@ -12342,7 +12342,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/loans/personal-loan/interest-rates.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/loans/personal-loan/interest-rates.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Personal Loan Interest Rate</div>
@@ -12355,7 +12355,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/loans/personal-loan/personal-loan-emi-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/loans/personal-loan/personal-loan-emi-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Personal Loan EMI Calculator</div>
@@ -12368,7 +12368,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/loans/personal-loan/top-up-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/loans/personal-loan/top-up-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Personal Loan Top up</div>
@@ -12381,7 +12381,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/loans/personal-loan/top-up-and-balance-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/loans/personal-loan/top-up-and-balance-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Personal Loan Balance Transfer</div>
@@ -12424,7 +12424,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/loans/home-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/loans/home-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Home Loan</div>
@@ -12451,7 +12451,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/loans/home-loan/eligibility.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/loans/home-loan/eligibility.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Home Loan Eligibility</div>
@@ -12464,7 +12464,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/loans/home-loan/required-documents.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/loans/home-loan/required-documents.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Home Loan Documents</div>
@@ -12477,7 +12477,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/loans/home-loan/interest-rates.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/loans/home-loan/interest-rates.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Home Loan Interest Rate</div>
@@ -12490,7 +12490,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/loans/home-loan/home-loan-emi-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/loans/home-loan/home-loan-emi-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Home Loan EMI Calculator</div>
@@ -12516,7 +12516,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/loans/home-loan/home-loan-balance-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/loans/home-loan/home-loan-balance-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Home Loan Balance Transfer</div>
@@ -12559,7 +12559,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/loans/business-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/loans/business-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Business Loan</div>
@@ -12668,7 +12668,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/loans.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/loans.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Other Loans</div>
@@ -12682,7 +12682,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/loans/payday-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/loans/payday-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">PayDay Loan</div>
@@ -12695,7 +12695,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/loans/gold-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/loans/gold-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Gold Loan</div>
@@ -12708,7 +12708,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/loans/loans-against-securities.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/loans/loans-against-securities.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Loan against Securities</div>
@@ -12721,7 +12721,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/loans/education-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/loans/education-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Education Loan</div>
@@ -12734,7 +12734,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/loans/car-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/loans/car-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Car Loan</div>
@@ -12760,7 +12760,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/loans/healthcare-finance-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/loans/healthcare-finance-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Healthcare Finance Solutions</div>
@@ -12869,7 +12869,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/loans/smart-emi/store-locator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/loans/smart-emi/store-locator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Locate nearest Partner Store</div>
@@ -12912,7 +12912,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Loan Account Services</div>
@@ -13012,7 +13012,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/personal-banking/investments.html">Investment &amp; Insurance </a>
+                              <a href="https://www.kotak.com/en/personal-banking/investments.html">Investment &amp; Insurance </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -13049,7 +13049,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/investments.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/investments.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Investments</div>
@@ -13063,7 +13063,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/investments/investments-ki-baatein.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/investments/investments-ki-baatein.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Investments Ki Baatein with Nilesh Shah</div>
@@ -13089,7 +13089,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/investments/mutual-funds/kotak-cherry.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/investments/mutual-funds/kotak-cherry.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Kotak Cherry</div>
@@ -13102,7 +13102,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/investments/mutual-funds/sip-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/investments/mutual-funds/sip-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Sip Calculator</div>
@@ -13115,7 +13115,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/investments/mutual-funds/mutual-funds-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/investments/mutual-funds/mutual-funds-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Mutual Fund Calculator</div>
@@ -13128,7 +13128,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/investments/mutual-funds/lumpsum-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/investments/mutual-funds/lumpsum-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Lump Sum Calculator</div>
@@ -13141,7 +13141,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/investments/demat-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/investments/demat-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">DEMAT account</div>
@@ -13154,7 +13154,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/investments/asba-facility.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/investments/asba-facility.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Kotak ASBA Facility</div>
@@ -13167,7 +13167,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/accounts/bank-demat-trading.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/accounts/bank-demat-trading.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Stocks</div>
@@ -13180,7 +13180,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/investments/portfolio-management.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/investments/portfolio-management.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Portfolio Management Service</div>
@@ -13193,7 +13193,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/investments/tax-saving.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/investments/tax-saving.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Tax saving investments</div>
@@ -13206,7 +13206,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/investments/national-pension-system.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/investments/national-pension-system.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">National Pension System</div>
@@ -13219,7 +13219,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/investments/sovereign-gold-bond-scheme.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/investments/sovereign-gold-bond-scheme.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Sovereign Gold Bonds</div>
@@ -13262,7 +13262,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/insurance/life-insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/insurance/life-insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Life Insurance</div>
@@ -13276,7 +13276,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/insurance/life-insurance/protection-plans.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/insurance/life-insurance/protection-plans.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Protection Plans</div>
@@ -13289,7 +13289,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/insurance/life-insurance/savings-and-investment-plans.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/insurance/life-insurance/savings-and-investment-plans.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Savings and Investment Plans</div>
@@ -13302,7 +13302,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/insurance/life-insurance/ulips.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/insurance/life-insurance/ulips.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">ULIPs</div>
@@ -13315,7 +13315,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/insurance/life-insurance/retirement-plans.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/insurance/life-insurance/retirement-plans.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Retirement plans</div>
@@ -13358,7 +13358,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All General Insurance</div>
@@ -13372,7 +13372,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/insurance/health-insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/insurance/health-insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Health Insurance</div>
@@ -13385,7 +13385,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/insurance/kotak-group-accident-protect.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/insurance/kotak-group-accident-protect.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Group Accident Protect</div>
@@ -13398,7 +13398,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/insurance/car-insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/insurance/car-insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Car Insurance</div>
@@ -13411,7 +13411,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/insurance/two-wheeler-insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/insurance/two-wheeler-insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Two wheeler Insurance</div>
@@ -13454,7 +13454,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/deposits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/deposits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Deposits</div>
@@ -13468,7 +13468,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/deposits/fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/deposits/fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Fixed Deposit</div>
@@ -13481,7 +13481,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/deposits/recurring-deposits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/deposits/recurring-deposits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Recurring Deposit</div>
@@ -13494,7 +13494,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/deposits/tax-saving-fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/deposits/tax-saving-fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Tax Saving Fixed Deposit</div>
@@ -13507,7 +13507,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/deposits/senior-citizen-fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/deposits/senior-citizen-fixed-deposit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Senior Citizen Fixed Deposit</div>
@@ -13520,7 +13520,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/deposits/fixed-deposit/fixed-deposit-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/deposits/fixed-deposit/fixed-deposit-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Fixed Deposit Calculator</div>
@@ -13533,7 +13533,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/deposits/recurring-deposits/recurring-deposit-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/deposits/recurring-deposits/recurring-deposit-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Recurring Deposit Calculator</div>
@@ -13576,7 +13576,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Government Schemes</div>
@@ -13590,7 +13590,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/investments/national-pension-system.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/investments/national-pension-system.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">National Pension Scheme (NPS)</div>
@@ -13603,7 +13603,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/investments/national-pension-system/nps-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/investments/national-pension-system/nps-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">NPS Calculator</div>
@@ -13616,7 +13616,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/insurance/pradhan-mantri-jeevan-jyoti-bima-yojana.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/insurance/pradhan-mantri-jeevan-jyoti-bima-yojana.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Pradhan Mantri Jeevan Jyoti Bima Yojana</div>
@@ -13629,7 +13629,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/insurance/pradhan-mantri-suraksha-bima-yojana.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/insurance/pradhan-mantri-suraksha-bima-yojana.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Pradhan Mantri Suraksha Bima Yojana</div>
@@ -13642,7 +13642,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/insurance/atal-pension-yojana.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/insurance/atal-pension-yojana.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Atal Pension Yojana</div>
@@ -13655,7 +13655,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/investments/rbi-bonds.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/investments/rbi-bonds.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">RBI - Floating Rate Savings Bond, 2020 (T)</div>
@@ -13668,7 +13668,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/investments/sovereign-gold-bond-scheme.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/investments/sovereign-gold-bond-scheme.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Sovereign Gold Bond Scheme</div>
@@ -13739,7 +13739,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/digital-banking/insta-services/money-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/digital-banking/insta-services/money-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Money Transfer / Forex</div>
@@ -13753,7 +13753,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/digital-banking/insta-services/money-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/digital-banking/insta-services/money-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Money Transfer (NEFT/RTGS/IMPS)</div>
@@ -13766,7 +13766,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/digital-banking/ways-to-bank/bhim-upi.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/digital-banking/ways-to-bank/bhim-upi.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">UPI</div>
@@ -13779,7 +13779,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/digital-banking/insta-services/scan-any-qr.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/digital-banking/insta-services/scan-any-qr.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Scan Any QR</div>
@@ -13792,7 +13792,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/digital-banking/insta-services/pay-your-contact.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/digital-banking/insta-services/pay-your-contact.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Pay your contact</div>
@@ -13805,7 +13805,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/digital-banking/insta-services/send-money-abroad.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/digital-banking/insta-services/send-money-abroad.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Send money abroad</div>
@@ -13818,7 +13818,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/digital-banking/insta-services/foreign-currency-cash.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/digital-banking/insta-services/foreign-currency-cash.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Foreign Currency Cash Services</div>
@@ -13831,7 +13831,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/prepaid-card/forex-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/prepaid-card/forex-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Buy Forex Card</div>
@@ -13874,7 +13874,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Bill Payments / Recharges via BillDesk</div>
@@ -13888,7 +13888,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="javascript:void(0);" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3" data-toggle="modal" data-target="#overlay-1609938547637">
+                                <a href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3" data-toggle="modal" data-target="#overlay-1609938547637">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Utility payments</div>
@@ -13901,7 +13901,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="javascript:void(0);" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3" data-toggle="modal" data-target="#overlay-1609938547637">
+                                <a href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3" data-toggle="modal" data-target="#overlay-1609938547637">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Mobile / Landline postpaid bill payment</div>
@@ -13940,7 +13940,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="javascript:void(0);" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3" data-toggle="modal" data-target="#overlay-1609938547637">
+                                <a href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3" data-toggle="modal" data-target="#overlay-1609938547637">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Mobile prepaid recharge</div>
@@ -13953,7 +13953,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="javascript:void(0);" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3" data-toggle="modal" data-target="#overlay-1609938547637">
+                                <a href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3" data-toggle="modal" data-target="#overlay-1609938547637">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">View all payments / recharges</div>
@@ -13996,7 +13996,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Loan &amp; Card Payment</div>
@@ -14079,7 +14079,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/taxes.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/taxes.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Tax Payment</div>
@@ -14093,7 +14093,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/taxes/direct-income-tax-payment.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/taxes/direct-income-tax-payment.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Income Tax Payment</div>
@@ -14106,7 +14106,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/taxes/gst.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/taxes/gst.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Goods &amp; Services Tax (GST)</div>
@@ -14119,7 +14119,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/taxes/customs-duty.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/taxes/customs-duty.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Customs Duty Payment</div>
@@ -14132,7 +14132,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/taxes/direct-income-tax-payment/bulk-upload-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/taxes/direct-income-tax-payment/bulk-upload-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Bulk Tax Payment Solutions</div>
@@ -14249,7 +14249,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/offers.html">Offers </a>
+                              <a href="https://www.kotak.com/en/offers.html">Offers </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -14556,7 +14556,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Popular Offers</div>
@@ -14630,7 +14630,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/customer-service/service-request.html">Service Request </a>
+                              <a href="https://www.kotak.com/en/customer-service/service-request.html">Service Request </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -14667,7 +14667,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Update Profile</div>
@@ -14750,7 +14750,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Saving and Current Accounts</div>
@@ -14911,7 +14911,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Debit and Credit Cards</div>
@@ -14925,7 +14925,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/transaction-services/coft.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/transaction-services/coft.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Card Token Management</div>
@@ -14938,7 +14938,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/transaction-services/generate-pin.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/transaction-services/generate-pin.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Generate PIN for all your Kotak cards</div>
@@ -14951,7 +14951,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/transaction-services/block-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/transaction-services/block-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Activate or deactivate your card</div>
@@ -14964,7 +14964,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/transaction-services/report-lost-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/transaction-services/report-lost-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Report a lost or stolen card</div>
@@ -14977,7 +14977,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/transaction-services/international-usage.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/transaction-services/international-usage.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Set your card for international usage</div>
@@ -14990,7 +14990,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/transaction-services/apply-new-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/transaction-services/apply-new-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Apply for New Debit Card</div>
@@ -15003,7 +15003,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/transaction-services/image-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/transaction-services/image-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Personalize your Debit Card from over 70+ images</div>
@@ -15059,7 +15059,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Personal Loans</div>
@@ -15181,7 +15181,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Home Loans</div>
@@ -15290,7 +15290,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/customer-service/service-request.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Business Loans / Loan Against Property / Payday Loans</div>
@@ -15379,7 +15379,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/accounts/current-accounts.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/accounts/current-accounts.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Current Accounts</div>
@@ -15393,7 +15393,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/accounts/current-accounts/global-trade.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/accounts/current-accounts/global-trade.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Global Trade Current Account</div>
@@ -15406,7 +15406,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/accounts/current-accounts/start-up-premium.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/accounts/current-accounts/start-up-premium.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Startup Premium Current Account</div>
@@ -15419,7 +15419,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/accounts/current-accounts/pro.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/accounts/current-accounts/pro.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Pro Current Account</div>
@@ -15432,7 +15432,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/accounts/current-accounts/start-up-regular.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/accounts/current-accounts/start-up-regular.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Startup Regular Current Account</div>
@@ -15445,7 +15445,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/accounts/current-accounts/astra-15.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/accounts/current-accounts/astra-15.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Astra 15 Current Account</div>
@@ -15458,7 +15458,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/accounts/current-accounts/ace.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/accounts/current-accounts/ace.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Ace Current Account</div>
@@ -15471,7 +15471,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/accounts/current-accounts/astra-05.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/accounts/current-accounts/astra-05.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Astra 05 Current Account</div>
@@ -15484,7 +15484,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/accounts/current-accounts/elite.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/accounts/current-accounts/elite.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Elite Current Account</div>
@@ -15527,7 +15527,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/accounts/current-accounts/fees-and-charges.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/accounts/current-accounts/fees-and-charges.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Fees and Charges - Current Account</div>
@@ -15541,7 +15541,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec"></div>
@@ -15584,7 +15584,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/accounts/retail-institutional-accounts.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/accounts/retail-institutional-accounts.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Retail Institutions Account (TASC)</div>
@@ -15598,7 +15598,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec"></div>
@@ -15641,7 +15641,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/privy-league.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/privy-league.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Privy League</div>
@@ -15655,7 +15655,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/privy-league/programmes.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/privy-league/programmes.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Privy League Programmes</div>
@@ -15668,7 +15668,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/privy-league/privileges.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/privy-league/privileges.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Privy Offerings</div>
@@ -15711,7 +15711,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/accounts/corporate-salary-account/corporate-benefits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/accounts/corporate-salary-account/corporate-benefits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Salary2Wealth - Corporate Benefit</div>
@@ -15725,7 +15725,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/accounts/corporate-salary-account/edge-salary-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/accounts/corporate-salary-account/edge-salary-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Edge Salary Account</div>
@@ -15768,7 +15768,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/accounts/government-business.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/accounts/government-business.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Government Business</div>
@@ -15782,7 +15782,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/accounts/government-business/customised-and-innovative-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/accounts/government-business/customised-and-innovative-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Customised and Innovative Solutions</div>
@@ -15795,7 +15795,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/accounts/government-business/other-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/accounts/government-business/other-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Other Services</div>
@@ -15852,7 +15852,7 @@ const headerContent = `
                                 
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec"></div>
@@ -15886,7 +15886,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/business/loans.html">Loans </a>
+                              <a href="https://www.kotak.com/en/business/loans.html">Loans </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -15923,7 +15923,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/loans/business-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/loans/business-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Business Loan</div>
@@ -15950,7 +15950,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/loans/business-loan/emi-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/loans/business-loan/emi-calculator.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Business Loan EMI Calculator</div>
@@ -15963,7 +15963,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/loans/business-loan/eligibility.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/loans/business-loan/eligibility.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Eligibility</div>
@@ -15976,7 +15976,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/loans/business-loan/fees-and-charges.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/loans/business-loan/fees-and-charges.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Fees &amp; Charges</div>
@@ -15989,7 +15989,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/loans/business-loan/required-documents.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/loans/business-loan/required-documents.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Required Documents</div>
@@ -16002,7 +16002,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/loans/business-loan/receivables-against-creditcard.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/loans/business-loan/receivables-against-creditcard.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Credit Card Receivables</div>
@@ -16045,7 +16045,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/working-capital.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/working-capital.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Working Capital</div>
@@ -16059,7 +16059,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/corporate/solutions/finance-my-business/working-capital-finance/apply-for-working-capital-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/corporate/solutions/finance-my-business/working-capital-finance/apply-for-working-capital-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Apply Now</div>
@@ -16072,7 +16072,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/working-capital/channel-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/working-capital/channel-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Channel Finance</div>
@@ -16085,7 +16085,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/working-capital/dealer-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/working-capital/dealer-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Dealer Finance</div>
@@ -16098,7 +16098,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/working-capital/agri-business.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/working-capital/agri-business.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Agri SME Business</div>
@@ -16111,7 +16111,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/working-capital/transportation-logistics.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/working-capital/transportation-logistics.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Transportation, Logistics, Warehouse</div>
@@ -16124,7 +16124,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/working-capital/infrastructure-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/working-capital/infrastructure-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Infrastructure Finance</div>
@@ -16137,7 +16137,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="javascript:void(0);" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3" data-toggle="modal" data-target="#overlay-1532420790151">
+                                <a href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3" data-toggle="modal" data-target="#overlay-1532420790151">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Submit e-financials</div>
@@ -16180,7 +16180,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Other Loans</div>
@@ -16194,7 +16194,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/loans/loan-against-property.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/loans/loan-against-property.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Loan Against Property</div>
@@ -16207,7 +16207,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/loans/commercial-vehicle-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/loans/commercial-vehicle-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Commercial Vehicle</div>
@@ -16220,7 +16220,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/loans/construction-equipment.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/loans/construction-equipment.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Construction Equipment</div>
@@ -16233,7 +16233,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/loans/agri-project-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/loans/agri-project-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Agri Project</div>
@@ -16246,7 +16246,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/loans/crop-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/loans/crop-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Crop Loan</div>
@@ -16259,7 +16259,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/loans/farm-equipment.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/loans/farm-equipment.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Farm Equipment</div>
@@ -16272,7 +16272,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/loans/healthcare-finance-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/loans/healthcare-finance-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Healthcare Finance Solutions</div>
@@ -16306,7 +16306,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/corporate/solutions/manage-collection-and-payments.html">Payment &amp; Tax Solutions </a>
+                              <a href="https://www.kotak.com/en/corporate/solutions/manage-collection-and-payments.html">Payment &amp; Tax Solutions </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -16343,7 +16343,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/corporate/solutions/manage-collection-and-payments.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/corporate/solutions/manage-collection-and-payments.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Payment Solutions</div>
@@ -16357,7 +16357,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/digital-banking/business-solutions/bharat-qr-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/digital-banking/business-solutions/bharat-qr-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Bharat QR Solution</div>
@@ -16370,7 +16370,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/digital-banking/business-solutions/point-of-sale-machine.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/digital-banking/business-solutions/point-of-sale-machine.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Point of sale Machine(POS)</div>
@@ -16383,7 +16383,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/digital-banking/business-solutions/bulk-upload-facility.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/digital-banking/business-solutions/bulk-upload-facility.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Bulk Upload Facility</div>
@@ -16396,7 +16396,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/digital-banking/business-solutions/kotak-biz.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/digital-banking/business-solutions/kotak-biz.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Kotak.biz App</div>
@@ -16439,7 +16439,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/digital-banking/insta-services/money-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/digital-banking/insta-services/money-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Money Transfer</div>
@@ -16453,7 +16453,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/digital-banking/insta-services/money-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/digital-banking/insta-services/money-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Fund Transfer (NEFT, RTGS &amp; IMPS)</div>
@@ -16466,7 +16466,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/digital-banking/ways-to-bank/bhim-upi.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/digital-banking/ways-to-bank/bhim-upi.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">UPI</div>
@@ -16479,7 +16479,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/digital-banking/insta-services/pay-your-contact.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/digital-banking/insta-services/pay-your-contact.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Pay your contact</div>
@@ -16492,7 +16492,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/digital-banking/insta-services/send-money-abroad.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/digital-banking/insta-services/send-money-abroad.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Send money abroad</div>
@@ -16535,7 +16535,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Bill payments/Recharges</div>
@@ -16657,7 +16657,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Loan/Card Payment</div>
@@ -16740,7 +16740,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/taxes.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/taxes.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Tax Payment</div>
@@ -16754,7 +16754,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/taxes/direct-income-tax-payment.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/taxes/direct-income-tax-payment.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Income Tax Payment</div>
@@ -16767,7 +16767,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/taxes/gst.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/taxes/gst.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Goods &amp; Services Tax (GST)</div>
@@ -16780,7 +16780,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/taxes/customs-duty.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/taxes/customs-duty.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Customs Duty Payment</div>
@@ -16793,7 +16793,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/taxes/direct-income-tax-payment/bulk-upload-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/taxes/direct-income-tax-payment/bulk-upload-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Bulk Upload Solutions</div>
@@ -16827,7 +16827,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/business/trade-services.html">Trade Services </a>
+                              <a href="https://www.kotak.com/en/business/trade-services.html">Trade Services </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -16864,7 +16864,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/trade-services/domestic.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/trade-services/domestic.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Domestic</div>
@@ -16908,7 +16908,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/trade-services/international-exports.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/trade-services/international-exports.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All International - Exports</div>
@@ -16952,7 +16952,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/trade-services/international-imports.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/trade-services/international-imports.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All International - Imports</div>
@@ -16996,7 +16996,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/working-capital/non-fund-based/bank-guarantee.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/working-capital/non-fund-based/bank-guarantee.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Bank Guarantee</div>
@@ -17040,7 +17040,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/working-capital/non-fund-based/letter-of-credit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/working-capital/non-fund-based/letter-of-credit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Letter of Credit</div>
@@ -17084,7 +17084,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/working-capital/fund-based/export-credit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/working-capital/fund-based/export-credit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Export Credit</div>
@@ -17128,7 +17128,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/working-capital/fund-based/import-credit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/working-capital/fund-based/import-credit.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Import credit</div>
@@ -17163,7 +17163,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/business/offers-beyond-banking.html">Offers Beyond Banking </a>
+                              <a href="https://www.kotak.com/en/business/offers-beyond-banking.html">Offers Beyond Banking </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -17200,7 +17200,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/offers-beyond-banking.html?category=business+management" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/offers-beyond-banking.html?category=business+management" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Business Management &amp; Marketing</div>
@@ -17244,7 +17244,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/offers-beyond-banking.html?category=erp+_and_+accounting" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/offers-beyond-banking.html?category=erp+_and_+accounting" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All ERP &amp; Accounting</div>
@@ -17288,7 +17288,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/offers-beyond-banking.html?category=logistics" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/offers-beyond-banking.html?category=logistics" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Logistics</div>
@@ -17332,7 +17332,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/offers-beyond-banking.html?category=human+resource" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/offers-beyond-banking.html?category=human+resource" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Human Resource</div>
@@ -17376,7 +17376,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/offers-beyond-banking.html?category=business+travel" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/offers-beyond-banking.html?category=business+travel" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Business Travel</div>
@@ -17420,7 +17420,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/offers-beyond-banking.html?category=co-working+space" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/offers-beyond-banking.html?category=co-working+space" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Co-working Space</div>
@@ -17464,7 +17464,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/offers-beyond-banking.html?category=taxation+_and_+legal" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/offers-beyond-banking.html?category=taxation+_and_+legal" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Taxation &amp; Legal</div>
@@ -17508,7 +17508,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/offers-beyond-banking.html?category=healthcare+solutions" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/offers-beyond-banking.html?category=healthcare+solutions" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Healthcare Solutions</div>
@@ -17552,7 +17552,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/business/offers-beyond-banking.html?category=industry+insights" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/business/offers-beyond-banking.html?category=industry+insights" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Industry Insights</div>
@@ -17591,7 +17591,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/corporate/solutions.html">Explore Products  </a>
+                              <a href="https://www.kotak.com/en/corporate/solutions.html">Explore Products  </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -17628,7 +17628,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/corporate/cash-management-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/corporate/cash-management-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Cash Management Services</div>
@@ -17642,7 +17642,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/corporate/cash-management-services/digital-payments.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/corporate/cash-management-services/digital-payments.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Digital Payments</div>
@@ -17655,7 +17655,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/corporate/cash-management-services/physical-collection.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/corporate/cash-management-services/physical-collection.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Physical Collections</div>
@@ -17668,7 +17668,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/corporate/cash-management-services/digital-collections.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/corporate/cash-management-services/digital-collections.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Digital Collections</div>
@@ -17681,7 +17681,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/corporate/cash-management-services/allpay-payment-gateway.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/corporate/cash-management-services/allpay-payment-gateway.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Allpay Payment Gateway</div>
@@ -17724,7 +17724,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/corporate/trade-supply-chain-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/corporate/trade-supply-chain-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Trade &amp; Supply Chain Finance</div>
@@ -17738,7 +17738,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/corporate/trade-supply-chain-finance/import-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/corporate/trade-supply-chain-finance/import-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Import Finance</div>
@@ -17751,7 +17751,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/corporate/trade-supply-chain-finance/export-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/corporate/trade-supply-chain-finance/export-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Export Finance</div>
@@ -17764,7 +17764,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/corporate/trade-supply-chain-finance/supply-chain-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/corporate/trade-supply-chain-finance/supply-chain-finance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Domestic Trade &amp; Supply Chain Finance</div>
@@ -17807,7 +17807,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/corporate/trade-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/corporate/trade-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Trade Service</div>
@@ -17821,7 +17821,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/corporate/trade-services/remittances.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/corporate/trade-services/remittances.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Remittances</div>
@@ -17834,7 +17834,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/corporate/trade-services/imports.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/corporate/trade-services/imports.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Import</div>
@@ -17847,7 +17847,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/corporate/trade-services/exports.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/corporate/trade-services/exports.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Export</div>
@@ -17860,7 +17860,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/corporate/trade-services/others.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/corporate/trade-services/others.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Others Trade Services</div>
@@ -17894,7 +17894,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/corporate/sector-expertise.html">Sector  Expertise </a>
+                              <a href="https://www.kotak.com/en/corporate/sector-expertise.html">Sector  Expertise </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -17922,7 +17922,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/corporate/sector-expertise.html">Accounts </a>
+                              <a href="https://www.kotak.com/en/corporate/sector-expertise.html">Accounts </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -17959,7 +17959,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All </div>
@@ -17973,7 +17973,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/corporate/rera.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/corporate/rera.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">RERA</div>
@@ -17986,7 +17986,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/corporate/csr-and-unspent-csr.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/corporate/csr-and-unspent-csr.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">CSR and Unspent CSR Account</div>
@@ -18061,7 +18061,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/kotak-private-banking.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/kotak-private-banking.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Kotak Private Banking</div>
@@ -18105,7 +18105,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/kotak-private.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/kotak-private.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     <div class="mb-li-dec">Learn more
                                     </div>
@@ -18150,7 +18150,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/kotak-private-banking/our-accolades.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/kotak-private-banking/our-accolades.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Awards &amp; Accolades</div>
@@ -18222,7 +18222,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/kotak-private-banking/investment-management.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/kotak-private-banking/investment-management.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Investment Management </div>
@@ -18266,7 +18266,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/kotak-private-banking/banking-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/kotak-private-banking/banking-solutions.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Banking Solutions</div>
@@ -18305,7 +18305,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/personal-banking/privy-league.html">Privy League <br>Overview  </a>
+                              <a href="https://www.kotak.com/en/personal-banking/privy-league.html">Privy League <br>Overview  </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -18333,7 +18333,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/personal-banking/privy-league/programmes.html">Privy League<br> Programmes  </a>
+                              <a href="https://www.kotak.com/en/personal-banking/privy-league/programmes.html">Privy League<br> Programmes  </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -18370,7 +18370,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Customized Programmes</div>
@@ -18384,7 +18384,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/privy-league/programmes/black.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/privy-league/programmes/black.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Privy League Black</div>
@@ -18397,7 +18397,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/privy-league/programmes/platinum.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/privy-league/programmes/platinum.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Privy League Platinum</div>
@@ -18410,7 +18410,7 @@ const headerContent = `
                                 </a>
                               </li>
 <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/privy-league/programmes/neon.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/privy-league/programmes/neon.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec">Privy League Neon</div>
@@ -18444,7 +18444,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/personal-banking/privy-league/privileges.html">Privy<br>Offerings  </a>
+                              <a href="https://www.kotak.com/en/personal-banking/privy-league/privileges.html">Privy<br>Offerings  </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -18476,7 +18476,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/personal-banking/nri/accounts-deposits.html">NRI Accounts &amp; Deposits </a>
+                              <a href="https://www.kotak.com/en/personal-banking/nri/accounts-deposits.html">NRI Accounts &amp; Deposits </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -18513,7 +18513,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/nri/accounts-deposits/saving-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/nri/accounts-deposits/saving-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Savings Account</div>
@@ -18557,7 +18557,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/nri/accounts-deposits/current-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/nri/accounts-deposits/current-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Current Account</div>
@@ -18601,7 +18601,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/nri/accounts-deposits/deposits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/nri/accounts-deposits/deposits.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Deposits</div>
@@ -18645,7 +18645,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/nri/accounts-deposits/structured-products.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/nri/accounts-deposits/structured-products.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Structured Products</div>
@@ -18689,7 +18689,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/nri/accounts-deposits/special-products.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/nri/accounts-deposits/special-products.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Special Products</div>
@@ -18724,7 +18724,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/personal-banking/nri/transfer-money.html">NRI Money Transfer </a>
+                              <a href="https://www.kotak.com/en/personal-banking/nri/transfer-money.html">NRI Money Transfer </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -18761,7 +18761,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/nri/transfer-money/wire-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/nri/transfer-money/wire-transfer.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Wire Transfer</div>
@@ -18805,7 +18805,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/nri/transfer-money/remittances-from-exchange-house.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/nri/transfer-money/remittances-from-exchange-house.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Remittances from Exchange House</div>
@@ -18849,7 +18849,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/nri/transfer-money/cheques-and-demand-drafts.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/nri/transfer-money/cheques-and-demand-drafts.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Foreign Currency Cheques</div>
@@ -18884,7 +18884,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/personal-banking/nri/loans.html">NRI Loans </a>
+                              <a href="https://www.kotak.com/en/personal-banking/nri/loans.html">NRI Loans </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -18921,7 +18921,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/nri/loans/nri-home-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/nri/loans/nri-home-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All NRI Home Loan</div>
@@ -18965,7 +18965,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/nri/loans/nri-home-improvement-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/nri/loans/nri-home-improvement-loan.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All NRI Home Improvement Loan</div>
@@ -19000,7 +19000,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/personal-banking/nri/cards.html">NRI Cards </a>
+                              <a href="https://www.kotak.com/en/personal-banking/nri/cards.html">NRI Cards </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -19037,7 +19037,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/nri/cards/credit-cards.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/nri/cards/credit-cards.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Credit Cards</div>
@@ -19081,7 +19081,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/nri/cards/debit-cards.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/nri/cards/debit-cards.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Debit Cards</div>
@@ -19125,7 +19125,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/nri/cards/prepaid-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/nri/cards/prepaid-card.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Prepaid Cards</div>
@@ -19169,7 +19169,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/debit-cards/debit-card-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/debit-cards/debit-card-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Debit Card Services</div>
@@ -19213,7 +19213,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/cards/credit-cards/credit-card-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/credit-card-services.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Credit Card Services</div>
@@ -19248,7 +19248,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/personal-banking/nri/investments-insurance.html">NRI Investment &amp; Insurance </a>
+                              <a href="https://www.kotak.com/en/personal-banking/nri/investments-insurance.html">NRI Investment &amp; Insurance </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -19285,7 +19285,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/insurance/life-insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/insurance/life-insurance.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Life Insurance</div>
@@ -19329,7 +19329,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/investments/mutual-funds.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/investments/mutual-funds.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Mutual Funds</div>
@@ -19373,7 +19373,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/investments/national-pension-system.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/investments/national-pension-system.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All National Pension System (NPS)</div>
@@ -19417,7 +19417,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/nri/investments-insurance/portfolio-investments-schemes.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/nri/investments-insurance/portfolio-investments-schemes.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Portfolio Investment Schemes</div>
@@ -19461,7 +19461,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/personal-banking/investments/demat-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/personal-banking/investments/demat-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Demat Account</div>
@@ -19496,7 +19496,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/personal-banking/nri/privy.html">NRI Privy League </a>
+                              <a href="https://www.kotak.com/en/personal-banking/nri/privy.html">NRI Privy League </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -19528,7 +19528,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/investor-relations.html">Overview </a>
+                              <a href="https://www.kotak.com/en/investor-relations.html">Overview </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -19584,7 +19584,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/investor-relations/governance.html">Governance </a>
+                              <a href="https://www.kotak.com/en/investor-relations/governance.html">Governance </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -19612,7 +19612,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/investor-relations/investor-information.html">Shareholding &amp; <br>Investor Info  </a>
+                              <a href="https://www.kotak.com/en/investor-relations/investor-information.html">Shareholding &amp; <br>Investor Info  </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -19640,7 +19640,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/investor-relations/sustainability.html">Sustainability  </a>
+                              <a href="https://www.kotak.com/en/investor-relations/sustainability.html">Sustainability  </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -19668,7 +19668,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/investor-relations/investor-information.html">Investor updates </a>
+                              <a href="https://www.kotak.com/en/investor-relations/investor-information.html">Investor updates </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -19705,7 +19705,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/investor-relations/tech-at-kotak.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/investor-relations/tech-at-kotak.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Tech@Kotak</div>
@@ -19749,7 +19749,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="/en/investor-relations/kotak811-events.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="https://www.kotak.com/en/investor-relations/kotak811-events.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Kotak811 Events</div>
@@ -19784,7 +19784,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/investor-relations/investor-information/disclosures-regulation.html">Disclosures <br>Regulation 46 and 62 </a>
+                              <a href="https://www.kotak.com/en/investor-relations/investor-information/disclosures-regulation.html">Disclosures <br>Regulation 46 and 62 </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -19812,7 +19812,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a href="/en/investor-relations/investor-information/iepf.html">IEPF </a>
+                              <a href="https://www.kotak.com/en/investor-relations/investor-information/iepf.html">IEPF </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
