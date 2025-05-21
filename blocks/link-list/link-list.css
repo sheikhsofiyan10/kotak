@@ -1,0 +1,62 @@
+.link-list-container .default-content-wrapper {
+  background-color: #ececed;
+  padding: 26px 45px;
+  border-radius: 5px;
+}
+
+.link-list-container.title-secondary h2 {
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.1;
+  font-family: "Roboto", sans-serif;
+}
+.link-list-container.title-primary h2 {
+  color: #003974;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+  line-height: 1.1;
+}
+
+.helpcenter__link-wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: start;
+  gap: 10px;
+}
+.helpcenter__link-wrapper a {
+  display: inline-block;
+}
+.helpcenter__link-wrapper a img {
+  width: 100%;
+  height: auto;
+}
+
+.helpcenter__list-item {
+  padding: 0px 45px;
+  min-height: 10px;
+  background-color: #fff;
+}
+
+.helpcenter__list-item a {
+  display: block;
+  color: #322b2b;
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+}
+.helpcenter__border-bottom {
+  padding: 15px 0;
+  border-bottom: 1px solid #e4e4e4;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.helpcenter__list-item .subheading {
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "Roboto", sans-serif;
+  line-height: 20px;
+}
