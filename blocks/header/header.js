@@ -58,7 +58,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a>Accounts &amp; Deposits</a>
+                                                     <a href="#" >Accounts &amp; Deposits</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -1520,7 +1520,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a  href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Other Card Services</div>
@@ -1635,7 +1635,7 @@ const headerContent = `
                                                             </a>
                                                       </li>
                                                         <li class="mb-sub-main-li mb-sub-main-li3">
-                                                          <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                          <a  href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                                 <div class=" mb-li-logodec">
                                                                    
                                                                   <div class="mb-li-dec"></div>
@@ -3203,7 +3203,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a>Payments &amp; Taxes</a>
+                                                     <a  href="#">Payments &amp; Taxes</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -3385,7 +3385,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a  href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Bill Payments / Recharges via BillDesk</div>
@@ -3514,7 +3514,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a  href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Loan &amp; Card Payment</div>
@@ -4104,7 +4104,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a  href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Popular Offers</div>
@@ -5811,7 +5811,7 @@ const headerContent = `
                                                     <ul class="mb-sub-main-3 mb-sub-ul level3">
                                                       <li class="mb-sub-main-li mb-sub-main-li3">
                                                         
-                                                        <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                                        <a  href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                                               <div class=" mb-li-logodec">
                                                                 
                                                                 <div class="mb-li-dec">See All Other Loans</div>
@@ -7727,7 +7727,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a>About Us</a>
+                                                     <a href="#">About Us</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -7891,7 +7891,7 @@ const headerContent = `
                                                       </span>
                                                     </div>
                                                     <div class="mb-li-dec">
-                                                     <a>Our Offerings</a>
+                                                     <a  href="#">Our Offerings</a>
                                                     </div>
                                                 </div>
                                                <div class="mobile-sub-header-right mb-div">
@@ -9709,7 +9709,7 @@ const headerContent = `
                 <div class="sub-header-menu">
                     <ul class="sub-header-ul">
                       
-                        <li class="sub-header-li" data-menu="sub-menu-detail-1"><a href="#"  target="_self" class="subheader-menutext-color">Accounts &amp; Deposits</a>
+                        <li class="sub-header-li" data-menu="sub-menu-detail-1"><a href="#" target="_self" class="subheader-menutext-color">Accounts &amp; Deposits</a>
                           <!-- <sly data-sly-test=",,,,,," data-sly-list=",,,,,,"> -->
                             
                         <!-- </sly> -->
@@ -9733,7 +9733,7 @@ const headerContent = `
                         <!-- </sly> -->
                         </li>
                         
-                        <li class="sub-header-li" data-menu="sub-menu-detail-5"><a href="#"  target="_self" class="subheader-menutext-color">Payments &amp; Taxes</a>
+                        <li class="sub-header-li" data-menu="sub-menu-detail-5"><a  href="#" target="_self" class="subheader-menutext-color">Payments &amp; Taxes</a>
                           <!-- <sly data-sly-test=",,,,,," data-sly-list=",,,,,,"> -->
                             
                         <!-- </sly> -->
@@ -10721,7 +10721,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a>Accounts &amp; Deposits </a>
+                              <a href="#" >Accounts &amp; Deposits </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -10758,7 +10758,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="https://www.kotak.com/en/personal-banking/accounts/savings-account.html" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="/en/personal-banking/accounts/savings-account.html" targe="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Savings Account</div>
@@ -12108,7 +12108,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Other Card Services</div>
@@ -12218,7 +12218,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a  href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec"></div>
@@ -12912,7 +12912,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a  href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Loan Account Services</div>
@@ -13576,7 +13576,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a  href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Government Schemes</div>
@@ -13702,7 +13702,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a>Payments &amp; Taxes </a>
+                              <a  href="#">Payments &amp; Taxes </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -13874,7 +13874,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a  href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Bill Payments / Recharges via BillDesk</div>
@@ -13996,7 +13996,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a  href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Loan &amp; Card Payment</div>
@@ -14556,7 +14556,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a  href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Popular Offers</div>
@@ -15342,7 +15342,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a>Accounts </a>
+                              <a href="#" >Accounts </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -15541,7 +15541,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a  href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec"></div>
@@ -15598,7 +15598,7 @@ const headerContent = `
                                 </a>
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a  href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec"></div>
@@ -15852,7 +15852,7 @@ const headerContent = `
                                 
                               </li>
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a  href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                     
                                     <div class="mb-li-dec"></div>
@@ -16180,7 +16180,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a  href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Other Loans</div>
@@ -16535,7 +16535,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a  href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Bill payments/Recharges</div>
@@ -16657,7 +16657,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a  href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Loan/Card Payment</div>
@@ -17959,7 +17959,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a  href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All </div>
@@ -18024,7 +18024,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a>About Us </a>
+                              <a  href="#">About Us </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -18185,7 +18185,7 @@ const headerContent = `
                               </span>
                             </div>
                             <div class="mb-li-dec">
-                              <a>Our Offerings </a>
+                              <a  href="#">Our Offerings </a>
                             </div>
                           </div>
                           <div class="mobile-sub-header-right mb-div">
@@ -18370,7 +18370,7 @@ const headerContent = `
                             <!-- level 3 -->
                             <ul class="mb-sub-main-3 mb-sub-ul level3">
                               <li class="mb-sub-main-li mb-sub-main-li3">
-                                <a href="#"  target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
+                                <a  href="#" target="_self" class=" mb-li-level1  mb-menu-text" data-mb-lilevel="level3">
                                   <div class=" mb-li-logodec">
                                     
                                     <div class="mb-li-dec">See All Customized Programmes</div>
@@ -20347,6 +20347,5 @@ const headerContent = `
     </div>
 `;
 export default function decorate(block) {
-  console.log(block, "header");
   block.innerHTML = headerContent;
 }

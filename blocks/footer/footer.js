@@ -1662,7 +1662,5 @@ export default async function decorate(block) {
 
   // block.append(footer);
 
-  console.log(block, "footer");
-
   block.innerHTML = footerContent;
 }

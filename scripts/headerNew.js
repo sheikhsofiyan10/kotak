@@ -97,7 +97,6 @@ export function loadHeaderJs() {
 
   const sub_header_li = document.querySelectorAll(".sub-header-li");
   const sub_menu_detail = document.querySelectorAll(".sub-menu-detail");
-  console.log(sub_header_li, "sub_header_li");
 
   sub_header_li.forEach((e) => e.addEventListener("mousemove", sub_header));
 
@@ -185,7 +184,6 @@ export function loadHeaderJs() {
       let noti_movile_header = (document.querySelector(
         ".mb-header-menuoffcanvas-body"
       ).style.marginTop = noti + mobile_hedar + "px");
-      console.log(noti_movile_header);
       document.querySelectorAll(".multiple-screen").forEach((elem) => {
         elem.classList.remove("multiple-screen-active");
       });

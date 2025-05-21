@@ -1,5 +1,26 @@
 // add delayed functionality here
 
+$(".testimonials > .owl-carousel.card-testimonials").owlCarousel({
+      items: 3,
+      loop: true,
+      margin: 10,
+      nav: true,
+      autoplay: false,
+      dots: false,
+      autoplayTimeout: 3000,
+      responsive: {
+        0: {
+          items: 1,
+        },
+        600: {
+          items: 1,
+        },
+        1000: {
+          items: 3,
+        },
+      },
+    });
+
 $(".carausel-tabs .owl-carousel").owlCarousel({
   items: 4,
   loop: true,
