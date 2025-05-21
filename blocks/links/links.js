@@ -4,8 +4,6 @@ import {
 
 export default async function decorate (block) {
 
-//console.log('block', block);
-
   const links = Array.from(
         document.querySelectorAll(".links.navigation.bullet a")
       );
@@ -32,7 +30,6 @@ export default async function decorate (block) {
       });
 
       const links1 = document.querySelectorAll(".navigation ul > li > a");
-     // console.log(links1);
       links1.forEach((link) => {
         const iconLink = document.createElement("a");
         iconLink.href = link.href;

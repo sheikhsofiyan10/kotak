@@ -20347,6 +20347,5 @@ const headerContent = `
     </div>
 `;
 export default function decorate(block) {
-  console.log(block, "header");
   block.innerHTML = headerContent;
 }

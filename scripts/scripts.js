@@ -131,7 +131,6 @@ function loadDelayed() {
 }
 
 window.addEventListener("load", async () => {
-  console.log("scripts.js loaded");
   setTimeout(() => {
     loadHeaderJs();
   }, 3000);

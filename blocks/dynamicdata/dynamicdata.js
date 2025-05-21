@@ -12,6 +12,5 @@ async function fetchData(block) {
   {mode:"no-cors"}
   ).then(res => res.clone().json())
   block.append(response.title);
-  console.log(response);
 
 }

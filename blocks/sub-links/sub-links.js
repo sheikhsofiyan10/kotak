@@ -1,5 +1,4 @@
 export default async function decorate(block) {
-  console.log("sublinks- block", block);
   if (block.querySelector(".sub-links.navigation.bullet>div") !== null) {
     const newWrapper1 = document.querySelector(".sub-links-container");
     const newWrapper = document.createElement("div");

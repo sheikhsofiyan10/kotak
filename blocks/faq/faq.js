@@ -1,8 +1,3 @@
-// $(".faq-wrapper .faq h3").on("click" , function(){
-
-//   console.log("Hello");
-// })
-
 const elements = document.querySelectorAll(".faq-wrapper .faq h3")
 elements.forEach(element => {
   const spanElement = document.createElement('span');

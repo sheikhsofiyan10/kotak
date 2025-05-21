@@ -1,5 +1,4 @@
 export default async function decorate(block) {
-  console.log("inside block");
   const fileName = "information.svg";
   const paraCheck = document.querySelector(".notification div > div:first-child p");
   const img = document.createElement("img");
@@ -9,7 +8,6 @@ export default async function decorate(block) {
   paraCheck.replaceWith(img);
 
   window.onload = () => {
-    console.log("inside addEventListener");
     const wrapper = document.querySelector(".notification-wrapper");
     const block = wrapper?.querySelector(".notification.block");
     if (!wrapper || !block) return;
