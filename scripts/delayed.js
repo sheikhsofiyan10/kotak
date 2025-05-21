@@ -3,7 +3,7 @@
 $(".testimonials > .owl-carousel.card-testimonials").owlCarousel({
       items: 3,
       loop: true,
-      margin: 10,
+      margin: 30,
       nav: true,
       autoplay: false,
       dots: false,
