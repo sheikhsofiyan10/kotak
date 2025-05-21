@@ -3,11 +3,7 @@ import { createOptimizedPicture } from '../../scripts/aem.js';
 export default function decorate(block) {
   /* change to ul, li */
 
-  console.log('block', block);
-
-
  const videoId = block.querySelector('p').innerHTML;
- console.log(videoId,"videoidd")
 
  block.textContent = "";
 
