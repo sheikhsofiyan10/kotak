@@ -29,7 +29,7 @@ function createCard(review) {
     <h3>${review.name}</h3>
     <p class="rating">${"⭐".repeat(review.ratings)}</p>
     <p class="desc">${review.comments}</p>
-    <p class="ohidden">${review.reviewDateLabel}: ${reviewDate}</p>
+    <p class="ohidden">${review.reviewDateLabel} ${reviewDate}</p>
   `;
 
   return card;
