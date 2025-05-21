@@ -1,0 +1,60 @@
+.offers-carousel-container h3 {
+    font-size: 28px;
+    text-align: center;
+    font-weight: 400;
+    font-family: Roboto;
+    margin-bottom: 3rem;
+}
+
+.offers-carousel .card {
+    border-radius: 4px;
+    background-color: #ececed;
+    height: 100%;
+    -webkit-transition: box-shadow .2s linear;
+    transition: box-shadow .2s linear;
+    padding: 30px;
+}
+
+.offers-carousel .card:hover {
+    box-shadow: 0 0 10px #CCC;
+}
+
+.offers-carousel img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.offers-carousel .card h4{
+    font: 18px / 1.2 Roboto, sans-serif;
+    font-weight: 600;
+    color: #333;
+    margin: 15px 0 10px;
+    min-height: 42px;
+}
+
+.offers-carousel .link-button {
+    color: red;
+    font-family: Roboto, sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.offers-carousel .link-button:hover{
+    color: #036;
+    text-decoration: none;
+}
+
+.offers-carousel .valid-info {
+    margin: 5rem 0 2rem 0;
+}
+
+.offers-carousel .owl-nav button.owl-prev {
+    background: url(https://www.kotak.com/etc/designs/kotak/clientlib-site/images/svg-icon/next.svg) no-repeat !important;
+    transform: translate(-100%, 200%);
+}
+
+.offers-carousel .owl-nav button.owl-next {
+    background: url(https://www.kotak.com/etc/designs/kotak/clientlib-site/images/svg-icon/prev.svg) no-repeat !important;
+    transform: translate(100%, 200%);
+}
