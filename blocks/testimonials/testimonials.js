@@ -27,10 +27,10 @@ function createCard(review) {
 
   card.innerHTML = `
     <h3>${review.name}</h3>
-    <p class="rating">Rating: ${"⭐".repeat(review.ratings)}</p>
-    <p>${review.comments}</p>
-    <p><strong>${review.reviewDateLabel}:</strong> ${reviewDate}</p>
- `;
+    <p class="rating">${"⭐".repeat(review.ratings)}</p>
+    <p class="desc">${review.comments}</p>
+    <p class="ohidden">${review.reviewDateLabel}: ${reviewDate}</p>
+  `;
 
   return card;
 }
