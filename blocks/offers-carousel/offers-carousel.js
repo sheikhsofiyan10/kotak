@@ -17,6 +17,8 @@ const createCardCarousel = async () => {
          <div class="card-body">
            <h4>${card.offerTitleModified}</h4>
            <p>${card.description}</p>
+        </div>
+        <div class="card-footer">
            <p class="valid-info"> Valid Till: ${card.endDate}</p>
            <p>
              <a href="#" class="link-button" target="_blank" rel="noopener">Read more</a>
