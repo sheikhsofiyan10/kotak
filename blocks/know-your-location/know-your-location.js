@@ -1,0 +1,61 @@
+export default async function decorate(block) {
+  block.innerHTML = "";
+
+  console.log("location Js loaded");
+
+  // Check if location is already stored in sessionStorage
+  const storedLat = sessionStorage.getItem("user_latitude");
+  const storedLng = sessionStorage.getItem("user_longitude");
+
+  if (storedLat && storedLng) {
+    console.log(`Latitude: ${storedLat}, Longitude: ${storedLng}`);
+    // output.textContent = `Latitude: ${storedLat}, Longitude: ${storedLng}`;
+    return;
+  }
+
+  // Check if Geolocation is supported
+  if (!navigator.geolocation) {
+    console.log("Geolocation is not supported by your browser.");
+    // output.textContent = "Geolocation is not supported by your browser.";
+    return;
+  }
+
+  // Request user's location
+  navigator.geolocation.getCurrentPosition(
+    (position) => {
+      const { latitude, longitude } = position.coords;
+
+      // Display location
+      console.log(`Latitude: ${latitude}, Longitude: ${longitude}`);
+      //   output.textContent = `Latitude: ${latitude}, Longitude: ${longitude}`;
+
+      // Save to sessionStorage (clears on browser close)
+      sessionStorage.setItem("user_latitude", latitude);
+      sessionStorage.setItem("user_longitude", longitude);
+    },
+
+    (error) => {
+      // Handle errors
+
+      switch (error.code) {
+        case error.PERMISSION_DENIED:
+          console.log(
+            "You blocked location access. Please enable it in your browser settings."
+          );
+          break;
+
+        case error.POSITION_UNAVAILABLE:
+          console.log("Location information is unavailable.");
+          break;
+
+        case error.TIMEOUT:
+          console.log("The request to get your location timed out.");
+          break;
+
+        default:
+          console.log("An unknown error occurred.");
+          break;
+      }
+    }
+  );
+}

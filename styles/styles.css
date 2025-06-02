@@ -255,6 +255,10 @@ button.secondary {
   color: var(--text-color);
 }
 
+.know-your-location-container {
+  display: none;
+}
+
 /* main img {
   //max-width: 100%;
   //width: auto;

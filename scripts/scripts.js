@@ -134,7 +134,7 @@ function loadDelayed() {
 window.addEventListener("load", async () => {
   setTimeout(() => {
     loadHeaderJs();
-    loadLocationJs();
+    // loadLocationJs();
   }, 3000);
 });
 
