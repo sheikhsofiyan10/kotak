@@ -13,6 +13,7 @@ import {
   loadCSS,
 } from "./aem.js";
 import { loadHeaderJs } from "./headerNew.js";
+import { loadLocationJs } from "./location.js";
 
 /**
  * Builds hero block and prepends to main in a new section.
@@ -133,6 +134,7 @@ function loadDelayed() {
 window.addEventListener("load", async () => {
   setTimeout(() => {
     loadHeaderJs();
+    loadLocationJs();
   }, 3000);
 });
 
