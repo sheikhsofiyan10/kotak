@@ -1,6 +1,7 @@
 import { createOptimizedPicture } from '../../scripts/aem.js';
 
 export default function decorate(block) {
+    console.log('block', block);
     document.querySelector(".carousel-wrapper").classList.add("owl-theme");
         document.querySelector(".carousel.block").classList.add("owl-theme");
         let firstDivs = document.querySelectorAll(".carousel.block > div:nth-of-type(1) > div");
